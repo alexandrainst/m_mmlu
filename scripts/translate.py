@@ -3,10 +3,12 @@ import json
 from os import PathLike
 import pathlib
 from pathlib import Path
+import re
 from typing import Optional
 
 import dicttoxml
 import xmltodict
+from xml.parsers.expat import ExpatError
 
 from deepl.translator import Translator
 
@@ -17,6 +19,15 @@ class DummyTranslator:
     def translate_text(self, text):
         self.character_count += len(text)
         return text
+
+# "Manually" try to fix xml errors that shows up in the translation
+def fix_xml_error(xml:str):
+    # Fix a missing semicolon after &quot
+    new_xml, count = re.subn(r"(quot)([^;])", r"\g<1>;\g<2>", xml)
+    print("Fixed xml error")
+    print("Old: %s" % xml)
+    print("New: %s" % new_xml)
+    return new_xml
 
 def translate_mmlu_csv(csv_path: Path, output_path: PathLike, target_lang: str, dryrun=False):
     with open("deepl_key.txt", "r") as key_file:
@@ -38,7 +49,12 @@ def translate_mmlu_csv(csv_path: Path, output_path: PathLike, target_lang: str, 
             xml = dicttoxml.dicttoxml(to_translate, root=True, attr_type=False, return_bytes=False)
             restored = xmltodict.parse(xml)
             translated = translate_text(xml)
-            translated_dict = xmltodict.parse(translated)["root"]
+            try:
+                translated_dict = xmltodict.parse(translated)["root"]
+            except ExpatError:
+                fixed_xml = fix_xml_error(translated)
+                translated_dict = xmltodict.parse(fixed_xml)["root"]
+
             output_dict = {
                 "instruction": translated_dict["ins"],
                 "option_a": translated_dict["opt_a"],
@@ -69,9 +85,12 @@ def main():
             for path in (source_dir / subset).glob("*.csv"):
                 rel_dir = path.relative_to(source_dir)
                 output_path = (out_dir / rel_dir).with_suffix(".json")
-                output_path.parent.mkdir(parents=True, exist_ok=True)
-                print(path, output_path)
-                translate_mmlu_csv(path, output_path, lang)
+                if output_path.exists():
+                    print("skipping", path, output_path)
+                else:
+                    print(path, output_path)
+                    output_path.parent.mkdir(parents=True, exist_ok=True)
+                    translate_mmlu_csv(path, output_path, lang)
 
 if __name__ == "__main__":
     main()
