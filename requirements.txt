@@ -1,3 +1,5 @@
 deepl
 dicttoxml
 xmltodict
+greynir_client @ git+ssh://git@github.com/alexandrainst/greynir_client.git
+unidecode

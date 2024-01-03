@@ -11,6 +11,8 @@ import xmltodict
 from xml.parsers.expat import ExpatError
 
 from deepl.translator import Translator
+from greynir_client.client import translate_en_to_is
+import unidecode
 
 
 class DummyTranslator:
@@ -29,31 +31,40 @@ def fix_xml_error(xml:str):
     print("New: %s" % new_xml)
     return new_xml
 
-def translate_mmlu_csv(csv_path: Path, output_path: PathLike, target_lang: str, dryrun=False):
-    with open("deepl_key.txt", "r") as key_file:
-        auth_key = key_file.read().strip()
+def translate_mmlu_csv(csv_path: Path, output_path: PathLike, target_lang: str, dryrun=False, use_xml=True):
 
     if dryrun:
         translator = DummyTranslator()
         translate_text = lambda x: translator.translate_text(x)
     else:
-        translator = Translator(auth_key)
-        translate_text = lambda x: translator.translate_text(x, source_lang="en", target_lang=target_lang, tag_handling="xml", preserve_formatting=True).text
+        if target_lang == "is":
+            with open("greynir_apikey.txt", "r") as f:
+                greynir_key = f.read().strip()
+            translate_text = lambda x: translate_en_to_is(greynir_key, [unidecode.unidecode(x)]).translations[0]["translatedText"]
+        else:
+            with open("deepl_key.txt", "r") as key_file:
+                auth_key = key_file.read().strip()
+            translator = Translator(auth_key)
+            translate_text = lambda x: translator.translate_text(x, source_lang="en", target_lang=target_lang, tag_handling="xml", preserve_formatting=True).text
 
     translated_rows = []
     with open(csv_path, "r") as f:
         reader = csv.reader(f)
         for i, row in enumerate(reader):
             instruction, option_a, option_b, option_c, option_d, answer = row
+
             to_translate = {"ins": instruction, "opt_a": option_a, "opt_b": option_b, "opt_c": option_c, "opt_d": option_d}
-            xml = dicttoxml.dicttoxml(to_translate, root=True, attr_type=False, return_bytes=False)
-            restored = xmltodict.parse(xml)
-            translated = translate_text(xml)
-            try:
-                translated_dict = xmltodict.parse(translated)["root"]
-            except ExpatError:
-                fixed_xml = fix_xml_error(translated)
-                translated_dict = xmltodict.parse(fixed_xml)["root"]
+            if use_xml:
+                xml = dicttoxml.dicttoxml(to_translate, root=True, attr_type=False, return_bytes=False)
+                restored = xmltodict.parse(xml)
+                translated = translate_text(xml)
+                try:
+                    translated_dict = xmltodict.parse(translated)["root"]
+                except ExpatError:
+                    fixed_xml = fix_xml_error(translated)
+                    translated_dict = xmltodict.parse(fixed_xml)["root"]
+            else:
+                translated_dict = {k: translate_text(v) for k, v in to_translate.items()}
 
             output_dict = {
                 "instruction": translated_dict["ins"],
@@ -74,7 +85,8 @@ def translate_mmlu_csv(csv_path: Path, output_path: PathLike, target_lang: str, 
 
 
 def main():
-    target_langs = ["nb"] #, "is"]
+    #target_langs = ["nb"] #, "is"]
+    target_langs = ["is"]
     source_dir = Path("data/")
 
     for lang in target_langs:
@@ -90,7 +102,11 @@ def main():
                 else:
                     print(path, output_path)
                     output_path.parent.mkdir(parents=True, exist_ok=True)
-                    translate_mmlu_csv(path, output_path, lang)
+                    if lang == "is":
+                        use_xml = False
+                    else:
+                        use_xml = True
+                    translate_mmlu_csv(path, output_path, lang, use_xml=use_xml)
 
 if __name__ == "__main__":
     main()
