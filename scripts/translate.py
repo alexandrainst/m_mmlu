@@ -1,10 +1,8 @@
 import csv
 import json
 from os import PathLike
-import pathlib
 from pathlib import Path
 import re
-from typing import Optional
 
 import dicttoxml
 import xmltodict
@@ -12,40 +10,12 @@ from xml.parsers.expat import ExpatError
 
 from deepl.translator import Translator
 from greynir_client.client import translate_en_to_is
-import unidecode
 
-
-class DummyTranslator:
-    def __init__(self):
-        self.character_count = 0
-    def translate_text(self, text):
-        self.character_count += len(text)
-        return text
-
-# "Manually" try to fix xml errors that shows up in the translation
-def fix_xml_error(xml:str):
-    # Fix a missing semicolon after &quot
-    new_xml, count = re.subn(r"(quot)([^;])", r"\g<1>;\g<2>", xml)
-    print("Fixed xml error")
-    print("Old: %s" % xml)
-    print("New: %s" % new_xml)
-    return new_xml
+import utils
 
 def translate_mmlu_csv(csv_path: Path, output_path: PathLike, target_lang: str, dryrun=False, use_xml=True):
 
-    if dryrun:
-        translator = DummyTranslator()
-        translate_text = lambda x: translator.translate_text(x)
-    else:
-        if target_lang == "is":
-            with open("greynir_apikey.txt", "r") as f:
-                greynir_key = f.read().strip()
-            translate_text = lambda x: translate_en_to_is(greynir_key, [unidecode.unidecode(x)]).translations[0]["translatedText"]
-        else:
-            with open("deepl_key.txt", "r") as key_file:
-                auth_key = key_file.read().strip()
-            translator = Translator(auth_key)
-            translate_text = lambda x: translator.translate_text(x, source_lang="en", target_lang=target_lang, tag_handling="xml", preserve_formatting=True).text
+    translate_text = utils.get_translator(target_lang, dryrun)
 
     translated_rows = []
     with open(csv_path, "r") as f:
@@ -61,7 +31,7 @@ def translate_mmlu_csv(csv_path: Path, output_path: PathLike, target_lang: str, 
                 try:
                     translated_dict = xmltodict.parse(translated)["root"]
                 except ExpatError:
-                    fixed_xml = fix_xml_error(translated)
+                    fixed_xml = utils.fix_xml_error(translated)
                     translated_dict = xmltodict.parse(fixed_xml)["root"]
             else:
                 translated_dict = {k: translate_text(v) for k, v in to_translate.items()}
