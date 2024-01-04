@@ -25,7 +25,7 @@ def dir_to_dict(json_dir:Path):
 
 
 def main():
-    for lang in ["nb"]:
+    for lang in ["is"]:
         random.seed(7243)
         for split in ["dev", "val", "test"]:
             data_dir = Path(f"data_{lang}") / split

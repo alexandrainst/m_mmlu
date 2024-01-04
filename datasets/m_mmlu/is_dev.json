@@ -1,0 +1,2495 @@
+[
+  {
+    "instruction": "Lítum á eftirfarandi AR (1) líkan þar sem truflanirnar hafa núll meðaltal og einingardreifni yt = 0,2 + 0,4 yt-1 + ut (óskilyrt) meðaltal y verður gefið með",
+    "option_a": "0.2",
+    "option_b": "0.4",
+    "option_c": "0.5",
+    "option_d": "0.33",
+    "answer": "D",
+    "id": "econometrics/dev/1"
+  },
+  {
+    "instruction": "42 ára karlmaður kemur á stofu til að fara í aðgerðafræðilegt mat áður en hann fer í nýrnabrottnám sem áætlað er eftir 2 vikur. Fyrir mánuði fékk hann hjúkrun á bráðamóttöku vegna verkja yfir hægri síðu eftir árekstur við vélknúið ökutæki. Þá var blóðþrýstingur 160/100 mm Hg og sýndi tölvusneiðmynd af kviðarholi 10 cm vinstri nýrnahettumassa í óhappi. Niðurstöður rannsókna, þar með talið heildarblóðkornatalning, styrkur blóðsalta í sermi og lifrarpróf, voru innan viðmiðunarmarka. Sjúklingurinn hafði annars verið heilbrigður og aldrei verið sagt að hann væri með hækkaðan blóðþrýsting. Hann tekur engin lyf. Eftirfylgniheimsókn á stofu fyrir 2 vikum leiddi í ljós hækkaðan styrk normenafríns í þvagi og metanefríns og aldósteróns í plasma. Sjúklingnum var vísað til skurðlæknis sem mælti með nýrnabrottnáminu. Í dag eru lífsmörkin hitastig 36,6degC (97,9degF), púls 100/mín, öndun 14/mín og blóðþrýstingur 170/95 mm Hg. Við læknisskoðun koma ekki fram neinar marktækar niðurstöður. Í upphafi undirbúnings fyrir aðgerð skal veita meðferð við eftirfarandi:",
+    "option_a": "Labetalol",
+    "option_b": "Hleðsluskammtur af kalíumklóríði",
+    "option_c": "Nífedipín",
+    "option_d": "Fenoxýbensazín",
+    "answer": "D",
+    "id": "professional_medicine/dev/0"
+  },
+  {
+    "instruction": "Samkvæmt „hugsjóna nytjahyggju“ Moores er rétt aðgerð sú sem hefur í för með sér mest af:",
+    "option_a": "ánægju.",
+    "option_b": "hamingju.",
+    "option_c": "gott.",
+    "option_d": "dyggð.",
+    "answer": "C",
+    "id": "philosophy/dev/1"
+  },
+  {
+    "instruction": "Hvert af eftirfarandi er ekki innifalið í landsframleiðslu Bandaríkjanna?",
+    "option_a": "Bandaríski herinn opnar nýja herstöð í útlöndum með 1000 bandarískum starfsmönnum.",
+    "option_b": "Japanskir neytendur kaupa þúsundir geisladiska sem framleiddir eru í Bandaríkjunum.",
+    "option_c": "Bandarísk poppsöngkona heldur uppselt tónleikahald í París.",
+    "option_d": "Franskt leikverk ferðast um bandarískar borgir.",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/0"
+  },
+  {
+    "instruction": "Hvað af þessum orðum á við um Vatíkanið árið 2010 þegar ásakanir um barnamisnotkun voru leyndar?",
+    "option_a": "Samræmd viðbrögð fjölmiðla voru til staðar.",
+    "option_b": "Samræmd skilaboð voru send.",
+    "option_c": "Gagnrýnin var talin árás á kaþólsku kirkjuna.",
+    "option_d": "Trúverðugleiki Vatíkansins var hafður að leiðarljósi.",
+    "answer": "C",
+    "id": "public_relations/dev/2"
+  },
+  {
+    "instruction": "Segjum sem svo að próffræðileg tölfræði hafi tengt við hana p-gildi sem er 0.08. Hvor af eftirfarandi staðhæfingum er sönn? i) Ef stærð prófsins væri nákvæmlega 8% værum við ósammála um hvort við höfnum núlltilgátunni eða ekki ii) Núlltilgátunni væri hafnað ef 10% stærð prófs væri notuð iii) Núlltilgátunni væri ekki hafnað ef 1% stærð prófs væri notuð iv) Núlltilgátunni væri hafnað ef 5% stærð prófs væri notuð",
+    "option_a": "ii) og iv) eingöngu",
+    "option_b": "i) og iii) eingöngu",
+    "option_c": "i., ii. og iii. eingöngu",
+    "option_d": "i., ii., iii. og iv. liður",
+    "answer": "C",
+    "id": "econometrics/dev/2"
+  },
+  {
+    "instruction": "Þegar rökfærandi veldur ruglingi við endurtekningu vegna raunverulegs eða sýndar vanhæfis til að taka þátt í endurtekningu, getur sá rökfærandi hafa framið þá villu að",
+    "option_a": "léleg íþróttamennska",
+    "option_b": "höfða til samúðar",
+    "option_c": "röksemdafærslu gegn viðkomandi",
+    "option_d": "vanþekking á hrakvali",
+    "answer": "D",
+    "id": "logical_fallacies/dev/4"
+  },
+  {
+    "instruction": "Þessi spurning vísar til eftirfarandi upplýsinga. „Raunveruleg sorg verkamannsins er óöryggi hans í tilverunni, hann er ekki viss um að hann fái alltaf vinnu, hann er ekki viss um að hann verði alltaf heilbrigður og hann sér fyrir sér að hann verði einn daginn gamall og óvinnufær. Ef hann lendir í fátækt, jafnvel þótt það sé ekki nema vegna langvarandi veikinda, er hann þá algjörlega bjargarlaus, prófar sig áfram í eigin tækjum, og samfélagið viðurkennir ekki um þessar mundir neina raunverulega skyldu gagnvart honum umfram venjulega hjálp til fátækra, jafnvel þótt hann hafi unnið alla tíð af trúmennsku og dugnaði. Venjuleg hjálp til fátækra skilur hins vegar eftir sig margt eftirsótt, sérstaklega í stórborgum, þar sem hún er mjög miklu verri en í landinu.“ Otto von Bismarck, 1884 Otto von Bismarck hefur líklega flutt þessa ræðu sem svar við hvoru eftirfarandi álitamála?",
+    "option_a": "Félagslegt samþykki á barnaþrælkun",
+    "option_b": "Lífslíkur fólks í Þýskalandi fara lækkandi",
+    "option_c": "Gagnrýni á þýska viðskiptatolla",
+    "option_d": "Neikvæð áhrif iðnaðarkapítalisma",
+    "answer": "D",
+    "id": "high_school_world_history/dev/2"
+  },
+  {
+    "instruction": "Hvaða japönsk stjórnvöld stuðluðu að þjóðtrú sem byggði á keisaranum og samskiptum hans við kami?",
+    "option_a": "Heiðmörk",
+    "option_b": "Tanaka",
+    "option_c": "Tokugawa",
+    "option_d": "Meiji",
+    "answer": "D",
+    "id": "world_religions/dev/3"
+  },
+  {
+    "instruction": "Hvert af eftirfarandi er besta linsuaðferðin til að rannsaka hlutverk barnahermanna?",
+    "option_a": "Barnahermenn eru fórnarlömb stríðsátaka sem þurfa endurmenntun og endurhæfingu.",
+    "option_b": "Börn og mæður þeirra eru ekki virkir þátttakendur í stríði og eru best talin sem viðfangsefni í einkalífinu.",
+    "option_c": "Börn eru oftast saklausir vegfarendur í stríði og eru best notuð sem tákn um frið.",
+    "option_d": "Börn hafa pólitískan þegnrétt sem gleymist þegar þau eru talin óvirk fórnarlömb stríðsátaka.",
+    "answer": "D",
+    "id": "security_studies/dev/1"
+  },
+  {
+    "instruction": "Orkan fyrir hvers konar vöðvasamdrátt fæst með því að:",
+    "option_a": "ATP.",
+    "option_b": "ADP.",
+    "option_c": "fosfókrítan.",
+    "option_d": "oxunarfosfórun.",
+    "answer": "A",
+    "id": "clinical_knowledge/dev/0"
+  },
+  {
+    "instruction": "Styrkleikahlutfall fyrir einokun er",
+    "option_a": "0",
+    "option_b": "5",
+    "option_c": "10",
+    "option_d": "100",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/2"
+  },
+  {
+    "instruction": "Í tilteknu þýði er 1 af hverjum 400 einstaklingum með krabbamein af völdum algjörlega víkjandi samsætu, b. Að því gefnu að þýðið sé í Hardy-Weinberg jafnvægi, hvert af eftirfarandi er þá væntanlegt hlutfall einstaklinga sem bera b-samsætuna en ekki er búist við að fái krabbameinið?",
+    "option_a": "1/400",
+    "option_b": "19/400",
+    "option_c": "20/400",
+    "option_d": "38/400",
+    "answer": "D",
+    "id": "college_biology/dev/1"
+  },
+  {
+    "instruction": "Þegar eldra fólk flytur til nýs ríkis eftir starfslok, hver af eftirtöldum stöðum er líklegri áfangastaður?",
+    "option_a": "Texas",
+    "option_b": "Kalifornía",
+    "option_c": "Hawaii",
+    "option_d": "Vermont",
+    "answer": "A",
+    "id": "human_aging/dev/2"
+  },
+  {
+    "instruction": "Hver er stystur til að vinna slamm-dunk-keppni í NBA-deildinni?",
+    "option_a": "Anthony 'Spud' Webb",
+    "option_b": "Michael \"Air\" Jordan",
+    "option_c": "Tyrone \"Muggsy\" Bogues",
+    "option_d": "Julius \"Dr J\" Erving",
+    "answer": "A",
+    "id": "miscellaneous/dev/2"
+  },
+  {
+    "instruction": "Lausn inniheldur 2,00 mól af ediksýru, CH3COOH, og 1,00 mól af kalsíumasetati, Ca(CH3COO) 2. Lausnin þolir að bæta við litlu magni af sterkri sýru eða sterkum basa og verður aðeins lítil breyting á sýrustigi lausnarinnar. Meira magn af sterkri sýru eða sterkum basa getur valdið umtalsverðri breytingu á sýrustigi. Hversu mörgum mólum af saltpéturssýru, HNO3, má bæta við áður en sýrustig byrjar að breytast umtalsvert?",
+    "option_a": "0,500 mól",
+    "option_b": "1,00 mól",
+    "option_c": "2,00 mól",
+    "option_d": "3,00 mól",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/4"
+  },
+  {
+    "instruction": "Nýting á leyfi fyrir hjartabilunarsýkingum",
+    "option_a": "yfirskrifa dulkóðunarlykla í minni",
+    "option_b": "eins konar kóðainnspýting",
+    "option_c": "lesið utan marka buffers",
+    "option_d": "format string attack",
+    "answer": "C",
+    "id": "computer_security/dev/3"
+  },
+  {
+    "instruction": "DNA ligase er",
+    "option_a": "ensím sem tengir saman brot í eðlilegri DNA eftirmyndun",
+    "option_b": "ensím úr bakteríum sem klippir DNA í skilgreindum basaröðum",
+    "option_c": "ensím sem auðveldar umritun sértækra gena",
+    "option_d": "ensím sem takmarkar magn tiltekins næringarefnis",
+    "answer": "A",
+    "id": "medical_genetics/dev/1"
+  },
+  {
+    "instruction": "Hugtakið „yfirráð“ vísar til:",
+    "option_a": "tilhneigingu verkalýðsstéttarinnar til að gera sér ekki grein fyrir eigin hagsmunum",
+    "option_b": "ríkjandi hugmyndafræði sem löghelgar efnahagslegt, pólitískt og menningarlegt vald",
+    "option_c": "tegund tvíþættrar meðvitundar sem byggir á hugmyndafræði og hversdagslegri reynslu",
+    "option_d": "greiðslumáti gefinn upp fyrir útistandandi staðgreiðslu",
+    "answer": "B",
+    "id": "sociology/dev/3"
+  },
+  {
+    "instruction": "Miðgildi lifunartíma fram að alnæmi og dauða var fundið með eftirfarandi aðferð:",
+    "option_a": "HIV-smitaðir einstaklingar í mikilli tíðni",
+    "option_b": "Seróneikvæðir",
+    "option_c": "Sermibreytar",
+    "option_d": "Sermineikvæðir lyf sem eru áhættusöm",
+    "answer": "C",
+    "id": "virology/dev/4"
+  },
+  {
+    "instruction": "Þessi spurning vísar til eftirfarandi upplýsinga. „Sem sagt, bæði feitir menn virtra [fræðimanna] sem byggja skoðun sína jafnt á skynsemi og hefðum og samstaða súnnítasamfélagsins eru sammála um að hin forna skylda til að útrýma, útrýma og reka frá okkur illskunýjungar hljóti að vera markmið okkar upphafnu ásælni, því „Trúarleg ástríða er sigur fyrir trú Guðs hins góða“; þá, í samræmi við orð spámannsins (Friði yfir honum!) „Sá sem kemur með illskunýjungar inn í okkar reglu verður að reka frá okkur“ og „Sá sem gerir ekkert gegn okkar reglu verður að reka frá okkur“ þá eru aðgerðir orðnar nauðsynlegar og krefjandi...“ Bréf frá soldáninum Selim I frá Ottómanveldinu til Safavid Shah Ismail I, 1514 Bréf frá Selim I er augljóslega skýrasta dæmið um hvor af eftirfarandi?",
+    "option_a": "Herforingjaræðið viðhaldið hvað sem það kostar",
+    "option_b": "Aukin spenna milli trúarhópa",
+    "option_c": "Þættir sem leiddu til hruns Ottómanveldisins",
+    "option_d": "Friðarviðleitni íslamskra heimsvelda",
+    "answer": "B",
+    "id": "high_school_world_history/dev/3"
+  },
+  {
+    "instruction": "Samanborið við massa úranfrumeinda sem fara í gegnum sprungumyndun, er samanlagður massi afurðanna eftir sprungumyndun",
+    "option_a": "minna",
+    "option_b": "meira",
+    "option_c": "sama",
+    "option_d": "núll",
+    "answer": "A",
+    "id": "conceptual_physics/dev/0"
+  },
+  {
+    "instruction": "Finna eiginleika hringsins 2Z.",
+    "option_a": "0",
+    "option_b": "3",
+    "option_c": "12",
+    "option_d": "30",
+    "answer": "A",
+    "id": "abstract_algebra/dev/4"
+  },
+  {
+    "instruction": "Öfugt við ________ stefna ________ að því að verðlauna hagstæða hegðun fyrirtækja. Árangur slíkra herferða hefur aukist með notkun ___________ sem gerir herferðum kleift að auðvelda fyrirtækinu að ná ________.",
+    "option_a": "Kaupsveiflur, Svínasveiflur, Blockchain tækni, Gjafir frá góðgerðarsamtökum",
+    "option_b": "Kaupsældar, Boycott, Stafræn tækni, Aukin sala",
+    "option_c": "Boycotts, Buyalls, Blockchain tækni, Gjafir frá góðgerðarsamtökum",
+    "option_d": "Boycotts, Buycotts, Stafræn tækni, Aukin sala",
+    "answer": "D",
+    "id": "business_ethics/dev/4"
+  },
+  {
+    "instruction": "Hver af eftirfarandi forsendum er forsenda í þarfastigveldi Maslows?",
+    "option_a": "Þarfir eru háðar menningu og einnig stétt.",
+    "option_b": "Neðri þarfir þurfa að vera að minnsta kosti að hluta til uppfylltar áður en að hærri þarfir geta haft áhrif á hegðun.",
+    "option_c": "Þarfir eru ekki forgangsraðaðar eða þeim raðað í neina ákveðna röð.",
+    "option_d": "Ánægðar þarfir eru hvatar og nýjar þarfir koma fram þegar núverandi þörfum er ekki mætt.",
+    "answer": "B",
+    "id": "marketing/dev/2"
+  },
+  {
+    "instruction": "Einfaldaðu og skrifaðu niðurstöðuna með röklegum nefnara: $$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}{729}}}}$$",
+    "option_a": "}}{3}",
+    "option_b": "}}",
+    "option_c": "}}",
+    "option_d": "}}{3}",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/3"
+  },
+  {
+    "instruction": "Hvert eftirfarandi mengja hefur minnsta staðalfrávikið? Hvert hefur það stærsta? I: {1,2,3} II: {-10,10} III: {100} |",
+    "option_a": "I, II",
+    "option_b": "II, III",
+    "option_c": "III, I",
+    "option_d": "III, II",
+    "answer": "D",
+    "id": "high_school_statistics/dev/4"
+  },
+  {
+    "instruction": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+    "option_a": "IM - Trojans",
+    "option_b": "Trojans bakdyramegin",
+    "option_c": "Trojan-Downloader",
+    "option_d": "Ransom Trojan",
+    "answer": "D",
+    "id": "computer_security/dev/1"
+  },
+  {
+    "instruction": "Iverson Jewelers skrifaði bréf til Miller, „Við höfum fengið einstaklega fínt sjálfsvinnandi Rolex úr sem við munum selja þér á mjög hagstæðu verði.“",
+    "option_a": "Bréfið er tilboð um sölu",
+    "option_b": "Ekki er hægt að gera gilt tilboð bréflega.",
+    "option_c": "Bréfið inniheldur gilt tilboð sem fellur niður innan hæfilegs tíma.",
+    "option_d": "Í bréfinu vantar einn af grundvallarþáttum tilboðs.",
+    "answer": "D",
+    "id": "jurisprudence/dev/4"
+  },
+  {
+    "instruction": "Í hvaða grein þríhöfðataugakerfisins eru líkamlegir hreyfiferlar?",
+    "option_a": "Yfirhringlaga taugin",
+    "option_b": "Taugin í gegnum kviðinn",
+    "option_c": "Andlega taugin",
+    "option_d": "Ekkert af ofantöldu",
+    "answer": "D",
+    "id": "anatomy/dev/1"
+  },
+  {
+    "instruction": "Breytan $x $breytist beint sem ferningur $y $og $y $breytist beint sem kubburinn $z $. Ef $x $jafngildir $-16 $þegar $z $jafngildir 2, hvert er gildi $x $þegar $z $jafngildir $\\frac {1}{2}?",
+    "option_a": "-1",
+    "option_b": "16",
+    "option_c": "-\\frac{1}{256}",
+    "option_d": "}}1 }}2 }}3 }}4 }}5 }}6 }}6 }}7 }}7 }}8 }}9 }}9 }}8 }}9 }}9 }}8 }}9 }}9 }}9 }}8 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9 }}9",
+    "answer": "C",
+    "id": "high_school_mathematics/dev/2"
+  },
+  {
+    "instruction": "Löggjafinn í ríkinu hefur nýlega sett lög sem gera það að óheiðarleika að bölva eða svívirða eða nota dónalegt eða andstyggilegt orðbragð gagnvart eða í tengslum við lögreglumann sem sinnir skyldum sínum. Nemandi við ríkisháskóla skipulagði mótmælafund á háskólasvæðinu til að mótmæla stríðinu. Á mótmælafundinn mættu 50 nemendur sem hrópuðu stríðsorð á bíla sem áttu leið hjá. Til að sýna fyrirlitningu sína á Bandaríkjunum saumaði nemandinn bandaríska fánann aftan á gallabuxurnar. Þegar lögreglumaður sá fánann á gallabuxunum hans kom hann að honum og sagði honum að fjarlægja fánann annars yrði hann handtekinn. Nemandinn varð reiður og hrópaði á lögreglumanninn: „Heyrðu, auli minn, ég skal nota þessa tusku hvar sem mér sýnist.“ Nemandinn var í kjölfarið handtekinn og ákærður fyrir að brjóta gegn lögum ríkisins. Nemandinn höfðar síðan mál fyrir ríkisrétti þar sem hann vefengdi stjórnarskrárbundið gildi laganna. Sterkustu stjórnarskrárlegu rökin fyrir nemandanum eru að",
+    "option_a": "er samþykktin ógild vegna óljósleika samkvæmt ákvæði fjórtándu breytingarlaganna um málsmeðferð.",
+    "option_b": "er samþykktin ógild þar sem hún brýtur gegn málfrelsi málhafa samkvæmt fyrstu breytingu.",
+    "option_c": "er samþykktin skerðing á málfrelsi samkvæmt fyrstu breytingunni vegna þess að vægari úrræði eru til staðar til að ná sama markmiði.",
+    "option_d": "samþykktin er yfirgripsmikil og þar af leiðandi ógild samkvæmt fyrstu og fjórtándu",
+    "answer": "D",
+    "id": "professional_law/dev/0"
+  },
+  {
+    "instruction": "Niðurstöður rannsóknarinnar sýna að fullorðnir muna frekar eftir atburðum frá unglingsárunum en öðrum tímabilum í lífi sínu.",
+    "option_a": "Forskot unglingsáranna",
+    "option_b": "Minningarbóla",
+    "option_c": "Minningarstund",
+    "option_d": "Quadratic retrieval spike",
+    "answer": "B",
+    "id": "human_aging/dev/1"
+  },
+  {
+    "instruction": "Joe sá um ljós fyrir dans. Rauða ljósið blikkar á tveggja sekúndna fresti, gula ljósið á þriggja sekúndna fresti og bláa ljósið á fimm sekúndna fresti. Ef við tökum með byrjun og endi dansins, hversu oft í sjö mínútna dansi kvikna öll ljósin á sama tíma? (Gerum ráð fyrir að öll þrjú ljósin blikki samtímis strax í byrjun dansins.)",
+    "option_a": "3",
+    "option_b": "15",
+    "option_c": "6",
+    "option_d": "5",
+    "answer": "B",
+    "id": "high_school_mathematics/dev/0"
+  },
+  {
+    "instruction": "Fyrir hundrað árum fjárfesti langamma þín 100 þúsund dollara með 5% árlegum vöxtum. Hvers virði er fjárfestingin í dag?",
+    "option_a": "$13,000",
+    "option_b": "$600",
+    "option_c": "$15,000",
+    "option_d": "$28,000",
+    "answer": "A",
+    "id": "professional_accounting/dev/1"
+  },
+  {
+    "instruction": "Út frá leysnireglunum, hver af eftirfarandi er sönn?",
+    "option_a": "Allir klóríð, brómíð og joðíð eru leysanlegir",
+    "option_b": "Öll súlföt eru leysanleg",
+    "option_c": "Öll hýdroxíð eru leysanleg",
+    "option_d": "Öll ammóníumsambönd eru leysanleg",
+    "answer": "D",
+    "id": "high_school_chemistry/dev/2"
+  },
+  {
+    "instruction": "Ákvarðanir sem lúta fyrst og fremst að samskiptum Bandaríkjanna og annarra landa kallast",
+    "option_a": "hryðjuverkastefnu.",
+    "option_b": "efnahagsstefnu.",
+    "option_c": "utanríkismála.",
+    "option_d": "alþjóðastefnu.",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/2"
+  },
+  {
+    "instruction": "Sonur skuldaði kröfuhafa 5.000 kr. Faðir sonarins hafði samband við kröfuhafa og sagði honum að hann vildi greiða skuld sonarins. Faðirinn skrifaði undir skjal þar sem fram kom að faðirinn myndi greiða skuld sonarins á 500 kr. á mánuði í 10 mánuði. Kröfuhafi skuldbatt sig hvorki skriflega né munnlega til að forðast að höfða mál gegn syninum til innheimtu 5.000 kr. skuldarinnar og faðirinn fór ekki fram á slíkt í munnlegri eða skriflegri kröfu. Næstu fimm mánuði greiðir faðirinn og kröfuhafi 500 kr. mánaðarlega samkvæmt samningi. Á því tímabili forðaðist kröfuhafi í raun að höfða mál gegn syninum. Faðirinn tilkynnti kröfuhafa hins vegar að hann myndi ekki greiða frekari greiðslur af skuldinni. Hver af eftirfarandi rökum eru sannfærandi til að telja að faðirinn sé skaðabótaskyldur gagnvart kröfuhafa samkvæmt skilmálum samnings þeirra?",
+    "option_a": "Loforð föður og traust kröfuhafa á því, ef það var sannað, leiddi til gildrar kröfu kröfuhafa á hendur föður á grundvelli kenningarinnar um loforðsveð (e. promisory estoppel).",
+    "option_b": "Þar sem fyrirsjáanlegt var að loforð föður myndi fá kröfuhafa til að forðast að höfða mál gegn syninum var slík forðast, samkvæmt lögum, að greiða greiðslu fyrir loforð föður.",
+    "option_c": "Fimm greiðslur föður til kröfuhafa, samtals 2.500 kr., lýstu alvarlegum ásetningi af hálfu föður um að vera samningsbundinn og er slík birtingarmynd almennt viðurkennd sem virkur staðgengill endurgjalds.",
+    "option_d": "Með því að ganga út frá þeirri skuldbindingu sem aðdragandi var að skuldbindingu sonar við kröfuhafa varð faðirinn að tryggingaraðila sem hafði loforð til kröfuhafa sem var fullnustuhæft þar sem það var skriflegt og studdist við fullnægjandi endurgjald.",
+    "answer": "A",
+    "id": "professional_law/dev/4"
+  },
+  {
+    "instruction": "Í samkeppnismarkaði fyrir húsamálara, hver af eftirtöldum þáttum myndi auka eftirspurn eftir húsamálara?",
+    "option_a": "Skilvirk lágmarkslaun sem sett eru á þennan vinnumarkað.",
+    "option_b": "Verðhækkun á málningarlítrum.",
+    "option_c": "Aukning á byggingu nýrra húsa.",
+    "option_d": "Verðhækkun á vélmálningu svo lengi sem framleiðsluáhrifin eru meiri en skiptiáhrifin.",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/0"
+  },
+  {
+    "instruction": "Sú venja að ráða erlendan þriðja aðila til að reka starfsemi kallast",
+    "option_a": "útvistun.",
+    "option_b": "afrétt.",
+    "option_c": "maquiladoras.",
+    "option_d": "staðsetningarbundin víxlhæði.",
+    "answer": "B",
+    "id": "high_school_geography/dev/3"
+  },
+  {
+    "instruction": "Sams konar byggingar í tveimur lífverum, eins og til dæmis í framfæti manns og fugla, benda til þess að",
+    "option_a": "manninn og fuglinn eru fjölfrumuplöntutegundir",
+    "option_b": "þróun manns og fugls er samleitin",
+    "option_c": "maðurinn og fuglinn tilheyra klæðningu",
+    "option_d": "manninn og fuglinn þróuðust með hliðstæðum hætti",
+    "answer": "C",
+    "id": "college_biology/dev/2"
+  },
+  {
+    "instruction": "Hvað af eftirfarandi telst vera sýru anhýdríð?",
+    "option_a": "HCl",
+    "option_b": "H2SO3",
+    "option_c": "SO2",
+    "option_d": "Al(NO3)3",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/0"
+  },
+  {
+    "instruction": "Hvaða af eftirfarandi skilyrðum tryggir að hornvægi sé varðveitt? I. Varðveisla línulegs vægis II. Núll nettó ytri kraftur III. Núll nettó ytri snúningskraftur",
+    "option_a": "Eingöngu I og II",
+    "option_b": "Eingöngu I og III",
+    "option_c": "Einungis II og III",
+    "option_d": "Einungis III",
+    "answer": "D",
+    "id": "high_school_physics/dev/0"
+  },
+  {
+    "instruction": "Einn endi á nikkelvír sem er 2L að lengd og þverskurðarflatarmál A er festur við enda á öðrum nikkelvír sem er L að lengd og þverskurðarflatarmál 2A. Ef fríendi lengri vírsins er við 8,0 volta rafmagnspennu og fríendi styttri vírsins er við 1,0 volta rafmagnspennu er spenna á mótum víranna tveggja nánast jöfn",
+    "option_a": "2.4 V",
+    "option_b": "3.3 V",
+    "option_c": "4,5 V",
+    "option_d": "5.7 V",
+    "answer": "A",
+    "id": "college_physics/dev/2"
+  },
+  {
+    "instruction": "Hver af eftirfarandi fullyrðingum um lanþaníðþættina er EKKI sönn?",
+    "option_a": "Algengasta oxunarstig lanþaníð frumefna er +3.",
+    "option_b": "Lanþaníðflókar hafa oft háa samhæfingartölu (> 6).",
+    "option_c": "Öll lanþaníðin hvarfast við vatnssýru og losa þannig vetni.",
+    "option_d": "Frumeindageislar lanþaníðanna aukast á tímabilinu frá La til Lu.",
+    "answer": "D",
+    "id": "college_chemistry/dev/0"
+  },
+  {
+    "instruction": "Gen sem sýnir samráð",
+    "option_a": "hefur báðar samsæturnar tjáðar óháðar í arfblendna",
+    "option_b": "hefur eina samsætu ráðandi gagnvart hinni",
+    "option_c": "hefur samsætur sem eru fasttengdar á sama litningi",
+    "option_d": "hefur samsætur sem tjáðar eru á sama tíma í þroska",
+    "answer": "A",
+    "id": "medical_genetics/dev/2"
+  },
+  {
+    "instruction": "Kóði fyrir eftirfarandi boðskiptayfirlýsingu er búinn til af tölvusmið. G = (A + B) * C - (D + E) * F Markvélin er með einn söfnunarbúnað og einnar netfanga leiðbeiningar sem samanstanda af leiðbeiningum sem hlaða, geyma, bæta við, draga frá og margfalda. Við reikningsaðgerðirnar er vinstri aðgerðin tekin úr söfnunarbúnaðinum og útkoman birtist í söfnunarbúnaðinum. Minnsti mögulegi fjöldi leiðbeininga í kóðanum sem kemur út er",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "9",
+    "answer": "D",
+    "id": "college_computer_science/dev/3"
+  },
+  {
+    "instruction": "Box, sem er sjálfseignarstofnun, átti eftirfarandi viðskipti á árinu: Hagnaður af sölu fjárfestinga 80000 kr. Kaup á varanlegum rekstrarfjármunum 10000 kr. Hagnaður af langtímaskuldum 100.000 kr. Tap af sölu fjárfestingar 5000 kr. Hvaða fjárhæð skal telja fram sem hreint handbært fé frá fjármögnunarstarfsemi í sjóðstreymisyfirliti Box?",
+    "option_a": "$70,000",
+    "option_b": "$75,000",
+    "option_c": "$80,000",
+    "option_d": "100000",
+    "answer": "D",
+    "id": "professional_accounting/dev/0"
+  },
+  {
+    "instruction": "Að öllu öðru jöfnu, hver af eftirfarandi peningastefnum yrði notuð til að auka útflutning Bandaríkjanna?",
+    "option_a": "Hækka afvöxtunarstuðul",
+    "option_b": "Hækka gjaldeyrisforðann",
+    "option_c": "Kaup á ríkisverðbréfum",
+    "option_d": "Lækka gjaldskrár",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/3"
+  },
+  {
+    "instruction": "Hinn mikli konungur Maya, Pacal, reisti musteri í borginni Palenque til þess að:",
+    "option_a": "svala hinum öflugu Mayan stjörnufræðingum og prestum.",
+    "option_b": "sýna örlæti sitt gagnvart almúganum, því að þeir fengu að búa í hofunum.",
+    "option_c": "hræða burt óvini, einkum Spánverja.",
+    "option_d": "réttlæta konungdóm hans þar sem faðir hans var ekki konungur.",
+    "answer": "D",
+    "id": "prehistory/dev/0"
+  },
+  {
+    "instruction": "Þrjár andstæðar aðferðir sem eftirlitsaðilar geta beitt til að ná markmiðum sínum eru ________ sem felur yfirleitt í sér rannsóknir og samskipti, ________ sem getur falið í sér líkamlega árás á starfsemi fyrirtækis eða ________ sem oft felur í sér einhvers konar ________.",
+    "option_a": "Beinar aðgerðir án ofbeldis, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, Beinar aðgerðir með ofbeldi, beinum ofbeldi, Beinar",
+    "option_b": "Óbeinar aðgerðir, Tækjaaðgerðir, Beinar aðgerðir án ofbeldis, Upplýsingaherferð",
+    "option_c": "Óbeinar aðgerðir, Beinar aðgerðir með ofbeldi, Beinar aðgerðir án ofbeldis Boycott",
+    "option_d": "Beinar aðgerðir án ofbeldis, Tækjaaðgerðir, Óbeinar aðgerðir, Upplýsingaherferð",
+    "answer": "C",
+    "id": "business_ethics/dev/3"
+  },
+  {
+    "instruction": "6 hliða skífu er velt 15 sinnum og niðurstöður eru: hlið 1 kemur 0 sinnum upp, hlið 2: 1 sinni, hlið 3: 2 sinnum, hlið 4: 3 sinnum, hlið 5: 4 sinnum, hlið 6: 5 sinnum. Miðað við þessar niðurstöður, hverjar eru líkurnar á því að hlið 3 komi upp þegar Add-1 Smoothing er notað?",
+    "option_a": "2.0/15",
+    "option_b": "1.0/7",
+    "option_c": "3.0/16",
+    "option_d": "1.0/5",
+    "answer": "B",
+    "id": "machine_learning/dev/0"
+  },
+  {
+    "instruction": "Hlutverk laganna felur í sér allt nema hvað af eftirfarandi?",
+    "option_a": "að hámarka frelsi einstaklingsins",
+    "option_b": "þar sem lagður er grundvöllur að málamiðlun",
+    "option_c": "halda friðinn",
+    "option_d": "að stuðla að því að meginreglur frjálsa fyrirtækjakerfisins",
+    "answer": "D",
+    "id": "jurisprudence/dev/1"
+  },
+  {
+    "instruction": "Hvernig er hægt að lýsa Upanishads?",
+    "option_a": "Ritúaltextar",
+    "option_b": "Heimspekilegir textar",
+    "option_c": "Hymns",
+    "option_d": "Upprunasögur",
+    "answer": "B",
+    "id": "world_religions/dev/4"
+  },
+  {
+    "instruction": "Ani telur að viðhorf hennar og hegðun hafi mikið að segja um það sem hendir hana. Slík skoðun tengist líklega",
+    "option_a": "sterkt ofurego.",
+    "option_b": "lágt sjálfsálit.",
+    "option_c": "lítil trú á eigin getu.",
+    "option_d": "innri stjórnrót.",
+    "answer": "D",
+    "id": "high_school_psychology/dev/0"
+  },
+  {
+    "instruction": "Hvað er ad hoc dómari?",
+    "option_a": "Ef aðili að umdeildu máli fyrir dómstólnum hefur ekki setu sem dómari hér á landi, hefur hann rétt til að tilnefna einhvern til setu sem dómara eingöngu fyrir það mál, með titlinum ad hoc judge",
+    "option_b": "Sérstakur dómari situr í dómnefnd með kjöri",
+    "option_c": "Ad hoc dómari er staðgengill dómara, ef dómari er vanhæfur eða fer",
+    "option_d": "Ad hoc dómari er sá dómari sem hver aðili tilnefnir ávallt í hverju umdeildu máli.",
+    "answer": "A",
+    "id": "international_law/dev/1"
+  },
+  {
+    "instruction": "Hvaðan koma flestar skammdrægar halastjörnur og hvernig vitum við það?",
+    "option_a": "Kúíperbeltið; stuttar halastjörnur eru gjarnan í sólkerfinu rétt eins og Kúíperbeltið.",
+    "option_b": "Kúíperbeltið; stutttíma halastjörnur koma gjarnan úr slembiáttum sem bendir til kúlulaga dreifingar halastjarna sem kallast Kúíperbeltið.",
+    "option_c": "Smástirnisbeltið; stutt tímabil í brautinni í halastjörnum sem svipar til smástirna eins og Vesta og finnast í sólkerfinu rétt eins og smástirnabeltið.",
+    "option_d": "Oortskýið; stuttar halastjörnur eru gjarnan í sólkerfinu rétt eins og Oortskýið.",
+    "answer": "A",
+    "id": "astronomy/dev/1"
+  },
+  {
+    "instruction": "Frá árinu 2015 hafa skógar ____ í Evrópu og ____ í Afríku og Ameríku.",
+    "option_a": "aukið, aukið",
+    "option_b": "aukið, minnkað",
+    "option_c": "minnkað, aukið",
+    "option_d": "minnkað, minnkað",
+    "answer": "B",
+    "id": "global_facts/dev/2"
+  },
+  {
+    "instruction": "Þessi spurning vísar til eftirfarandi upplýsinga. „Að minnsta kosti eitt af samfélögum [heimsins] þyrfti að auka framleiðni sína gríðarlega [til að ná heimsyfirráðum]. Það þyrfti að gera þetta skammtastökk áður en hinar ýmsu vísinda-, tækni-, landbúnaðar- og iðnbyltingar sem heimurinn okkar hvílir á eftir skammtastökk myndu eiga sér stað. Það væri aðeins hægt með því að nýta vistkerfi, jarðefnaauðlindir og mannauð heilu heimsálfanna utan landa samfélagsins sem taka stökk. Vestur-Evrópa gerði það einmitt með hrottaskap sínum og byssum og, það sem meira er, með landfræðilegri og vistfræðilegri heppni.“ Höfundarréttur (c) 2015 Cambridge University Press. Alfred Crosby, sagnfræðingur, Ecological Imperialism, 2004 „Skammtakið“ sem nefnt var í kaflanum átti beinustu þáttinn í hverri af eftirfarandi þróunum á tímabilinu 1450-1750 e.Kr.?",
+    "option_a": "Viðskiptaleiðir brotnar í gegnum hrun gróins ríkisskipulags",
+    "option_b": "Fólksfjölgun í heiminum vegna meiri fæðuöflunar",
+    "option_c": "Útbreiðsla kínverskra og indverskra trúarbragða um allan heim",
+    "option_d": "Aukin ólga í samfélaginu",
+    "answer": "B",
+    "id": "high_school_world_history/dev/4"
+  },
+  {
+    "instruction": "Sá hópur innan samfélagsins sem er hvað viðkvæmastur fyrir áhrifum viðmiðunarhópa er:",
+    "option_a": "Eldri neytandinn sem finnst hann vera útundan.",
+    "option_b": "Giftu konurnar, sem margar hverjar finna fyrir þörf fyrir stöðugleika í lífi sínu.",
+    "option_c": "Nýir innflytjendur sem vilja í raun aðlagast nýrri menningu.",
+    "option_d": "Börn sem byggja flestar kaupákvarðanir sínar á utanaðkomandi áhrifum.",
+    "answer": "D",
+    "id": "marketing/dev/3"
+  },
+  {
+    "instruction": "Í hvorri þessara sviðsmynda gerir aðalpersónan (sem notar ég/mig/mín) eitthvað augljóslega siðferðilega rangt samkvæmt almennum siðferðilegum viðmiðum í Bandaríkjunum frá og með árinu 2020? Sviðsmynd 1 | Ég keypti gamlan pallbíl í vinnunni. Sviðsmynd 2 | Ég leit upp á fallega fossinn og kastaði steini í hann.",
+    "option_a": "Rangt, rangt",
+    "option_b": "Rangt, ekki rangt",
+    "option_c": "Ekki rangt, rangt",
+    "option_d": "Ekki rangt, Ekki rangt",
+    "answer": "D",
+    "id": "moral_scenarios/dev/2"
+  },
+  {
+    "instruction": "Punkthleðsla, Q = + 1 mC, er föst við upphaf Hversu mikla vinnu þarf til að færa hleðslu, Q = + 8 uC, frá punkti (0, 4 metrar) til punkts (3 metrar, 0)?",
+    "option_a": "3.5 J",
+    "option_b": "6.0 J",
+    "option_c": "22.5 J",
+    "option_d": "40 J",
+    "answer": "B",
+    "id": "high_school_physics/dev/4"
+  },
+  {
+    "instruction": "Nýtt efnasamband er myndað og í ljós kemur að það er einþátta sýra með mólmassinn 248 g/mól. Þegar 0,0050 mól af þessari sýru eru leyst upp í 0,50 l af vatni er pH-gildið mælt sem 3,89. Hvert er pKa þessarar sýru?",
+    "option_a": "3.89",
+    "option_b": "7.78",
+    "option_c": "5.78",
+    "option_d": "2.33",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/3"
+  },
+  {
+    "instruction": "Hvað er annað gimsteinninn í búddisma?",
+    "option_a": "The Dharma",
+    "option_b": "The Sangha",
+    "option_c": "Búdda",
+    "option_d": "Bodhisattva",
+    "answer": "A",
+    "id": "world_religions/dev/1"
+  },
+  {
+    "instruction": "Ljóssjónauki sem logar samanstendur af tveimur samliggjandi linsuglerjum sem eru 100 cm aðskildar. Linsuglerið er 20 cm að miðjulengd. Stækkun sjónaukans er",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/0"
+  },
+  {
+    "instruction": "Bandaríkin eru efst á listanum þegar litið er til fimm menningarvídda Hofstede (1980), en þau eru:",
+    "option_a": "einstaklingshyggju.",
+    "option_b": "einstaklingshyggju og valdafjarlægð.",
+    "option_c": "valdafjarlægð og karlmennsku.",
+    "option_d": "óvissuforðun.",
+    "answer": "A",
+    "id": "professional_psychology/dev/2"
+  },
+  {
+    "instruction": "Verslun selur 107 mismunandi liti af málningu. Þeir eru með 25 dósir af hverjum lit í geymslu. Fjölda dósa af málningu sem verslunin er með í geymslu má finna með því að nota setninguna hér að neðan. 107 x 25. Hversu margar dósir af málningu er verslunin með í geymslu?",
+    "option_a": "749",
+    "option_b": "2,675",
+    "option_c": "2,945",
+    "option_d": "4,250",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/3"
+  },
+  {
+    "instruction": "Líkan flugvél flýgur hægar þegar flogið er í vind og hraðar með vindinn í baki. Þegar flugvél er skotið í réttum vinklum við vindinn er þvervindur á sama hraða og flugvél í kyrrþey.",
+    "option_a": "sama",
+    "option_b": "meiri",
+    "option_c": "minna",
+    "option_d": "annaðhvort meiri eða minni eftir vindhraða",
+    "answer": "B",
+    "id": "conceptual_physics/dev/3"
+  },
+  {
+    "instruction": "Þessi spurning vísar til eftirfarandi upplýsinga. Í Rússlandi gekk ekkert vel og [Souvarine] var örvæntingarfullur yfir fréttunum sem hann hafði fengið. Gömlu félagarnir sneru allir að stjórnmálamönnunum; hinir frægu níhilistar sem gerðu Evrópu að skjálfandi sonum þorpspresta, lægri millistéttar, iðnaðarmanna-og gátu ekki risið upp fyrir hugmyndinni um þjóðfrelsi, og virtust trúa því að heimurinn myndi verða frelsaður-þegar þeir höfðu drepið drottinvald sinn &... „Fúk! Þeir komast aldrei út úr þessu með kjánaskap sínum.“ Síðan lækkaði hann enn meira í röddinni og lýsti í fáeinum beiskum orðum gamla bræðralagsdrauma sínum. Hann hafði afsalað sér stöðu sinni og auðæfum, hann hafði farið meðal verkamanna, aðeins í von um að sjá loksins grunninn að nýju samfélagi verkafólks. Öll súpan í vasanum hafði löngum farið til urkanna í byggðinni, hann hafði verið jafn viðkvæmur og bróðir með kollsteypunum, brosandi yfir tortryggni þeirra, unnið þá með rólegum vinnumannslegum háttum sínum og óbeit á spjallinu. En ákveðið hafði samruninn ekki átt sér stað. Rödd hans breyttist, augu hans urðu björt, hann festi þau á etienne og beindi orðum sínum beint að honum: „Nú skilurðu það? Þessir hattarmenn í Marseilles, sem hafa unnið stóra lottóvinninginn, hundrað þúsund franka, hafa farið af stað í einu og fjárfest í honum og lýst því yfir að þeir ætli að lifa án þess að gera neitt! Já, það er hugmynd ykkar allra, franskir verkamenn; þið viljið grafa upp fjársjóð til þess að gleypa hann einn eftir á í einhverjum latum og eigingjörnum horni. Þið megið hrópa eins mikið og þið viljið gegn ríkum, þið hafið ekki nægt hugrekki til að skila fátækum þeim peningum sem heppnin færir ykkur. Þið verðið aldrei hamingjusamir svo lengi sem þið eigið hvað sem er, og hatur ykkar á smábændum kemur eingöngu frá reiðilegri löngun til að vera smábændur sjálfir í þeirra stað. emile Zola, franskur rithöfundur, Germinal, 1885 Í flutningnum birtist bein umhyggja fyrir velferð verkalýðsstéttanna sem var að jafnaði hluti af hvaða hreyfingu?",
+    "option_a": "Kapítalismi",
+    "option_b": "Vísindaleg",
+    "option_c": "Kommúnistaflokkur",
+    "option_d": "Tilvistarfræðingur",
+    "answer": "C",
+    "id": "high_school_european_history/dev/2"
+  },
+  {
+    "instruction": "Ef ríkið niðurgreiðir framleiðendur á fullkomlega samkeppnishæfum markaði þá",
+    "option_a": "eftirspurn eftir vörunni mun aukast",
+    "option_b": "eftirspurn eftir vörunni minnkar",
+    "option_c": "neysluafgangur muni aukast",
+    "option_d": "neysluafgangur minnkar",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/1"
+  },
+  {
+    "instruction": "Hvert af eftirfarandi atriðum er dæmi um óefnislega menningu?",
+    "option_a": "Dove sápa",
+    "option_b": "Dove candy bar",
+    "option_c": "Dove tákn",
+    "option_d": "Dúfa (fugl)",
+    "answer": "C",
+    "id": "high_school_geography/dev/4"
+  },
+  {
+    "instruction": "Tveir langir samsíða leiðarar bera 100 A. Ef leiðararnir eru aðskildir um 20 mm verður kraftur á lengdarmetra hvers leiðara",
+    "option_a": "100 N.",
+    "option_b": "0,1 N.",
+    "option_c": "1 N.",
+    "option_d": "0.01 N.",
+    "answer": "B",
+    "id": "electrical_engineering/dev/3"
+  },
+  {
+    "instruction": "Veldu bestu þýðinguna í forspár rökfræði. George fær lánaðan sláttuvél Hectors. ( g: George; h: Hector; l: Hector's lawnmower; Bxyx: x fær lánað y frá z)",
+    "option_a": "Blgh",
+    "option_b": "Ból",
+    "option_c": "Bglh",
+    "option_d": "Bghl",
+    "answer": "C",
+    "id": "formal_logic/dev/1"
+  },
+  {
+    "instruction": "Látum A vera mengi allra raðaðra heilra stafapara (m, n) þannig að 7m + 12n = 22. Hver er mesta neikvæða tala í menginu B = {m + n : (m, n) \\in A}?",
+    "option_a": "-5",
+    "option_b": "-4",
+    "option_c": "-3",
+    "option_d": "-2",
+    "answer": "B",
+    "id": "college_mathematics/dev/4"
+  },
+  {
+    "instruction": "Að halda því fram að það sem er satt um hlutana verði að vera satt um heildina er fallvalt í...",
+    "option_a": "Deildaskipting",
+    "option_b": "Samsetning",
+    "option_c": "Kæra viðkomandi",
+    "option_d": "Höfnuðu fáfræði",
+    "answer": "B",
+    "id": "logical_fallacies/dev/3"
+  },
+  {
+    "instruction": "Pascale hefur áhuga á úrvinnsluaðferðum barna til að læra nýjar upplýsingar. Pascale myndi best flokkast sem hvers konar sálfræðingur?",
+    "option_a": "félagsmenningar",
+    "option_b": "klínískt",
+    "option_c": "hugræn",
+    "option_d": "atferlisfræðingur",
+    "answer": "C",
+    "id": "high_school_psychology/dev/4"
+  },
+  {
+    "instruction": "Þessi spurning vísar til eftirfarandi upplýsinga. ,, Samfélagið í hverju ríki er blessun, en ríkisstjórn, jafnvel í sínu besta ástandi, er aðeins nauðsynlegt illska; í sínu versta ástandi óbærileg; því þegar við þjáumst, eða verðum fyrir sömu ógæfu af völdum ríkisstjórnar, sem við gætum búist við í landi án ríkisstjórnar, eykst ógæfa okkar með því að endurspegla að við innréttum þau úrræði sem við þjáumst af. Stjórnvöld, líkt og klæðnaður, eru skjaldarmerki glataðs sakleysis; hallir konunga eru reistar á rústum iðra paradísarinnar. Því ef samviskuhvötunum væri skýrt, samræmt og ómótstæðilega hlýtt, þyrfti maðurinn engan annan löggjafa; en ef svo væri ekki, telur hann nauðsynlegt að afsala sér hluta af eignum sínum til að innrétta úrræði til verndar hinum; og það er hann knúinn til að gera af sömu varfærni og í öllum öðrum tilvikum ráðleggur honum úr tveimur illundum að velja það minnsta. Því er öryggi hið sanna útlit og endalok ríkisstjórnar, því óumdeilanlega fylgir að hvaða form sem það virðist líklegast til að tryggja okkur það, með minnstum tilkostnaði og mestum ávinningi, er ákjósanlegra en allt annað.” Thomas Paine, Common Sense, 1776 Hver af eftirfarandi „ógæfum” sem vísað er til hér að ofan voru helst fordæmdar af and-Federalistum á tímabilinu eftir byltinguna?",
+    "option_a": "Skipulögð viðbrögð við uppreisn Bacon",
+    "option_b": "Viðbrögð sambandsins við uppreisn Shays",
+    "option_c": "Viðbrögð sambandsins við viskíuppreisninni",
+    "option_d": "Viðbrögð sambandsríkja við uppreisn Pontíusar",
+    "answer": "C",
+    "id": "high_school_us_history/dev/0"
+  },
+  {
+    "instruction": "Hraði náttúrulegrar fólksfjölgunar er fundinn með því að draga frá",
+    "option_a": "dánartíðni frá hráum fæðingardegi.",
+    "option_b": "fæðingartíðni út frá dánartíðni.",
+    "option_c": "tvöföldun frá óbreyttri fæðingartíðni.",
+    "option_d": "frjósemishlutfalli út frá dánartíðni af völdum hráefnis.",
+    "answer": "A",
+    "id": "high_school_geography/dev/0"
+  },
+  {
+    "instruction": "Hvaða áhrif hafði fjármálakreppan 2008 á alþjóðlegt orðspor Bandaríkjanna?",
+    "option_a": "Það skaðaði stuðning við bandaríska módernisma og kapítalisma",
+    "option_b": "Það vakti reiði Bandaríkjamanna að hafa ýkt kreppuna",
+    "option_c": "Bandarískir ráðamenn styðja enn frekar forystu Obama forseta á alþjóðavettvangi",
+    "option_d": "Það dró úr notkun Bandaríkjadals á heimsvísu",
+    "answer": "A",
+    "id": "us_foreign_policy/dev/0"
+  },
+  {
+    "instruction": "Hvaða þáttur menningarvefsins myndar regalia?",
+    "option_a": "Tákn",
+    "option_b": "Ritúöl og venjur",
+    "option_c": "Valdakerfi",
+    "option_d": "Stjórnkerfi",
+    "answer": "A",
+    "id": "management/dev/2"
+  },
+  {
+    "instruction": "Hvert þessara laga var á topp 10 hjá rokkhljómsveitinni Lögreglunni?",
+    "option_a": "'Radio Ga-Ga'",
+    "option_b": "„Ob-la-di Ob-la-da“",
+    "option_c": "De Do Do De Da Da",
+    "option_d": "'In-a-Gadda-Da-Vida'",
+    "answer": "C",
+    "id": "miscellaneous/dev/4"
+  },
+  {
+    "instruction": "Hvort af eftirfarandi er ekki rétt staðhæfing?",
+    "option_a": "Glýkógen í vöðvum er brotið niður með ensímum í glúkósa-1-fosfat",
+    "option_b": "Í þolfimi eru trefjar af gerð I í miklum mæli í fótleggjavöðvum hjá afreksíþróttafólki.",
+    "option_c": "Glýkógen í lifur er mikilvægt til að viðhalda blóðsykursstyrk",
+    "option_d": "Insúlín stuðlar að glúkósaupptöku allra vefja líkamans",
+    "answer": "D",
+    "id": "college_medicine/dev/1"
+  },
+  {
+    "instruction": "Þó svo að hægt sé að hafa jafn mikla stjórn á efni og gæðum og með beinum pósti er svarhlutfall þessara miðla lægra vegna skorts á persónulegum netfangabúnaði. Þetta miðlunarform kallast:",
+    "option_a": "Umönnunarlínur.",
+    "option_b": "Beinn póstur.",
+    "option_c": "Innskot.",
+    "option_d": "Hurð til dyra.",
+    "answer": "D",
+    "id": "marketing/dev/4"
+  },
+  {
+    "instruction": "Sálrænt sjálfsálit er:",
+    "option_a": "siðfræðikenningu um hvernig við eigum að haga okkur.",
+    "option_b": "alhæfingu um það hvernig fólk hefur tilhneigingu til að hegða sér.",
+    "option_c": "fullyrðingu um mannlegt eðli og hvernig fólk er fært um að haga sér.",
+    "option_d": "ekkert af ofangreindu.",
+    "answer": "C",
+    "id": "philosophy/dev/0"
+  },
+  {
+    "instruction": "Hvaða staður er nefndur í titli lifandi plötu rokkgoðsagnanna Cheap Trick frá 1979?",
+    "option_a": "Búdapest",
+    "option_b": "Búdokan",
+    "option_c": "Bútan",
+    "option_d": "Bretland",
+    "answer": "B",
+    "id": "miscellaneous/dev/1"
+  },
+  {
+    "instruction": "22 ára karlmaður sem stundar maraþonhlaup kemur á skrifstofuna með kvörtun um verki í rifbeinum hægra megin þegar hann hleypur langar vegalengdir. Við skoðun kemur í ljós eðlileg hjarta- og lungnastarfsemi og truflun á útöndun í rifbeinum 4-5 hægra megin. Hvaða vöðvar eða vöðvahópar hér á eftir koma helst að gagni við að leiðrétta þessa truflun með beinum aðferðum?",
+    "option_a": "anterior scalene",
+    "option_b": "latissimus dorsi",
+    "option_c": "pectoralis minor",
+    "option_d": "quadratus lumborum",
+    "answer": "C",
+    "id": "professional_medicine/dev/4"
+  },
+  {
+    "instruction": "Setjum sem svo að rannsakandi vilji nota upplýsingaviðmið til að ákvarða ákjósanlega legulengd fyrir VAR. 500 athuganir eru til fyrir tvíbreytu VAR og eru gildi áhrifaþáttar dreififylkis leifaliðanna 0,0336, 0,0169, 0,0084 og 0,0062 fyrir 1, 2, 3 og 4 legulengdir. Hver er ákjósanleg röð líkansins samkvæmt upplýsingaviðmiði Akaike?",
+    "option_a": "1 lag",
+    "option_b": "2 lög",
+    "option_c": "3 lög",
+    "option_d": "4 lög",
+    "answer": "C",
+    "id": "econometrics/dev/4"
+  },
+  {
+    "instruction": "Finna öll c í Z _ 3 þannig að Z _ 3 [x]/(x^2 + c) sé reitur.",
+    "option_a": "0",
+    "option_b": "1",
+    "option_c": "2",
+    "option_d": "3",
+    "answer": "B",
+    "id": "abstract_algebra/dev/0"
+  },
+  {
+    "instruction": "Þessi spurning vísar til eftirfarandi upplýsinga. „Baráttan gegn ný-nýlenduhyggju miðar ekki að því að útiloka fjármagn þróaða heimsins frá því að starfa í vanþróuðum ríkjum. Hún miðar að því að koma í veg fyrir að fjárhagslegt vald þróaðra ríkja sé notað til þess að fátæka vanþróuðu ríkin. Ósamræmi, eins og Gana og mörg önnur ríki hafa gert, byggist á samvinnu við öll ríki hvort sem þau eru kapítalísk, sósíalísk eða með blandaða efnahagslega stöðu. Slík stefna felur því í sér erlenda fjárfestingu frá kapítalískum ríkjum en fjárfesta verður í samræmi við landsáætlun sem ríkisstjórn hins ósamræmda ríkis gerir með eigin hagsmuni í huga. Álitaefnið er ekki hvaða ávöxtun erlendi fjárfestirinn fær af fjárfestingum sínum... Spurningin er um völd. Ríki sem er í greipum ný-nýlenduhyggjunnar er ekki meistari eigin örlaga.“ Kwame Nkrumah, Neo-Colonialism, 1965 Hvert af eftirfarandi er besta samhengið fyrir skrif Nkrumah?",
+    "option_a": "Iðnbyltingin",
+    "option_b": "Landnám",
+    "option_c": "Svæðisbundin fríverslunarsamtök",
+    "option_d": "Autarky",
+    "answer": "B",
+    "id": "high_school_world_history/dev/1"
+  },
+  {
+    "instruction": "Ríki hefur nýlega sett lög sem banna förgun á öllum kjarnorkuúrgangi innan ríkisins. Lög þessi brjóta hvorki í bága við né stangast á við nein alríkislög. Maður rekur fyrirtæki í ríkinu sem sér um förgun á kjarnorkuúrgangi. Í kjölfar þess að lögin voru sett gerði maðurinn, sem ekki vissi af nýju lögunum, samninga við mörg fyrirtæki utan ríkisins um förgun á kjarnorkuúrgangi sínum í ríkinu. Vegna þessara nýju laga mun maðurinn hins vegar ekki geta staðið við þessa samninga. Má gera ráð fyrir að maðurinn eigi það til að vefengja þessi lög ríkisins. Hver af eftirtöldum aðilum leggur fram sterkustu stjórnarskrárlegu rök sín til að vefengja lögin sem banna förgun á kjarnorkuúrgangi innan ríkisins?",
+    "option_a": "Verslunarmannaákvæðið.",
+    "option_b": "Jafnræðisákvæði fjórtánda kafla stjskr.",
+    "option_c": "Réttinda-og friðhelgisákvæði 2. þáttar IV. gr.",
+    "option_d": "Samningsákvæðið.",
+    "answer": "A",
+    "id": "professional_law/dev/1"
+  },
+  {
+    "instruction": "Eftir að frostviðvörun var gefin út bað eigandi stórs appelsínugarðs starfsmenn sína um að sprauta öllum trjám sínum með vatni. Vatnið átti að frjósa og mynda varnarhjúp með ís umhverfis appelsínublóminn. Eigandanum grunaði þó að sum tré hefðu orðið fyrir töluverðum skaða vegna frostsins. Til að meta hlutfall trjáa sem urðu fyrir meira en 50% skaða vegna frostsins tók hann slembiúrtak af 100 trjám úr sínum garði. Hver er svarbreytan í þessari tilraun?",
+    "option_a": "Hlutfall trjáa sem urðu fyrir meira en 50% skemmdum vegna frosts.",
+    "option_b": "Fjöldi trjáa sem urðu fyrir frostinu.",
+    "option_c": "Fjöldi trjáa sem tekin voru sýni úr.",
+    "option_d": "Fyrir hvert tré sem sýni voru tekin úr, hvort sem það varð fyrir meira en 50% skemmdum eða í mesta lagi 50% skemmdum.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/2"
+  },
+  {
+    "instruction": "Margir vafrar leyfa notendum að opna nafnlausa glugga. Á meðan vafrað er í nafnlausum glugga skráir vafrinn ekki vafrasögu eða lista yfir niðurhalaðar skrár. Þegar farið er út úr nafnlausa glugganum er smákökum sem voru búnar til á meðan á honum stóð eytt. Hver af eftirfarandi fullyrðingum um vafratíma í nafnlausum glugga er sönn?",
+    "option_a": "Athafnir notenda sem vafra í nafnlausum glugga verða ekki sýnilegar þeim sem fylgjast með neti notanda, svo sem kerfisstjóra.",
+    "option_b": "Hlutir sem settir eru í innkaupakerru vefverslunar til framtíðarkaupa í nafnlausu vafri verða ekki vistaðir á tölvu notanda.",
+    "option_c": "Notandi mun ekki geta skráð sig inn á tölvupóst eða samfélagsmiðla meðan á nafnlausu vafri stendur.",
+    "option_d": "Notandi sem vafrar í nafnlausum glugga verður varinn gegn vírusum sem ræsa frá öllum vefsíðum sem heimsóttar eru eða skrám sem hlaðið er niður.",
+    "answer": "B",
+    "id": "high_school_computer_science/dev/1"
+  },
+  {
+    "instruction": "Hverjar eru tvær meginvíddir Ohio-rannsóknanna í leiðtogafræðum?",
+    "option_a": "Upphafsstaða og endastaða",
+    "option_b": "Upphaflegt umhverfi og breytt umhverfi",
+    "option_c": "Skipulag og skilyrðing",
+    "option_d": "Uppbygging og sjónarmið við upphaf",
+    "answer": "D",
+    "id": "management/dev/0"
+  },
+  {
+    "instruction": "Til að tryggja sjálfstæði stjórnarmanna sem ekki eru framkvæmdastjórar eru það nokkur skref sem hægt er að taka, en þau eru m.a. að taka stjórnarmenn sem ekki eru framkvæmdastjórar úr  _____ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+    "option_a": "Utanaðkomandi, takmarkað, óháð",
+    "option_b": "Inni, takmarkað, með hléum",
+    "option_c": "Utandyra, ótakmarkað, með hléum",
+    "option_d": "Inni, ótakmarkað, sjálfstætt",
+    "answer": "A",
+    "id": "business_ethics/dev/2"
+  },
+  {
+    "instruction": "Til eru þrjár leiðir til að mæla miðlæga tilhneigingu: Meðaltal, miðgildi og hamur. Hvað er hamur út frá þekkingu þinni á þeim?",
+    "option_a": "minna næm fyrir öfgakenndum einkunnum en meðaltalið",
+    "option_b": "gagnlegra fyrir skekktar dreifingar",
+    "option_c": "næm fyrir jaðargildum og mjög skekktum dreifingum",
+    "option_d": "tíðasta talan sem kemur fyrir",
+    "answer": "D",
+    "id": "professional_psychology/dev/1"
+  },
+  {
+    "instruction": "Til að ná 0/1 tapi sem er minna en 1% af raunverulegu 0/1 tapi (með 95% líkum) þarf að vera til staðar í prófinu hversu mörg dæmi samkvæmt Hoeffding‘ s inequality?",
+    "option_a": "í kringum 10 dæmi",
+    "option_b": "í kringum 100 dæmi",
+    "option_c": "milli 100 og 500 dæmi",
+    "option_d": "fleiri en 1000 dæmi",
+    "answer": "D",
+    "id": "machine_learning/dev/3"
+  },
+  {
+    "instruction": "Við mat á handvirkni er athugað hvort af eftirfarandi á við?",
+    "option_a": "Frádráttur þumalfingurs er frá mænurót T 2",
+    "option_b": "Mótstaða þumalfingurs með mótstöðustefnu er frá mænurót T 1",
+    "option_c": "Fingrafokið er frá miðtaugakerfinu",
+    "option_d": "Fjarlæging fingra fer fram með millistykkið á lófanum",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/2"
+  },
+  {
+    "instruction": "Hvaða hlutfall landsmanna er sammála því að ríkið sé rekið í þágu allra landsmanna á árinu 2019?",
+    "option_a": "31%",
+    "option_b": "46%",
+    "option_c": "61%",
+    "option_d": "76%",
+    "answer": "B",
+    "id": "global_facts/dev/1"
+  },
+  {
+    "instruction": "Nú telja vísindamenn að hnignun Maya hafi einkum orsakast af:",
+    "option_a": "einhvers konar hamfarir, svo sem jarðskjálfti, eldfjall eða flóðbylgja.",
+    "option_b": "umhverfishnignun sem hlýst af aðferðum við slátur- og brennslubúskap.",
+    "option_c": "endalausar styrjaldir milli borgarríkja í grannríkjum Mayan.",
+    "option_d": "samræktunaraðferðir sem leiddu til mikillar aukningar á meðfæddum röskunum.",
+    "answer": "B",
+    "id": "prehistory/dev/2"
+  },
+  {
+    "instruction": "Hve mörg af 1 árs börnum í heiminum hafa verið bólusett gegn einhverjum sjúkdómi árið 2017? *",
+    "option_a": "80%",
+    "option_b": "60%",
+    "option_c": "40%",
+    "option_d": "20%",
+    "answer": "A",
+    "id": "global_facts/dev/4"
+  },
+  {
+    "instruction": "Í hóprannsókn var áhættuhlutfall sykursýki 0,86 þegar þeir sem neyttu te (útsettir) voru bornir saman við þá sem ekki drukku te (óútsettir). Hvor staðhæfingin er rétt (samkvæmt þekkingu árið 2020)? <unk>",
+    "option_a": "Tedrykkjufólkið er í minni hættu á að fá sykursýki.",
+    "option_b": "Tedrykkjufólkið er í meiri hættu á að fá sykursýki.",
+    "option_c": "Út frá þeim upplýsingum sem gefnar voru er ekki hægt að segja til um hvort munurinn á sjúkdómsáhættu sé tilkominn af tilviljun.",
+    "option_d": "Áhættuhlutfallið er nálægt gildi eitt og því er ekki munur á sjúkdómsáhættu milli hópanna tveggja.",
+    "answer": "C",
+    "id": "nutrition/dev/0"
+  },
+  {
+    "instruction": "Hvort þessara þriggja frumefna hefur mestan massa á hvert núkleóni?",
+    "option_a": "Vetni",
+    "option_b": "Járn",
+    "option_c": "Úran",
+    "option_d": "Sama í hverjum",
+    "answer": "A",
+    "id": "conceptual_physics/dev/4"
+  },
+  {
+    "instruction": "Hvernig breytti NSC-68 stefnu Bandaríkjanna?",
+    "option_a": "Hún hnattvæddi afmörkun.",
+    "option_b": "Hún hertók afmörkun.",
+    "option_c": "Þar var kallað eftir þróun vetnissprengjunnar.",
+    "option_d": "Allt ofantalið",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/1"
+  },
+  {
+    "instruction": "Hver af eftirfarandi er líklegasta skýringin á verndandi áhrifum trefja í fæðu gegn krabbameini í ristli, miðað við árið 2020?",
+    "option_a": "Própíónsýra, mynduð við gerjun ristilþráða, hindrar myndun fitusýra í lifur",
+    "option_b": "Bæsýra, sem myndast við gerjun ristilþráða, örvar „þöggun“ SLC5A8 æxlisbæligensins",
+    "option_c": "Enginn af þessum möguleikum er réttur",
+    "option_d": "Bæsýra, sem myndast við gerjun ristiltrefja, örvar andoxunarvörn í ristlinum",
+    "answer": "D",
+    "id": "nutrition/dev/2"
+  },
+  {
+    "instruction": "Þann 1. október 1980 samdi framkvæmdaraðili, eigandi nokkur hundruð hektara í sveit í dreifbýli, aðalskipulag fyrir svæðið. Í hinu tilskilinna skipulagi voru settar ítarlegar takmarkanir og takmarkanir á lóðina í skipulaginu sem átti að byggjast upp sem íbúðahverfi. Takmarkanirnar áttu að ná til allra sem eignast einhverja af lóðunum og til erfingja þeirra, framsalshafa og leigutaka. Þá var kveðið á um að allir síðari eigendur yrðu rukkaðir um tilhlýðilega fyrirvara um takmarkanirnar. Meðal þeirra takmarkana í aðalskipulaginu voru eftirfarandi: (22) Sérleyfisréttur myndast í 10 feta breiðri lóð aftan við hverja lóð til afnota fyrir opinber veitufyrirtæki með aðkomu-og afnotarétt. (23) Ekki skal reisa hús eða mannvirki af neinu tagi á fyrrnefndri lóðarrönd sem liggur í gegnum umræddar blokkir. Árið 2000 keypti starfsmaður á eftirlaunum eina af lóðunum, byggði hús og reisti girðingu aftan við lóð sína innan haftasvæðisins. Árið 2004 keypti kennari lóð sem liggur við lóð starfsmannsins og byggði nýtt hús. Tveimur árum síðar keypti bókasafns-og upplýsingafræðingur lóðina sem liggur við lóð kennarans. Í afsalinu þremur til þeirra eigna var hver um sig með tilvísun í afsalsbókina þar sem aðalskipulagið var skráð. Árið 2008 hóf bókasafns-og upplýsingafræðingur byggingu sjö feta girðingar meðfram lóðinni sem skiptir lóð hans og lóð kennarans og meðfram miðju svæðisins sem sérleyfisrétturinn tekur til. Þrátt fyrir að kennari hafi mótmælt byggingu hennar var girðingunni lokið. Ef kennari leitar lögbundins lögbanns til að knýja á um að girðing bókasafns-og upplýsingafræðingsins verði fjarlægð verður dómstóllinn líklegast",
+    "option_a": "veitt afléttingu, vegna þess að girðingin braut í bága við afléttingartakmörkunina.",
+    "option_b": "að veita undanþágu, vegna þess að ágangur girðingar braut gegn takmörkun í upphaflegri áætlun.",
+    "option_c": "neitað um lausn, vegna þess að kennarinn hafi ekki framfylgt takmörkuninni gagnvart eftirlaunaþeganum.",
+    "option_d": "synjað um undanþágu, vegna þess að girðingin yrði ekki álitin „mannvirki“ innan skilmála takmörkunarinnar.",
+    "answer": "B",
+    "id": "professional_law/dev/3"
+  },
+  {
+    "instruction": "Ivan er í sjósundinu og hræðist dökkan skugga í sjónum áður en hann hefur tök á að greina hver skugginn er. Hvaða mynd er best að nota til að lýsa þeim taugatengslum sem eiga sér stað í þessu óttatilviki?",
+    "option_a": "Skilaboð eru send frá stúkunni beint til amygdala.",
+    "option_b": "Skilaboð eru send frá stúkunni til „hvað“ og „hvar“ boðleiðanna.",
+    "option_c": "Skilaboð eru send frá parasympatíska taugakerfinu til heilabarkarins.",
+    "option_d": "Boð berast frá framheila til heiladinguls.",
+    "answer": "A",
+    "id": "high_school_psychology/dev/2"
+  },
+  {
+    "instruction": "Hvaða myndgagnaaukning er algengust fyrir náttúrulegar myndir?",
+    "option_a": "slembiræktun og láréttur flipi",
+    "option_b": "slembiræktun og lóðréttur vendipunktur",
+    "option_c": "útlitsdýrkun",
+    "option_d": "dithering",
+    "answer": "A",
+    "id": "machine_learning/dev/1"
+  },
+  {
+    "instruction": "Fyrir hvaða af eftirfarandi varmafræðilegum ferlum er aukning innri orku kjörgass jöfn varmanum sem bætt er við gasið?",
+    "option_a": "Fastur hiti",
+    "option_b": "Fast rúmmál",
+    "option_c": "Stöðugur þrýstingur",
+    "option_d": "Adíbatískur",
+    "answer": "B",
+    "id": "college_physics/dev/1"
+  },
+  {
+    "instruction": "Að öllu öðru jöfnu, hver af eftirtöldum einstaklingum er líklegri til að sýna beinþynningu?",
+    "option_a": "Eldri bandarísk kona af spænskum uppruna",
+    "option_b": "Eldri kona frá Afríku",
+    "option_c": "Eldri kona frá Asíu",
+    "option_d": "Eldri kona af frumbyggjaættum",
+    "answer": "C",
+    "id": "human_aging/dev/4"
+  },
+  {
+    "instruction": "Hvað af eftirfarandi er endilega einkennandi fyrir fákeppni?",
+    "option_a": "Frjáls innkoma og útganga af markaði",
+    "option_b": "Nokkrir stórir framleiðendur",
+    "option_c": "Einn framleiðandi vöru án nákominna staðkvæmdarvara",
+    "option_d": "Einsleit vara",
+    "answer": "B",
+    "id": "high_school_microeconomics/dev/4"
+  },
+  {
+    "instruction": "Í Öskju 2 í Öskjuflokki II er",
+    "option_a": "of mikið ofdráttarbil á efri hliðarliðbeinum.",
+    "option_b": "neikvætt yfirstreymi á efri miðlægum framtönnum.",
+    "option_c": "of mikið yfirfall á efri hliðarliðholum.",
+    "option_d": "of mikið yfirfall á efri miðlægum framtönnum.",
+    "answer": "C",
+    "id": "anatomy/dev/3"
+  },
+  {
+    "instruction": "Krete er ógiftur skattgreiðandi með tekjur eingöngu af launum. Þann 31. desember á 1. ári hefur vinnuveitandi Kretu haldið eftir 16.000 kr. í tekjuskatt og Krete hefur ekki staðið skil á áætluðum skattgreiðslum. Þann 15. apríl á 2. ári lagði Krete tímanlega fram beiðni um framlengingu á framtali sínu til skattrannsóknarstjóra og greiddi 300 kr. af viðbótarskatti. Skattskuld Kretu á 1. ári var 16.500 kr. þegar hún skilaði tímanlega framtali sínu þann 30. apríl á 2. ári og greiddi eftirstöðvar skattskuldar. Hvaða upphæð myndi falla undir álag vegna vangreiðslu á áætluðum skatti?",
+    "option_a": "$0",
+    "option_b": "$500",
+    "option_c": "$1,650",
+    "option_d": "$16,500",
+    "answer": "A",
+    "id": "professional_accounting/dev/2"
+  },
+  {
+    "instruction": "Hlutir sem eru jafngildir samkvæmt jafngildisreglunni eru",
+    "option_a": "tíma og rúmi.",
+    "option_b": "tvíbura á ferðalagi og tvíbura í heimahúsi.",
+    "option_c": "þyngdarafl og hröðun.",
+    "option_d": "massa og orku.",
+    "answer": "C",
+    "id": "conceptual_physics/dev/1"
+  },
+  {
+    "instruction": "Earth Hour var herferð sem var sett af stað af hvaða samtökum?",
+    "option_a": "Grænfriðungar",
+    "option_b": "Sameinuðu þjóðirnar",
+    "option_c": "Oxfam",
+    "option_d": "World Wildlife Fund",
+    "answer": "D",
+    "id": "public_relations/dev/4"
+  },
+  {
+    "instruction": "Hvað af eftirfarandi á við um gilda flokkunarfræðilega setningafræði?",
+    "option_a": "Minniháttar húsnæðið verður að neita aðdraganda",
+    "option_b": "Stóra forsendan verður að staðfesta afleiðinguna",
+    "option_c": "Miðgildið skal notað í a.m.k. einu húsnæði í almennum eða ógildum skilningi",
+    "option_d": "Allt ofantalið",
+    "answer": "C",
+    "id": "logical_fallacies/dev/2"
+  },
+  {
+    "instruction": "Hver af eftirfarandi stefnum lýsir best framboðshlið skattastefnunnar?",
+    "option_a": "Aukið peningaframboð",
+    "option_b": "Aukin ríkisútgjöld",
+    "option_c": "Lægri skattar á rannsóknir og þróun nýrrar tækni",
+    "option_d": "Hærri skattar á tekjur heimilanna",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/4"
+  },
+  {
+    "instruction": "Hvaða tegundir valdbeitingar eru bannaðar í 4. mgr. 2. gr. stofnsáttmála SÞ?",
+    "option_a": "Ákvæði 4. mgr. 2. gr. tekur aðeins til vopnaðs liðsafla",
+    "option_b": "Ákvæði 4. mgr. 2. gr. tekur til allra tegunda valdbeitingar, þ. m. t. viðurlaga",
+    "option_c": "Ákvæði 4. mgr. 2. gr. tekur til allra afskipta af innanríkismálum ríkja",
+    "option_d": "4. mgr. 2. gr. tekur til valdbeitingar sem beinist eingöngu gegn landhelgi ríkis",
+    "answer": "A",
+    "id": "international_law/dev/0"
+  },
+  {
+    "instruction": "Nýtt snjallúr er framleitt í einum hluta verksmiðju en síðan tryggt til sendingar í öðrum sjálfstæðum hluta verksmiðjunnar. Þyngd snjallúrsins er að meðaltali 62 grömm og staðalfrávik 1,0 grömm. Þyngd umbúða (box, notendahandbók, bóluumbúðir o.fl.) er að meðaltali 456 grömm og staðalfrávik 6 grömm. Samanlagt myndi dreifing þyngdar snjallúrsins og umbúða þess hafa eftirfarandi meðaltal og staðalfrávik:",
+    "option_a": "Meðaltal 518 grömm; staðalfrávik 7,0 grömm",
+    "option_b": "Meðaltal 518 grömm; staðalfrávik 3,5 grömm",
+    "option_c": "Meðaltal 518 grömm; staðalfrávik 6,1 grömm",
+    "option_d": "Meðaltal 394 grömm; staðalfrávik 6,1 grömm",
+    "answer": "C",
+    "id": "high_school_statistics/dev/3"
+  },
+  {
+    "instruction": "Hvaða nálgun er markvissast í málefnastjórnun til að bregðast við neikvæðum eða villandi upplýsingum sem settar eru á netið um fyrirtækið þitt?",
+    "option_a": "Kaupa lénsnöfn sem stjórnarandstæðingar gætu notað.",
+    "option_b": "Setja nafnlausar athugasemdir á bloggsíður til að berjast gegn þessum upplýsingum.",
+    "option_c": "Útbúa fréttatilkynningu sem gerir ónákvæmar upplýsingar tortryggilegar.",
+    "option_d": "Gera stefnubreytingar til að bregðast við kvörtunum sem vakin er athygli á á þessum síðum.",
+    "answer": "D",
+    "id": "public_relations/dev/1"
+  },
+  {
+    "instruction": "Hvert var viðhorf Tolstoys til lífsgilda áður en hann tók kristna trú?",
+    "option_a": "bjartsýnn",
+    "option_b": "ánægður",
+    "option_c": "nafnlega trúarleg",
+    "option_d": "svartsýnn",
+    "answer": "D",
+    "id": "philosophy/dev/3"
+  },
+  {
+    "instruction": "Hverju af eftirfarandi var ekki stefnt að í velferðarríkinu eftir stríðið 1948:",
+    "option_a": "ókeypis heilbrigðisþjónusta og menntun fyrir alla",
+    "option_b": "lágmarkslaun",
+    "option_c": "full atvinna",
+    "option_d": "alheimsvelferð",
+    "answer": "B",
+    "id": "sociology/dev/0"
+  },
+  {
+    "instruction": "Tíu nemendur taka líffræðipróf og fá eftirfarandi einkunnir: 45, 55, 50, 70, 65, 80, 40, 90, 70, 85. Hvert er meðaltal einkunna nemenda á prófinu?",
+    "option_a": "55",
+    "option_b": "60",
+    "option_c": "62",
+    "option_d": "65",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/4"
+  },
+  {
+    "instruction": "Hreinlætisþættir tengdir við hvaða rithöfund?",
+    "option_a": "Frederick Hertzberg",
+    "option_b": "D.C. McClelland",
+    "option_c": "Abraham Maslow",
+    "option_d": "Douglas McGregor",
+    "answer": "A",
+    "id": "management/dev/1"
+  },
+  {
+    "instruction": "Í forritinu hér fyrir neðan er upphafsgildi x 5 og upphafsgildi y 10. IF (X < O) { DISPLAY (\"Foxtrot\") } ELSE { IF (X > y) { DISPLAY (\"Hotel\") } ELSE { IF (y > O) { DISPLAY (\"November\") } ELSE { DISPLAY (\"Yankee\") } } } Hvað birtist við keyrslu forritsins?",
+    "option_a": "Foxtrot",
+    "option_b": "Hótel",
+    "option_c": "Nóvember",
+    "option_d": "Yankee",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/3"
+  },
+  {
+    "instruction": "Væri fyrirvari við skilgreiningu pyndinga í ICCPR ásættanlegur í nútímaframkvæmd?",
+    "option_a": "Þetta er ásættanlegur fyrirvari ef löggjöf fyrirvararríkis styðst við aðra skilgreiningu",
+    "option_b": "Þetta er óviðunandi fyrirvari þar sem hann gengur gegn markmiði og tilgangi ICCPR-samningsins.",
+    "option_c": "Þetta er óviðunandi fyrirvari þar sem skilgreining á pyndingum í ICCPR er í samræmi við venjubundinn þjóðarétt.",
+    "option_d": "Þetta er ásættanlegur fyrirvari því samkvæmt almennum þjóðarétti eiga ríki rétt á að gera fyrirvara við",
+    "answer": "B",
+    "id": "international_law/dev/2"
+  },
+  {
+    "instruction": "Örbylgjuofn er tengdur við úttak, 120 V, og dregur straum upp á 2 amper. Á hvaða hraða er orkan notuð í örbylgjuofninum?",
+    "option_a": "10 W",
+    "option_b": "30 W",
+    "option_c": "60 W",
+    "option_d": "240 W",
+    "answer": "D",
+    "id": "high_school_physics/dev/3"
+  },
+  {
+    "instruction": "Baron viðurkennir að þær útgáfur af tifandi sprengjutilgátunni sem hún ræðir um séu „stundirheimskulegar“ en hún fullyrðir að þetta sé í raun sönnun þess að",
+    "option_a": "heimsku flestra hefðbundinna heimspekilegra dæma.",
+    "option_b": "almennt greindarskor meðal fólks með háskólagráðu.",
+    "option_c": "rangindi pyndinga.",
+    "option_d": "reiðubúið af hálfu margra gáfaðra manna að líta á pyntingar sem bestu lausnina til að takast á við hryðjuverk.",
+    "answer": "D",
+    "id": "moral_disputes/dev/4"
+  },
+  {
+    "instruction": "Hvert af eftirfarandi er eðlislægur ávinningur að mati Singers?",
+    "option_a": "að vera í efri stétt",
+    "option_b": "hæfni til að læra og leysa vandamál",
+    "option_c": "að vera fallegri en flestir íbúar",
+    "option_d": "að vera styttri en meðaltal",
+    "answer": "B",
+    "id": "moral_disputes/dev/2"
+  },
+  {
+    "instruction": "Hvað eru venjulegir bílar með marga ása?",
+    "option_a": "einn",
+    "option_b": "tveir",
+    "option_c": "fjórir",
+    "option_d": "átta",
+    "answer": "B",
+    "id": "miscellaneous/dev/0"
+  },
+  {
+    "instruction": "Glúkósi flyst inn í vöðvafrumu:",
+    "option_a": "um próteinflutningsprótein sem kallast GLUT4.",
+    "option_b": "einungis í návist insúlíns.",
+    "option_c": "í gegnum hexokinase.",
+    "option_d": "um flutningsprótein einkarbýlsýru.",
+    "answer": "A",
+    "id": "college_medicine/dev/0"
+  },
+  {
+    "instruction": "3 Cl-(aq) + 4 CrO _ 4^2-(aq) + 23 H + (aq) -3 HClO2(aq) + 4 Cr3+(aq) + 10 H2O(l). Í hvarfinu sem sést hér að ofan hegðar Cl-(aq) sér sem",
+    "option_a": "an sýra",
+    "option_b": "a grunnur",
+    "option_c": "hvati",
+    "option_d": "a dregur úr",
+    "answer": "D",
+    "id": "college_chemistry/dev/3"
+  },
+  {
+    "instruction": "Hugtakið „fjárlagahalli“ vísar til",
+    "option_a": "Árleg aukning útgjalda ríkisins til hermála",
+    "option_b": "vaxtafjárhæð af skuldum ríkisins",
+    "option_c": "munur á fjárlagafrumvörpum forseta og þings",
+    "option_d": "hversu miklu ríkið eyðir umfram tekjur",
+    "answer": "D",
+    "id": "high_school_government_and_politics/dev/1"
+  },
+  {
+    "instruction": "Í þessari spurningu er vísað til eftirfarandi upplýsinga. Útdrátturinn hér að neðan er úr siglingalögunum frá 1651. [A] eftir fyrsta desember, eitt þúsund sex hundruð og fimmtíu og eitt, og þaðan af síður, skulu engar vörur eða hrávörur af vexti, framleiðslu eða framleiðslu Asíu, Afríku eða Ameríku, eða einhvers hluta þeirra, eða af eyjum sem þeim tilheyra, eða sem lýst er eða mælt fyrir um á venjulegum kortum eða kortum þessara staða, svo og ensku plantekrunum sem öðrum, fluttar inn eða fluttar til þessa samveldis Englands, eða til Írlands, eða annarra landa, eyja, plantekra eða landsvæða sem tilheyra þessu samveldi, eða í þeirra eigu, í öðru skipi eða skipi, skipi eða skipum, en þó aðeins í þeim sem sannarlega og án sviksamlegra eigna tilheyra aðeins íbúum þessa samveldis, eða plantekrunum sem þeim tilheyra, sem eigendur eða rétthafar þeirra; og þar sem skipstjóri og sjómenn eru einnig íbúum þessa samveldis, með þeim viðurlögum að allar vörur sem fluttar verða inn gegn þessum lögum, séu framseldar og glataðar, skulu fluttar inn eða fluttar til þessa samveldis Englands, eða til Írlands, eða annarra landa, eyja, plantekra eða landsvæða sem tilheyra þessu samveldi, eða í þeirra eigu, í öðru skipi eða skipum, skipum eða skipum, en þó aðeins í þeim sem sannarlega og án sviksamlegra eigna tilheyra aðeins íbúum þessa samveldis, eða plantekrunum sem þeim tilheyra, og þeim er lýst er eða mælt fyrir um á venjulegum kortum eða kortum þessara staða, svo og ensku plantekrunum sem öðrum, og þaðan af síður, skulu engar vörur eða hrávörur af vexti, framleiðslu eða framleiðslu Asíu, Afríku eða Ameríku, eða einhvers hluta þeirra, eða af eyjum sem þeim tilheyra, eða sem þeim tilheyra, eða í þeirra eigu, í öðru skipi eða skipum, skipum eða skipum, en þó aðeins í þeim sem sannarlega og án sviksamlegra eigna tilheyra aðeins íbúum þessa samveldis, og í þeim sem tilheyra þessu samveldi, og í þeim sem tilheyra þessu samveldi, en þó ekki í öðrum, nema aðeins í þeim erlendu skipum og skipum sem sannarlega og án sviksamlegra eigna tilheyra íbúum þess lands eða staðar, þar sem umræddar vörur eru vöxtur, framleiðsla eða framleiðsla. Hvert af eftirfarandi lýsir best niðurstöðu siglingalaganna frá 1651?",
+    "option_a": "Þær voru hvati að vexti enskra skipaútgerða og verslunar erlendis en takmörkuðu lítið möguleika Hollendinga á sautjándu öld.",
+    "option_b": "Þær höfðu í för með sér nánast tafarlausar þrengingar fyrir hollenska hagkerfið þar sem yfirburðir þeirra í utanríkisviðskiptum hættu fljótt að vera til staðar.",
+    "option_c": "Þeir voru leystir frá störfum við endurreisn Stúart-veldisins þar sem þeir leituðu eftir eðlilegum diplómatískum samskiptum við Hollendinga til að þurfa ekki á fjárstuðningi þingsins að halda vegna stríðsátaka.",
+    "option_d": "Þær leiddu til þess að England og Holland stóðu í stríði í nærri heila öld sem lauk ekki fyrr en eftir sjálfstæði Bandaríkjanna.",
+    "answer": "A",
+    "id": "high_school_european_history/dev/3"
+  },
+  {
+    "instruction": "Veikindi á morgnana eru yfirleitt vandamál:",
+    "option_a": "á fyrsta þriðjungi meðgöngu",
+    "option_b": "á öðrum þriðjungi meðgöngu",
+    "option_c": "á þriðja þriðjungi meðgöngu",
+    "option_d": "alla meðgönguna",
+    "answer": "A",
+    "id": "human_sexuality/dev/0"
+  },
+  {
+    "instruction": "Spáð er fyrir um fjölda lína í EPR rófi 13C-merktrar metýl-rótar (13CH3*) lausnar, að því gefnu að línurnar skarist ekki.",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "6",
+    "option_d": "24",
+    "answer": "A",
+    "id": "college_chemistry/dev/2"
+  },
+  {
+    "instruction": "Timothy Pauketat segir að vísbendingar um félagslega lagskiptingu og pólitískt vald í Kahokia bendi til:",
+    "option_a": "miðpunktur Mississippi-menningar þar sem aðstæður voru svipaðar og við uppgang frumríkja.",
+    "option_b": "takmörkum valds í samfélagi frumbyggja í jafnréttisbaráttu.",
+    "option_c": "einfalt höfðingjaríki eða ef til vill flókið höfðingjaríki hafði þróast um 1500 e.Kr.",
+    "option_d": "miðpunktur Mississippi-menningar þar sem aðstæður eru svipaðar og í samfélögum á Norðvesturströnd Norður-Ameríku.",
+    "answer": "A",
+    "id": "prehistory/dev/1"
+  },
+  {
+    "instruction": "Til þess að verða öryggisvæddur þarf að koma fram ógn á hvorn veginn?",
+    "option_a": "Sem tilvistarleg ógn sem krefst tafarlausra og óvenjulegra aðgerða og ógnar afkomu ríkisins eða samfélagsöryggi.",
+    "option_b": "Þar sem þörf er á tafarlausum og óvenjulegum aðgerðum af hálfu ríkisins, ógnar það afkomu viðmiðunarhlutar og gefur því tilefni til að beita aðgerðum sem venjulega eru ekki notaðar á hinu pólitíska sviði.",
+    "option_c": "Sem brýn ógn við afkomu vísimiðsins, svo alvarleg að hún réttlætir að gripið sé til óvenjulegra aðgerða til að bregðast við.",
+    "option_d": "Sem brýn ógn við afkomu áhorfenda sem kallar á óvenjulegar eða neyðarráðstafanir.",
+    "answer": "C",
+    "id": "security_studies/dev/2"
+  },
+  {
+    "instruction": "Fyrir utan viðskiptafræðilegan rökstuðning fyrir því að taka þátt í samfélagsábyrgð eru ýmis siðferðileg rök sem snúa að: Neikvæðu  _____, því  _____ sem fyrirtæki búa yfir og  _____ viðskipta og samfélags.",
+    "option_a": "Ytri þættir, Vald, Sjálfstæði",
+    "option_b": "Umtal, Óverulegar auðlindir, Gagnkvæmt háð",
+    "option_c": "Umtal, vald, sjálfstæði",
+    "option_d": "Ytri tengsl, Vald, Gagnkvæmt háð",
+    "answer": "D",
+    "id": "business_ethics/dev/0"
+  },
+  {
+    "instruction": "32 ára kona sem áður var heilbrigð kemur til læknis 8 mánuðum eftir að eiginmaður hennar lést í bílslysi. Frá þeim tíma hefur hún haft minnkaða matarlyst og átt erfitt með að sofna. Hún segist oft vera döpur og gráta oft. Hún hefur farið fimm sinnum yfir hurðarlásinn áður en hún fer út og þarf að telja nákvæmlega fimm klósettublöð áður en hún notar hann. Hún segist alltaf hafa verið fullkomnunarsinni en þessar hvatir og helgisiðir séu nýtilkomnir. Lyfjameðferð á að beinast að hvaða taugaboðefnum?",
+    "option_a": "Dópamín",
+    "option_b": "Glútamat",
+    "option_c": "Norepinephrine",
+    "option_d": "Serotonin",
+    "answer": "D",
+    "id": "professional_medicine/dev/2"
+  },
+  {
+    "instruction": "Veldu bestu þýðinguna á rökræðuna: Ekkert fólk keyrir á Mars.",
+    "option_a": "~Pd",
+    "option_b": "(x)(Px~Dx)",
+    "option_c": "(x)(Px~Dx)",
+    "option_d": "~Dp",
+    "answer": "C",
+    "id": "formal_logic/dev/0"
+  },
+  {
+    "instruction": "Hvernig réðst Donald Trump gegn hnattvæðingunni í kosningabaráttunni 2016?",
+    "option_a": "Hnattvæðingin hafði gert menn eins og hann of ríka",
+    "option_b": "Hnattvæðingin kom aðeins ákveðnum ríkjum Bandaríkjanna til góða, til dæmis New York.",
+    "option_c": "Frjálslynd elíta hafði hvatt til hnattvæðingar en „venjulegir Bandaríkjamenn“ misstu vinnuna vegna hennar.",
+    "option_d": "Hnattvæðingin ýtti undir skaðleg viðskiptastríð",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/4"
+  },
+  {
+    "instruction": "Mikilvægasta markmið atferlismeðferðar er:",
+    "option_a": "Breyting á hegðun",
+    "option_b": "Heildstæð umfjöllun",
+    "option_c": "Árangursrík notkun atferliskenninga",
+    "option_d": "Viðvarandi breyting á hegðun",
+    "answer": "D",
+    "id": "virology/dev/3"
+  },
+  {
+    "instruction": "Loftfyllt rör er lokað á öðrum endanum. Stöðubylgja myndast í rörinu sem veldur því að rörið hljómar eins og nóta. Hvert af eftirfarandi er rétt staðhæfing um eiginleika bylgjunnar á lokaða enda rörsins?",
+    "option_a": "Þrýstingurinn er við hnút en færslur agna við móthnút.",
+    "option_b": "Þrýstingurinn er við móteind en færslur á ögnum eru við hnútpunkt.",
+    "option_c": "Þrýstingur og færslur agna eru bæði við hnúta.",
+    "option_d": "Þrýstingur og færslur agna eru bæði við móteindaskauta.",
+    "answer": "B",
+    "id": "high_school_physics/dev/1"
+  },
+  {
+    "instruction": "Lykilatriði sem auðveldaði notkun á tilfella-viðmiðunarrannsóknum úr MACS var:",
+    "option_a": "Gagnasöfnun",
+    "option_b": "Stofnun gagnasafns lífsýna",
+    "option_c": "Áhugi þátttakenda",
+    "option_d": "Stjórnun spurningalistans af hálfu starfsfólks",
+    "answer": "B",
+    "id": "virology/dev/2"
+  },
+  {
+    "instruction": "Stórar þrístæðar endurteknar þenslur má greina með:",
+    "option_a": "polymerase chain reaction.",
+    "option_b": "Einþátta samsvörunargreining á einþátta fjölbreytileika.",
+    "option_c": "Suðurlandsþrykk.",
+    "option_d": "Vestfirsk þerra.",
+    "answer": "C",
+    "id": "medical_genetics/dev/0"
+  },
+  {
+    "instruction": "Glýkólýsa er heiti á aðferð sem felur í sér umbreytingu á:",
+    "option_a": "glýkógen í glúkósa-1-fosfat.",
+    "option_b": "glýkógen eða glúkósa yfir í frúktósa.",
+    "option_c": "glýkógen eða glúkósa í pýrúvat eða laktat.",
+    "option_d": "glýkógen eða glúkósa yfir í pýrúvat eða asetýl CoA.",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/4"
+  },
+  {
+    "instruction": "Setjum sem svo að X og Y séu slembibreytur með E(X) = 37, var(X) = 5, E(Y) = 62 og var(Y) = 12. Hvert er vænt gildi og dreifni slembibreytunnar X + Y?",
+    "option_a": "E(X + Y) = 99, var(X + Y) = 8,5",
+    "option_b": "E(X + Y) = 99, var(X + Y) = 13",
+    "option_c": "E(X + Y) = 99, var(X + Y) = 17",
+    "option_d": "Ekki eru nægar upplýsingar til að svara þessari spurningu.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/1"
+  },
+  {
+    "instruction": "Hvaða greiningarrammar hafa verið notaðir til að greina hryðjuverk (frá og með 2020)?",
+    "option_a": "Samkeppni milli stærri ríkja hefur leitt til þess að sum ríki styðja hryðjuverkahópa með virkum hætti til að grafa undan styrk samkeppnisríkja. Hryðjuverkasamtök eru klúbbar sem gjafaríkin halda úti og greiða fyrir og eru hugsuð sem líkt og ríkisaðilar sem taka á með hervaldi.",
+    "option_b": "Hnattvæðing hefur gert það að verkum að hryðjuverkastarfsemi hefur verið alþjóðavædd með því að opna rými fyrir starfsemi þeirra, þó að samhæfingin sé enn stjórnað út frá landfræðilegum grunni. Þetta bendir til þess að hryðjuverkahópar séu þjóðernislega uppbyggðir sem þýðir að hryðjuverk geta ekki talist til stríðs sem sigrast á með hernaði án þess að hafa alvarleg áhrif á íbúana.",
+    "option_c": "Hægt er að líta á hryðjuverk sem vandamál sem hægt er að leysa með hernaði (stríð gegn hryðjuverkum), með venjulegri lögreglutækni (hryðjuverk sem glæpir) eða sem læknisfræðilegt vandamál með undirliggjandi orsökum og einkennum (hryðjuverk sem sjúkdómur).",
+    "option_d": "Litið er á hryðjuverk sem refsivandamál. Afbrotafræði hryðjuverka hefur tvenns konar mikilvægar afleiðingar. Í fyrsta lagi er lagt til að hægt sé að uppræta hryðjuverk - hægt sé að koma böndum á hryðjuverkamenn og rétta yfir þeim með venjulegum dómsmálum og fjarlægja þannig ógnina úr samfélaginu - og í öðru lagi er lagt til að hægt sé að beita fyrirbyggjandi glæpatækni til að koma í veg fyrir þróun þeirra.",
+    "answer": "C",
+    "id": "security_studies/dev/4"
+  },
+  {
+    "instruction": "Dómari tók fyrir dómstóla nokkur atriði í upphafi réttarhalda. Hvert af eftirfarandi atriðum er ekki viðeigandi atriði til fyrirvara dómstóla?",
+    "option_a": "Óumdeilanlegar staðreyndir.",
+    "option_b": "Staðreyndir sem hafa verið settar fram af einstökum stjórnmálasamtökum.",
+    "option_c": "Staðreyndir sem eru viðurkenndar sem sannar af almennri þekkingu.",
+    "option_d": "Staðreyndir sem unnt er að sannreyna með vísindalegum hætti.",
+    "answer": "B",
+    "id": "professional_law/dev/2"
+  },
+  {
+    "instruction": "Hver er áætluð meðalheildarþol Homo erectus?",
+    "option_a": "undir 650 cc",
+    "option_b": "um 800 cc",
+    "option_c": "rétt undir 1000 cc",
+    "option_d": "1200 cc",
+    "answer": "C",
+    "id": "prehistory/dev/4"
+  },
+  {
+    "instruction": "Nýlegar rannsóknir á tegundum samkynhneigðra dýra frá mið-plíósentímabilinu benda til þess að það hafi verið (frá og með 2020):",
+    "option_a": "mikill fjölbreytileiki tegunda, eða ein tegund sem sýndi mikinn fjölbreytileika.",
+    "option_b": "mjög lítil tegundafjölbreytni á þessu tímabili og mjög fáar samkynhneigðar.",
+    "option_c": "minnkaðs tegundafjölbreytileika vegna langvarandi ísaldar og þar á eftir mikilla þurrka.",
+    "option_d": "tegundafjölbreytni minnkaði en fleiri steinar og flögur urðu til sem bendir til verkfæraframleiðslu.",
+    "answer": "A",
+    "id": "prehistory/dev/3"
+  },
+  {
+    "instruction": "Stig miðslitningar þar sem litningar parast og víxlast er:",
+    "option_a": "forfasi I",
+    "option_b": "I. stigs frumubreytingar",
+    "option_c": "forfasi II",
+    "option_d": "II. stigs frumubreytingar",
+    "answer": "A",
+    "id": "medical_genetics/dev/4"
+  },
+  {
+    "instruction": "Í þessari spurningu er vísað til eftirfarandi upplýsinga. Þó svo að hátign konungs sé rétt og réttlát og eigi að vera æðsti yfirmaður þjóðkirkjunnar í Englandi, og svo sé viðurkennt af klerkunum í þessu ríki í boðum þeirra, en eigi að síður til staðfestingar og staðfestingar á því, og til aukningar á dyggðum í trú Krists innan þessa ríki Englands, og til að bæla og útrýma öllum villum, villutrú og öðrum gífuryrðum og misnotkun sem hér áður hefur verið beitt, þá er það lögfest, með heimild þessa þings, að konungur, vor fullvalda herra, erfingjar hans og arftakar, konungar þessa ríki, skuli taka, viðurkenna og orða þann eina æðsta yfirmann á jörðu í kirkju Englands, sem kallaður er Anglicans Ecclesia; og skuli hafa og njóta, viðbættur og sameinaður við keisarakórónu þessa ríki, svo og titil hennar og stíl, sem allar heiðurs-, virðingar-, yfirburðar-, lögsögu-, forréttinda-, yfirvalds-, friðhelgis-, hagnaðar-, og söluvörur til téðrar virðingar æðsta yfirmanns sömu kirkju sem tilheyrir og kemur fram; og að vor téði fullvalda herra, erfingjar hans og arftakar, konungar þessa ríki, skuli hafa fullt vald og heimild hverju sinni til að heimsækja, bæla, rétta, skrá, skipa, leiðrétta, hefta og breyta öllum slíkum villum, villutrú, misnotkun, gífuryrðum, misnotkun, fyrirlitningu og gífuryrðum, hver sem þau eru, sem með einhverjum hætti andlegum yfirvöldum eða lögsögu mætti eða má með lögmætum hætti umbylta, bæla, skipa, leiðrétta, hefta eða breyta, mest til ánægju Almáttugs Guðs, til aukningar á dyggðum í trú Krists, og til varðveislu friðar, einingu og ró í þessu ríki; hvers konar notkun, erlent land, erlent yfirvald, ávísun eða annað eða eitthvað sem er andstætt þessu þrátt fyrir það. Enska þingið, Lög um æðsta yfirmann, 1534 Af göngunni má draga þá ályktun að enska þingið hafi viljað halda því fram að lögin um æðsta yfirmann myndu",
+    "option_a": "að veita enska konunginum nýja valdastöðu",
+    "option_b": "láta Hinrik VIII einn fara með stöðu yfirmanns ensku kirkjunnar og útiloka erfingja hans",
+    "option_c": "Kalvínisminn sem hin eina sanna guðfræði á Englandi",
+    "option_d": "kirkjunnar í Englandi og stöðvað spillingu af ýmsu tagi",
+    "answer": "D",
+    "id": "high_school_european_history/dev/4"
+  },
+  {
+    "instruction": "The pleura",
+    "option_a": "hafa enga skynjun innhverfa.",
+    "option_b": "eru aðskildar með 2 mm bili.",
+    "option_c": "teygja sig í hálsinn.",
+    "option_d": "eru samsett úr öndunarfæraþekju.",
+    "answer": "C",
+    "id": "anatomy/dev/2"
+  },
+  {
+    "instruction": "Hvaða orð lýsir best skýringu Webers á þróun formlegs skynsemisréttar?",
+    "option_a": "Yfirvald.",
+    "option_b": "Kvennalist.",
+    "option_c": "Samvinna.",
+    "option_d": "Kapítalismi.",
+    "answer": "D",
+    "id": "jurisprudence/dev/2"
+  },
+  {
+    "instruction": "Á þriðja stigi lýðfræðilega umbreytingarlíkansins, er eitt af eftirfarandi rétt?",
+    "option_a": "Fæðingartíðni eykst og fólksfjölgun er minni.",
+    "option_b": "Fæðingartíðni lækkar og fólksfjölgun er minni.",
+    "option_c": "Fæðingartíðni eykst og fólksfjölgun eykst.",
+    "option_d": "Fæðingartíðni lækkar og fólksfjölgun eykst.",
+    "answer": "B",
+    "id": "high_school_geography/dev/1"
+  },
+  {
+    "instruction": "Hvað er fyrsta val lyfja hjá sjúklingum með sykursýki af tegund 2 og offitu, frá og með 2020?",
+    "option_a": "Akarbósi",
+    "option_b": "Metformín",
+    "option_c": "Sulphonylureas",
+    "option_d": "Insúlín",
+    "answer": "B",
+    "id": "nutrition/dev/4"
+  },
+  {
+    "instruction": "Í hvorri þessara sviðsmynda gerir aðalpersónan (sem notar ég/mig/mín) eitthvað augljóslega siðferðilega rangt samkvæmt almennum siðferðilegum viðmiðum í Bandaríkjunum frá og með árinu 2020? Sviðsmynd 1 | Ég bað um sígarettu hjá náunganum fyrir utan búðina. Sviðsmynd 2 | Þegar öryggisvörðurinn yfirgaf skrifstofuna sína, þá hafði ég sjaldgæfan pening í vasanum.",
+    "option_a": "Rangt, rangt",
+    "option_b": "Rangt, ekki rangt",
+    "option_c": "Ekki rangt, rangt",
+    "option_d": "Ekki rangt, Ekki rangt",
+    "answer": "C",
+    "id": "moral_scenarios/dev/1"
+  },
+  {
+    "instruction": "Þessi spurning vísar til eftirfarandi upplýsinga. Ég kem ekki til að hvetja til persónulegra krafna, né til að leita eftir einstökum ávinningi, ég birtist sem talsmaður þeirra sem geta ekki borið eigin málstað fyrir sig, ég kem sem vinur þeirra sem eru yfirgefin, kúguð og auðnuð. Í guðsþjónustu er ég rödd geðsjúklingsins sem berst með nístandi hrópum úr draumkenndum dýflissum fangelsa ykkar, en smýgur ekki inn í löggjafarsal ykkar. Ég er von fátækra klikkaðra vera sem níðast í klefum, básum, búrum og sorphauga fátækrahúsa ykkar. Ég er opinberun hundruða grátandi þjáðra veru, sem eru faldar í einkabústöðum ykkar, í stíum og kofum-lokaðar, lokaðar frá öllum lækningaráhrifum, öllum huggunarhvetjandi umönnun... Gæti sorgarsaga þeirra borist yður eins og hún birtist mínum sorgarviðbjóði síðustu þrjá mánuði, hversu skjótt, hversu einlægt mynduð þið leita að viðurkenndustu úrræðum til að lina ástandið; hversu ómerkilegar, hversu lítilvægar, til samanburðar, myndu fórnirnar sem þið eruð beðin um að færa virðast; hvernig nokkrar dísir og dollarar, sem safnast frá hverjum borgara, myndu minnka í virði sem eign, miðað við ákveðinn ávinning og gífurlegan ávinning sem tryggja ætti þjáðum geðveikum... með vígslu og beitingu nægilegs fjár til byggingar hentugs sjúkrahúss.... --Dorothea Dix, Memorial Soliciting a State Hospital for the Protection and Cure of the Insane, Lagt fyrir allsherjarþing Norður-Karólínu, nóvember 1848 Dorothea Dix er best hægt að bera saman við hvern?",
+    "option_a": "Abigail Adams",
+    "option_b": "Clara Barton",
+    "option_c": "Shirley-hofið",
+    "option_d": "Hillary Clinton",
+    "answer": "B",
+    "id": "high_school_us_history/dev/4"
+  },
+  {
+    "instruction": "Hvaða af eftirfarandi innihalda DNA raðir sem þarf til að aðgreina litninga í mítósu og meiósu?",
+    "option_a": "Telomeres",
+    "option_b": "Centromeres",
+    "option_c": "Kjarnasambönd",
+    "option_d": "Spliceosomes",
+    "answer": "B",
+    "id": "college_biology/dev/4"
+  },
+  {
+    "instruction": "Hver af eftirtöldum einstaklingum er líklegri til að vera einn heima, frá og með árinu 2019?",
+    "option_a": "Asískur karl eða kona",
+    "option_b": "Spænskur maður",
+    "option_c": "Bandarísk kona af afrískum uppruna",
+    "option_d": "Hvítur karl eða kona",
+    "answer": "C",
+    "id": "human_aging/dev/0"
+  },
+  {
+    "instruction": "Hvert eftirfarandi skilyrða sýnir ekki fjölþátta erfðafræðilegan eiginleika?",
+    "option_a": "Pýlorísk þrengsli",
+    "option_b": "Geðklofi",
+    "option_c": "Spjaldhryggsveppur (gallar í taugapípu)",
+    "option_d": "Marfan heilkenni",
+    "answer": "D",
+    "id": "medical_genetics/dev/3"
+  },
+  {
+    "instruction": "Hvort af eftirfarandi er ekki leið til að mynda raðbrigða DNA?",
+    "option_a": "Þýðing",
+    "option_b": "Tenging",
+    "option_c": "Sérhæfð umskráning",
+    "option_d": "Umbreyting",
+    "answer": "A",
+    "id": "high_school_biology/dev/0"
+  },
+  {
+    "instruction": "Hvaða eiginleikar eru ekki lykilatriði í opna stjórnunarlíkaninu?",
+    "option_a": "Siðferði",
+    "option_b": "Nýsköpun",
+    "option_c": "Vaxtarauðlind",
+    "option_d": "Aðlögun",
+    "answer": "A",
+    "id": "management/dev/3"
+  },
+  {
+    "instruction": "Hvert af eftirfarandi listar hýdríð 14 frumefna í röð eftir hitastöðugleika, frá lægsta til hæsta gildis?",
+    "option_a": "PbH4 < SnH4 < GeH4 < SiH4 < CH4",
+    "option_b": "PbH4 < SnH4 < CH4 < GeH4 < SiH4",
+    "option_c": "CH4 < SiH4 < GeH4 < SnH4 < PbH4",
+    "option_d": "CH4 < PbH4 < GeH4 < SnH4 < SiH4",
+    "answer": "A",
+    "id": "college_chemistry/dev/4"
+  },
+  {
+    "instruction": "Hvort af eftirfarandi er talið vera skautuð sameind?",
+    "option_a": "PCl4F",
+    "option_b": "BF3",
+    "option_c": "CO2",
+    "option_d": "Si(CH3)4",
+    "answer": "A",
+    "id": "high_school_chemistry/dev/1"
+  },
+  {
+    "instruction": "Hvert af eftirfarandi er það líkamshol sem inniheldur heiladingul?",
+    "option_a": "Kvið",
+    "option_b": "Kröbbótt",
+    "option_c": "Pleural",
+    "option_d": "Spinal",
+    "answer": "B",
+    "id": "anatomy/dev/4"
+  },
+  {
+    "instruction": "Samkvæmt þrýstingsflæðislíkani um hreyfingu efnisþátta í blaðgrænu er hreyfing ljóstillífunar frá uppsprettu í vaskinn drifin áfram af",
+    "option_a": "ATP-háð þrýstingsstreymisdæla",
+    "option_b": "a vatnsþrýstimöguleikastigull",
+    "option_c": "umsog",
+    "option_d": "Flæði í apóplastísku formi",
+    "answer": "B",
+    "id": "college_biology/dev/3"
+  },
+  {
+    "instruction": "Hvert af eftirfarandi segir best frá röksemdafærslu James Madison í The Federalist númer 10?",
+    "option_a": "Heiðarlegir stjórnmálamenn geta komið í veg fyrir að andstæður myndist.",
+    "option_b": "Átök eru líklegri í stórum lýðveldum en smáum.",
+    "option_c": "Með lýðveldisstjórn er hægt að draga úr neikvæðum áhrifum fylkingahyggju.",
+    "option_d": "Frjálsar kosningar eru besta vörn þjóðarinnar gegn flokkahyggju.",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/4"
+  },
+  {
+    "instruction": "Tunglið rotnar með einkennandi líftíma sem er um 10^-6 sekúndur í rafeindir, neutrónín úr tungli og antineutrónín úr rafeindir. Tunglið er bannað að rotna í rafeindir og bara eitt neutrónín samkvæmt náttúruverndarlögmáli",
+    "option_a": "gjaldtaka",
+    "option_b": "massi",
+    "option_c": "orka og skriðþungi",
+    "option_d": "lepton númer",
+    "answer": "D",
+    "id": "college_physics/dev/4"
+  },
+  {
+    "instruction": "Í SR læsingu sem byggð er út frá NOR hliðum, sem ástand er ekki leyfilegt",
+    "option_a": "S=0, R=0",
+    "option_b": "S=0, R=1",
+    "option_c": "S=1, R=0",
+    "option_d": "S=1, R=1",
+    "answer": "D",
+    "id": "electrical_engineering/dev/0"
+  },
+  {
+    "instruction": "Í 2 póla hringvinduvél er viðnám eins leiðara 2O og heildarfjöldi leiðara er 100. Finna heildarviðnám",
+    "option_a": "200O",
+    "option_b": "100O",
+    "option_c": "50O",
+    "option_d": "10O",
+    "answer": "C",
+    "id": "electrical_engineering/dev/1"
+  },
+  {
+    "instruction": "Staðhæfing 1 | Hvert einasta eining í hópi myndar hringlaga undirhóp hópsins. Staðhæfing 2 | Samhverfa hópurinn S _ 10 hefur 10 einingar.",
+    "option_a": "True, True",
+    "option_b": "False, False",
+    "option_c": "True, False",
+    "option_d": "Fals, True",
+    "answer": "C",
+    "id": "abstract_algebra/dev/2"
+  },
+  {
+    "instruction": "Það tekur sex ár að tvöfalda fimm þúsund dollara á ári á x% vöxtum. Hvað tekur það 300 dollara að tvöfaldast í 9600 dollara á sama vaxtastigi?",
+    "option_a": "12",
+    "option_b": "1",
+    "option_c": "30",
+    "option_d": "5",
+    "answer": "C",
+    "id": "high_school_mathematics/dev/1"
+  },
+  {
+    "instruction": "Algengasta röskunin meðal karlmanna sem leita sér kynlífsmeðferðar er:",
+    "option_a": "ótímabært sáðlát",
+    "option_b": "hindrað sáðlát",
+    "option_c": "ristruflanir",
+    "option_d": "kvillar í eggjastokkum",
+    "answer": "C",
+    "id": "human_sexuality/dev/4"
+  },
+  {
+    "instruction": "36 ára karlmaður kemur á skrifstofuna með 3 vikna sögu um mjóbaksverki. Hann neitar að hafa lent í áverkum en segist klifra inn og út úr bifreið sinni mörgum sinnum á dag vegna vinnu sinnar. Við skoðun á sjúklingnum í framendastöðu kemur í ljós djúpur spjaldbeinssúlkus vinstra megin, aftara neðra hliðarhorn hægra megin og samskeyti á lendahrygg sem springa óhindrað við samþjöppun. Líklegasta greiningin er",
+    "option_a": "Spennulos í spjaldbeini vinstra megin",
+    "option_b": "spjaldbeinssnúningur vinstra megin og hægra megin",
+    "option_c": "hægri einhliða spjaldhryggsbeygja",
+    "option_d": "rétt-á-rétt spjaldbeinssnúningur",
+    "answer": "D",
+    "id": "professional_medicine/dev/1"
+  },
+  {
+    "instruction": "Í hvaða ættbálki var „Mandate of Heaven“ þróað til að lögmæta hina nýju valdhafa?",
+    "option_a": "Shang",
+    "option_b": "Zhou",
+    "option_c": "Han",
+    "option_d": "Xia",
+    "answer": "B",
+    "id": "world_religions/dev/2"
+  },
+  {
+    "instruction": "Litir í sápukúlu verða til vegna ljóss",
+    "option_a": "breytt í aðra tíðni",
+    "option_b": "sveigja",
+    "option_c": "truflun",
+    "option_d": "skautun",
+    "answer": "C",
+    "id": "conceptual_physics/dev/2"
+  },
+  {
+    "instruction": "Frjóvgað egg er einnig þekkt sem",
+    "option_a": "sifjaspell.",
+    "option_b": "fósturvísi.",
+    "option_c": "vænleika.",
+    "option_d": "blaðra.",
+    "answer": "A",
+    "id": "moral_disputes/dev/1"
+  },
+  {
+    "instruction": "Á hvaða stigi í skipulagsferlinu yrði gerð ástandsgreining?",
+    "option_a": "Að skilgreina námið",
+    "option_b": "Skipuleggja dagskrána",
+    "option_c": "Að grípa til aðgerða og hrinda hugmyndum í framkvæmd",
+    "option_d": "Mat á náminu",
+    "answer": "A",
+    "id": "public_relations/dev/3"
+  },
+  {
+    "instruction": "Hver er munurinn á karllegg og kvenlegg?",
+    "option_a": "Karlholleggir og kvenholleggir eru mismunandi á litinn.",
+    "option_b": "Karlleggir eru lengri en kvenleggir.",
+    "option_c": "Karlleggir eru stærri en kvenleggir.",
+    "option_d": "Kvenleggir eru lengri en karlleggir.",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/1"
+  },
+  {
+    "instruction": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+    "option_a": "Samfélagsleg ábyrgð fyrirtækja",
+    "option_b": "Stjórnun viðskiptasiðferðis",
+    "option_c": "Sjálfbærni",
+    "option_d": "Umhverfisstjórnun",
+    "answer": "B",
+    "id": "business_ethics/dev/1"
+  },
+  {
+    "instruction": "Hver af eftirfarandi fullyrðingum um joð er rétt, frá og með 2020? <unk>",
+    "option_a": "50% fullorðinna neyta joðs undir landsframleiðslu",
+    "option_b": "Mjólkurvörur eru léleg uppspretta joðs",
+    "option_c": "Joðmagn í lífrænni mjólk er almennt lægra en í ólífrænni mjólk",
+    "option_d": "Bresk viðmiðunargildi fyrir mataræði ráðleggja aukningu á joðneyslu á meðgöngu",
+    "answer": "C",
+    "id": "nutrition/dev/3"
+  },
+  {
+    "instruction": "44 ára karlmaður kemur á stofu vegna 3 daga sögu um hálsbólgu, óframkallaðan hósta, nefrennsli og höfuðverk framan á höfði. Hann segir höfuðverkinn vera verri á morgnana og íbúprófen veiti þó nokkurn létti. Hann hefur ekki fengið mæði. Sjúkrasaga er ómarkviss. Hann tekur engin önnur lyf en íbúprófen við verkjum. Lífsmörk eru hitastig 37,4 gráður C (99,4 gráður F), púls 88/mín, öndun 18/mín og blóðþrýstingur 120/84 mm Hg. Skoðun á nösum sýnir roðakenndar slímhimnur. Skoðun á hálsi sýnir roða og ofvöxt í eggbúseitilfrumum á aftari hluta munnkoks. Enginn áþreifanlegur legháls-eða leghálsbólga er til staðar. Lungu eru tær fyrir ásvelgingu. Hver af eftirfarandi er líklegasta orsök einkenna þessa sjúklings?",
+    "option_a": "Ofnæmiskvef",
+    "option_b": "Epstein-Barr veiran",
+    "option_c": "Mycoplasma pneumoniae",
+    "option_d": "Rínaveira",
+    "answer": "D",
+    "id": "professional_medicine/dev/3"
+  },
+  {
+    "instruction": "Menntaskólakennari fyllir 1 lítra flösku af hreinu köfnunarefni og lokar henni. Þrýstingurinn er 1,70 atm og herbergishiti er 25 ◦ C. Hvor breytan eykur þrýsting í kerfinu ef öllum öðrum breytum er haldið föstum?",
+    "option_a": "Hækkandi hitastig, aukið magn af gasi",
+    "option_b": "Hækkandi hitastig, aukið rúmmál",
+    "option_c": "Minnkandi rúmmál, lækkandi hitastig",
+    "option_d": "Minnkandi mól af gasi, aukið rúmmál",
+    "answer": "A",
+    "id": "college_medicine/dev/3"
+  },
+  {
+    "instruction": "Þú ert að skoða greinar fyrir ráðstefnuna World's Fanciest Machine Learning og þú sérð greinar með eftirfarandi fullyrðingum. Hvaða greinar myndir þú taka undir?",
+    "option_a": "Aðferðin mín nær þjálfunarskekkju sem er minni en allar fyrri aðferðir!",
+    "option_b": "Aðferðin mín nær prófskekkju sem er minni en allar fyrri aðferðir! ( Neðanmálsgrein: Þegar reglubreytan l er valin til að lágmarka prófskekkju.)",
+    "option_c": "Aðferðin mín nær prófskekkju sem er minni en allar fyrri aðferðir! ( Neðanmálsgrein: Þegar reglubreytan l er valin til að lágmarka kross-gildisskekkju.)",
+    "option_d": "Aðferðin mín nær fram skekkju í krossgildingu sem er minni en allar fyrri aðferðir! ( Neðanmálsgrein: Þegar reglusetningarbreytan l er valin til að lágmarka skekkju í krossgildingu.)",
+    "answer": "C",
+    "id": "machine_learning/dev/2"
+  },
+  {
+    "instruction": "Ljóssjónauki sem logar samanstendur af tveimur samliggjandi linsuglerjum sem eru 100 cm aðskildar. Linsuglerið er 20 cm að miðjulengd. Stækkun sjónaukans er",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/3"
+  },
+  {
+    "instruction": "Samkvæmt lögum um málefni fatlaðs fólks, um bætta skólastarfsemi, þarf fræðsluyfirvöld að gera eftirfarandi áður en þau breyta námsframboði fatlaðs nemanda?",
+    "option_a": "Gefa barninu reynslutíma í nýju umhverfi",
+    "option_b": "Tilkynna foreldrum skriflega",
+    "option_c": "Fá samþykki skólanefndar",
+    "option_d": "Afla samþykkis foreldra",
+    "answer": "B",
+    "id": "high_school_psychology/dev/3"
+  },
+  {
+    "instruction": "Phillips-kúrfan gefur til kynna að",
+    "option_a": "Bein tengsl atvinnuleysis og verðbólgu",
+    "option_b": "bein tengsl milli verðs og eftirspurnar eftir magni",
+    "option_c": "Öfugt samband milli verðs og eftirspurnar eftir magni",
+    "option_d": "Öfugt samband atvinnuleysis og verðbólgu",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/1"
+  },
+  {
+    "instruction": "SHA-1 hefur boð sem melta",
+    "option_a": "160 bitar",
+    "option_b": "512 bitar",
+    "option_c": "628 bitar",
+    "option_d": "820 bitar",
+    "answer": "A",
+    "id": "computer_security/dev/0"
+  },
+  {
+    "instruction": "Hvað verður til við ljóstillífun?",
+    "option_a": "vetni",
+    "option_b": "nælon",
+    "option_c": "súrefni",
+    "option_d": "ljós",
+    "answer": "C",
+    "id": "miscellaneous/dev/3"
+  },
+  {
+    "instruction": "Stökkbreyting í bakteríuensími breytti áður skautaðri amínósýru í skautaða amínósýru. Þessi amínósýra var staðsett á stað sem var fjarri virkum stað ensímsins. Hvernig gæti þessi stökkbreyting breytt sérhæfni hvarfefna ensímsins?",
+    "option_a": "Með því að breyta pH kjörstyrk ensímsins",
+    "option_b": "Með því að breyta staðsetningu ensímsins í frumunni",
+    "option_c": "Með því að breyta lögun próteinsins",
+    "option_d": "Amínósýrubreyting frá virka staðnum getur ekki breytt sérhæfni hvarfefna ensímsins.",
+    "answer": "C",
+    "id": "high_school_biology/dev/1"
+  },
+  {
+    "instruction": "Hver af eftirfarandi fullyrðingum er rétt (samkvæmt þekkingu árið 2020)? <unk>",
+    "option_a": "Neytendur með fenýlketónmigu þurfa að forðast að neyta sætuefnisins aspartam",
+    "option_b": "Neytendur með fenýlketónmigu þurfa að forðast neyslu á sætuefninu sakkarín",
+    "option_c": "Neytendur með fenýlketónmigu þurfa að forðast neyslu á sætuefninu súkralósa",
+    "option_d": "Neytendur með fenýlketónmigu þurfa að forðast neyslu á sætuefninu acesúlfame K",
+    "answer": "A",
+    "id": "nutrition/dev/1"
+  },
+  {
+    "instruction": "Hvert er úttak \"abc\" [::-1] í Python 3?",
+    "option_a": "Villa",
+    "option_b": "abc",
+    "option_c": "Cba",
+    "option_d": "c",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/2"
+  },
+  {
+    "instruction": "Við smíði marghliða aðhvarfsjafna til spágerðar er ákjósanlegasta samsetning mælinga sú þar sem spár",
+    "option_a": "hafa ótengsl sín á milli en miðlungssterk tengsl við viðmiðið",
+    "option_b": "hafa lága fylgni sín á milli og lága fylgni við viðmiðið",
+    "option_c": "hafa mikla innbyrðis fylgni og miðlungs fylgni við viðmiðið",
+    "option_d": "hafa lága fylgni við viðmiðið en hafa miðlungs fylgni sín á milli",
+    "answer": "A",
+    "id": "professional_psychology/dev/4"
+  },
+  {
+    "instruction": "Metz segir að það sem sé rangt við afleiðuhyggju rök gegn refsingum byggi á afrískum gildum.",
+    "option_a": "Ekki er ljóst enn sem komið er hvort refsingar aftra samfélagslegum skaða.",
+    "option_b": "Ekki er ljóst enn sem komið er hvort refsingar aftra skaða einstaklinga.",
+    "option_c": "Afrísk gildi styðja ekki við afleiðingahyggju.",
+    "option_d": "Þrátt fyrir að afleiðsluhyggja sé studd af afrískum gildum hafa ekki verið sett fram nein afleiðsluhyggjuleg rök sem eru mótuð af afrískum gildum.",
+    "answer": "A",
+    "id": "moral_disputes/dev/0"
+  },
+  {
+    "instruction": "Hver er fósturfræðilegur uppruni mjaðmabeins?",
+    "option_a": "Fyrsti kokboginn",
+    "option_b": "Fyrsti og annar kokboginn",
+    "option_c": "Annar kokboginn",
+    "option_d": "Annar og þriðji kokboginn",
+    "answer": "D",
+    "id": "anatomy/dev/0"
+  },
+  {
+    "instruction": "Væntanleg aukaverkun af völdum kreatínuppbótar er:",
+    "option_a": "vöðvamáttleysi.",
+    "option_b": "þyngdaraukningu.",
+    "option_c": "vöðvakrampa.",
+    "option_d": "raflausnartap.",
+    "answer": "B",
+    "id": "college_medicine/dev/4"
+  },
+  {
+    "instruction": "Staðhæfing 1 | Hvert fall úr takmörkuðu mengi á sjálfu sér verður að vera eitt á móti einu. Staðhæfing 2 | Hver undirhópur af abelian hópi er abelian.",
+    "option_a": "True, True",
+    "option_b": "False, False",
+    "option_c": "True, False",
+    "option_d": "Fals, True",
+    "answer": "A",
+    "id": "abstract_algebra/dev/3"
+  },
+  {
+    "instruction": "Látum V vera mengi allra raunfjölliða p (x). Látum ummyndanir T, S vera skilgreindar á V með T: p (x) -> xp (x) og S: p (x) -> p (x) = d/dx p (x) og túlkum (ST)(p (x)) sem S (T(p (x))). Hvort af eftirfarandi er rétt?",
+    "option_a": "ST = 0",
+    "option_b": "ST = T",
+    "option_c": "ST = TS",
+    "option_d": "ST - TS er auðkenniskort V á sjálft sig.",
+    "answer": "D",
+    "id": "college_mathematics/dev/0"
+  },
+  {
+    "instruction": "Samkvæmt líkani Caplan um ráðgjafamiðaða málsmeðferð hefur ráðgjafinn fyrst og fremst áhuga á",
+    "option_a": "að greina orsakir og lausnir á vandamálum skjólstæðingsins",
+    "option_b": "að greina og útiloka orsakir erfiðleika ráðþega við að ráða fram úr vandamáli",
+    "option_c": "að koma á fót stigveldi valds til að gera skilvirka ákvarðanatöku mögulega",
+    "option_d": "að kynna einfalda, vel skilgreinda og ótvíræða aðgerðaáætlun fyrir ráðgjafann til að vinna bug á færniskorti",
+    "answer": "B",
+    "id": "high_school_psychology/dev/1"
+  },
+  {
+    "instruction": "Pence ber saman sex mismunandi tilfelli af æxlun, frá náttúrulegum tengslum til SCNT. Hvaða ályktun dregur hann af þessum samanburði?",
+    "option_a": "SCNT er ekki annars konar fjölföldun þar sem ekki er siðferðilega marktækur munur á henni og öðrum leyfilegum fjölföldunaraðferðum.",
+    "option_b": "Þar sem lítil hætta er á skaða fyrir náttúrulegan tvináttunarbúnað verður lítil hætta á skaða fyrir SCNT.",
+    "option_c": "bæði A og B",
+    "option_d": "hvorki A né B",
+    "answer": "A",
+    "id": "moral_disputes/dev/3"
+  },
+  {
+    "instruction": "Alpha Co. undirritaði viðhaldssamning við hugbúnaðarfyrirtæki fyrir 15.000 kr. þann 1. janúar á fyrsta ári og hefst viðhaldstíminn 1. mars á 2. ári. Alpha stofnaði einnig til 5.000 kr. kostnaðar þann 1. janúar á fyrsta ári vegna beiðna um breytingar á hugbúnaði sem auka virkni hugbúnaðarins. Alpha afskrifar og afskrifar tölvu- og hugbúnaðareignir sínar á fimm árum með beinu aðferðinni. Hver er heildarkostnaður Alpha vegna viðhaldssamningsins og breytinga á hugbúnaði á árinu sem lauk 31. desember á fyrsta ári?",
+    "option_a": "$5,000",
+    "option_b": "$13,500",
+    "option_c": "$16,000",
+    "option_d": "$20,000",
+    "answer": "B",
+    "id": "professional_accounting/dev/3"
+  },
+  {
+    "instruction": "Tilfærslan frá „borgaralegum trúarbrögðum“ yfir í „sameiginleg trúarbrögð“ felur í sér að:",
+    "option_a": "aukið skrifræði ríkisins hefur gert trúarbrögðin að aðeins jaðarhluta af lífi okkar",
+    "option_b": "Þrátt fyrir veikingu hefðbundins valds er daglegt líf okkar og „vitund“ enn mótuð af trúarskoðunum og gildum",
+    "option_c": "trúarþátttaka í sameiginlegri guðsþjónustu hefur minnkað en fólk iðkar trú sína enn í einrúmi",
+    "option_d": "fólk er mun líklegra til að ræða trúarskoðanir sínar á opinberum, óformlegum vettvangi",
+    "answer": "B",
+    "id": "sociology/dev/2"
+  },
+  {
+    "instruction": "Í hvaða af eftirfarandi málum var það fordæmisgefandi að sakborningi yrði að vera kynntur réttur til þagnar, réttur til lögmanns og vernd gegn sjálfsásakanir?",
+    "option_a": "Weeks gegn Bandaríkjunum",
+    "option_b": "Betts gegn Brady",
+    "option_c": "Mapp gegn Ohio",
+    "option_d": "Miranda gegn Arizona",
+    "answer": "D",
+    "id": "high_school_government_and_politics/dev/2"
+  },
+  {
+    "instruction": "Segjum sem svo að f (1 + x) = f (x) fyrir öll raun x. Ef f er margliðu og f (5) = 11 þá er f(15/2)",
+    "option_a": "-11",
+    "option_b": "0",
+    "option_c": "11",
+    "option_d": "33/2",
+    "answer": "C",
+    "id": "college_mathematics/dev/3"
+  },
+  {
+    "instruction": "Samkvæmt d ́Holbach hagar fólk sér alltaf eftir _____.",
+    "option_a": "frjálst val",
+    "option_b": "ræður sálinni",
+    "option_c": "nauðsynleg náttúrulögmál",
+    "option_d": "óskilgreindur vilji",
+    "answer": "C",
+    "id": "philosophy/dev/2"
+  },
+  {
+    "instruction": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+    "option_a": "Landafræði",
+    "option_b": "Vöruaðgreining.",
+    "option_c": "ANSOFF matrix.",
+    "option_d": "Vörumerkjastjórnun.",
+    "answer": "A",
+    "id": "marketing/dev/0"
+  },
+  {
+    "instruction": "Hvert af eftirfarandi er rétt fullyrðing um fylgni?",
+    "option_a": "Ef hallatala aðhvarfslínunnar er nákvæmlega 1 þá er fylgnin nákvæmlega 1.",
+    "option_b": "Ef fylgnin er 0 þá er hallatala aðhvarfslínunnar óskilgreind.",
+    "option_c": "Með því að skipta á milli þess sem kallast x og y er hægt að greina fylgni milli breytanna.",
+    "option_d": "Fylgni r er jöfn hallatölu aðhvarfslínunnar þegar z-gildi fyrir y-breytuna eru teiknuð á móti z-gildum fyrir x-breytuna.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/0"
+  },
+  {
+    "instruction": "Hvenær getur „samþykki“ verið skilyrði þess að ríki geti ekki sýnt fram á að háttsemi þess sé ólögmæt?",
+    "option_a": "Samþykki getur verið til þess fallið að útiloka að eitthvað sé rangt í hvert sinn sem það er veitt.",
+    "option_b": "Samþykki getur aldrei verið skilyrði fyrir því að hægt sé að útiloka að eitthvað sé rangt",
+    "option_c": "Samþykki getur verið skilyrði þess að ekki sé um að ræða brot, enda sé samþykkið gilt og að því marki sem háttsemin er innan marka þess samþykkis sem veitt er.",
+    "option_d": "Samþykki getur alltaf verið skilyrði þess að ekki sé um að ræða brot, sama hvaða stofnun ríkisins veitir það.",
+    "answer": "C",
+    "id": "international_law/dev/3"
+  },
+  {
+    "instruction": "Hvað lýsir Berger (1963) sem myndlíkingu fyrir félagslegan veruleika?",
+    "option_a": "á keppnisvelli",
+    "option_b": "sirkus",
+    "option_c": "brúðuleikhús",
+    "option_d": "ballett",
+    "answer": "C",
+    "id": "sociology/dev/1"
+  },
+  {
+    "instruction": "Hvað af eftirfarandi er rétt staðhæfing varðandi liðdýr?",
+    "option_a": "Þeir hafa útbeinagrind sem er aðallega úr peptíðóglýkani.",
+    "option_b": "Þeir hafa opið blóðrásarkerfi með baklægu hjarta.",
+    "option_c": "Þeir eru hluti af líffræðilega óheppnuðum plöntusamfélagi sem getur ekki nýtt sér fjölbreytt búsvæði og næringarefni.",
+    "option_d": "Þeir skortir pöruð, samskeytt botnlok.",
+    "answer": "B",
+    "id": "college_biology/dev/0"
+  },
+  {
+    "instruction": "Staðhæfing 1 | Ef aH er þáttur í þáttahóp þá skiptir | aH | | aH | í | aH |. Staðhæfing 2 | Ef H og K eru undirhópar í G þá er HK undirhópur í G.",
+    "option_a": "True, True",
+    "option_b": "False, False",
+    "option_c": "True, False",
+    "option_d": "Fals, True",
+    "answer": "B",
+    "id": "abstract_algebra/dev/1"
+  },
+  {
+    "instruction": "Af hverju er ekki pláneta þar sem smástirnabeltið er?",
+    "option_a": "Áður fyrr myndaðist reikistjarna hér en hún brotnaði í sundur við stórfelldan árekstur.",
+    "option_b": "Ekki var nægilegt efni í þessum hluta sólþokunnar til að mynda reikistjörnu.",
+    "option_c": "Of mikið bergefni var til staðar til að mynda jarðreikistjörnu en ekki nægilegt magn af loftkenndu efni til að mynda jóviísku reikistjörnu.",
+    "option_d": "Samhljómur við Júpíter kom í veg fyrir að efni safnaðist saman og myndaði reikistjörnu.",
+    "answer": "D",
+    "id": "astronomy/dev/3"
+  },
+  {
+    "instruction": "Hvað er siðferðileg hakkarastarfsemi?",
+    "option_a": "„Hakk“ siðfræði svo þau réttlæti óviljandi sjálfshyggju",
+    "option_b": "Hakka kerfi (t.d. við innbrotsprófanir) til að afhjúpa veikleika svo hægt sé að laga þá, frekar en að nýta",
+    "option_c": "Að hakka sig inn í kerfi sem eru rekin af þeim sem þú ert ósammála",
+    "option_d": "Slangur fyrir hraða hugbúnaðarþróun, t.d. sem hluti af hakkaþonum",
+    "answer": "B",
+    "id": "computer_security/dev/2"
+  },
+  {
+    "instruction": "Í dýrafrumum, hver af eftirfarandi myndum er líklegasta leiðin sem seytiprótein tekur þegar það er myndað í frumu?",
+    "option_a": "Plasma membrane-Golgi apparatus-ribosome-secretory vesicle-rough ER",
+    "option_b": "Ribosome-Golgi apparatus-rough ER-secretory vesicle-plasma membrane",
+    "option_c": "Plasma membrane-Golgi apparatus-ribosome-secretory vesicle-rough ER",
+    "option_d": "Ribosomal-rough ER-Golgi apparatus-secretory vesicle-plasma membrane",
+    "answer": "D",
+    "id": "high_school_biology/dev/2"
+  },
+  {
+    "instruction": "Sýni með 0,217 g af HgO (mólmassi = 217 g) hvarfast við umframjónir joðs samkvæmt ofangreindu hvarfi. Til að títra lausnina þarf að nota 0,10 M HCl í marga ml til að ná jafngildispunkti.",
+    "option_a": "1,0 mL",
+    "option_b": "10 mL",
+    "option_c": "20 mL",
+    "option_d": "50 mL",
+    "answer": "C",
+    "id": "college_chemistry/dev/1"
+  },
+  {
+    "instruction": "Hver af eftirfarandi fullyrðingum er EKKI rétt varðandi þjónustu sveitarfélaga í Bandaríkjunum?",
+    "option_a": "Oft er um tvíverknað að ræða.",
+    "option_b": "Félagsleg vandamál miðborgarinnar yfirfærast á nærliggjandi íbúahverfi.",
+    "option_c": "Óskilvirkni í þjónustustarfsemi kemur oft fyrir.",
+    "option_d": "Aðgerðir hverfa til að draga úr mengun njóta alltaf stuðnings nágrannasamfélaga.",
+    "answer": "D",
+    "id": "high_school_geography/dev/2"
+  },
+  {
+    "instruction": "Talnalisti hefur n þætti, vísa frá 1 til n. Eftirfarandi reiknirit á að sýna fjölda þeirra þátta í listanum sem hafa meira en 100 gildi. Reikniritið notar breyturnar talningu og stöðu. Skref 3 og 4 vantar. Skref 1: Setja talningu á 0 og stöðu á 1. Skref 2: Ef gildi þáttarins í vísistöðu er meira en 100, hækka gildi talningar um 1. Skref 3: (vantar skref) Skref 4: (vantar skref) Skref 5: Sýna gildi talningar. Hvað af eftirfarandi mætti nota í stað skrefa 3 og 4 svo reikniritið virki eins og til er ætlast?",
+    "option_a": "Skref 3: Hækka gildi stöðu um 1. Skref 4: Endurtaktu skref 2 og 3 þar til gildi talningar er orðið hærra en 100.",
+    "option_b": "Skref 3: Hækka gildi stöðu um 1. Skref 4: Endurtaka skref 2 og 3 þar til t gildi stöðu er hærra en n.",
+    "option_c": "Þrep 3: Endurtaktu þrep 2 þar til gildi talningar er orðið hærra en 100. Þrep 4: Hækkið gildi stöðu um 1.",
+    "option_d": "Þrep 3: Endurtaktu þrep 2 þar til gildi stöðu er hærra en n. Þrep 4: Hækkið gildi talningar um 1.",
+    "answer": "D",
+    "id": "high_school_computer_science/dev/4"
+  },
+  {
+    "instruction": "Hvert af eftirfarandi er útlitseinkenni paramyxóveiranna.",
+    "option_a": "Brothættar veirur oft sjáanlegar með RNA sem spýtist innan frá",
+    "option_b": "Langlífari veirur",
+    "option_c": "Icosahedral veirur með hjúp",
+    "option_d": "Mjög stórar veirur",
+    "answer": "A",
+    "id": "virology/dev/1"
+  },
+  {
+    "instruction": "Carl Jung taldi að flutningur viðskiptavinar:",
+    "option_a": "er ímyndun sem dregur athygli skjólstæðingsins frá raunveruleikanum.",
+    "option_b": "táknar „blandaðar tilfinningar“ gagnvart meðferðaraðilanum.",
+    "option_c": "er nokkurs konar „leiklist“",
+    "option_d": "endurspeglar persónulega og sameiginlega ómeðvitund skjólstæðingsins.",
+    "answer": "D",
+    "id": "professional_psychology/dev/3"
+  },
+  {
+    "instruction": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+    "option_a": "Haunted web",
+    "option_b": "Heimasíða",
+    "option_c": "Yfirborðsvefur",
+    "option_d": "Djúpvefur",
+    "answer": "D",
+    "id": "computer_security/dev/4"
+  },
+  {
+    "instruction": "Hvert af eftirfarandi reglubundnum segðum jafngildir (lýsir sama strengjasetti og) (a * + b) * (c + d)?",
+    "option_a": "a * (c + d) + b (c + d)",
+    "option_b": "a * (c + d) * + b (c + d) *",
+    "option_c": "a * (c + d) + b * (c + d)",
+    "option_d": "(a + b) * c +(a + b) * d",
+    "answer": "D",
+    "id": "college_computer_science/dev/0"
+  },
+  {
+    "instruction": "Hvaða efnisþáttur í tóbaksreyk veldur krabbameini?",
+    "option_a": "Nikótín",
+    "option_b": "Tjörn",
+    "option_c": "Kolsýringur",
+    "option_d": "Reykjarsagnir",
+    "answer": "B",
+    "id": "human_aging/dev/3"
+  },
+  {
+    "instruction": "Ljósapera með vinnuvirkni ph = 2eV er tengd við mótstöðubúnað í raðtengingu. Ljós með tíðni f = 1 x 10^15 Hz lendir á málmplötu ljósaperunnar. Ef afl ljóssins er P = 100 W, hver er straumurinn í gegnum mótstöðubúnaðinn?",
+    "option_a": "Kl. 2:00",
+    "option_b": "Kl. 6:00",
+    "option_c": "Kl. 12:00",
+    "option_d": "24 A",
+    "answer": "D",
+    "id": "high_school_physics/dev/2"
+  },
+  {
+    "instruction": "Punktpóstur hefur styrkinn 4p * 10^-4 vefur. Krafturinn í nýtónum á punktpósti með styrkinn 4p * 1,5 * 10^-4 vefur sem er settur í 10 cm fjarlægð frá honum verður",
+    "option_a": "15 N.",
+    "option_b": "20 N.",
+    "option_c": "7.5 N.",
+    "option_d": "3,75 N.",
+    "answer": "A",
+    "id": "electrical_engineering/dev/4"
+  },
+  {
+    "instruction": "Hvers vegna eru parvóveirur mjög áhrifamiklar sníkjudýr?",
+    "option_a": "Því þeir hafa enga kjarnsýru",
+    "option_b": "Þeir þurfa hjálparveiru",
+    "option_c": "Eingöngu samhliða í frumum sem skipta sér",
+    "option_d": "Getur samlagast litningum hýsils",
+    "answer": "A",
+    "id": "virology/dev/0"
+  },
+  {
+    "instruction": "Íbúar borgarinnar þar sem Michelle fæddist eru 145.826. Hvert er gildið á 5 í tölunni 145.826?",
+    "option_a": "5 þúsund",
+    "option_b": "5 hundruð",
+    "option_c": "5 tugir",
+    "option_d": "5 ein",
+    "answer": "A",
+    "id": "elementary_mathematics/dev/0"
+  },
+  {
+    "instruction": "Hvernig má lýsa samþykki um að vera bundinn af ríki?",
+    "option_a": "Samþykki ríkis fyrir því að vera bundið kemur aðeins fram með fullgildingu",
+    "option_b": "Samþykki ríkis fyrir því að vera bundið af sáttmála getur komið fram með undirritun, fullgildingu, staðfestingu, samþykki, samþykki eða aðild",
+    "option_c": "Samþykki ríkis fyrir því að vera bundið er gefið með undirskrift",
+    "option_d": "Samþykki ríkis fyrir því að vera bundið kemur fram með hvaða leið sem það kýs",
+    "answer": "B",
+    "id": "international_law/dev/4"
+  },
+  {
+    "instruction": "Tökum tölvuhönnun þar sem margir örgjörvar, sem hver um sig hefur einka cache minni, deila heimsminni með einum bus. Þessi bus er mikilvæg auðlind kerfisins. Hver örgjörvi getur framkvæmt eina skipun á 500 nanósekúndum svo lengi sem minnisviðmiðunum er fullnægt með staðbundnu cache hans. Þegar cache mistök eiga sér stað er örgjörvinn tafinn í 2.000 nanósekúndur til viðbótar. Á helmingi þessarar viðbótartöfunar er busið tileinkað til að þjónusta cache mistökin. Á hinum helmingnum getur örgjörvinn ekki haldið áfram en busið er frjálst til að þjónusta beiðnir frá öðrum örgjörvum. Að meðaltali þarf hver skipun 2 minnisviðmiðanir. Að meðaltali eiga cache mistök sér stað á 1% af viðmiðunum. Hvaða hlutfall af afkastagetu bussins myndi einn örgjörvi nota, án þess að hunsa tafir vegna samkeppni frá öðrum örgjörvum?",
+    "option_a": "1/50",
+    "option_b": "1/27",
+    "option_c": "1/25",
+    "option_d": "2/27",
+    "answer": "B",
+    "id": "college_computer_science/dev/4"
+  },
+  {
+    "instruction": "Olivia notaði regluna „Add 11“ til að búa til talnamynstrið sem sjá má hér fyrir neðan. 10, 21, 32, 43, 54 Hvor staðhæfingin um talnamynstrið er sönn?",
+    "option_a": "10. talan í mynstrinu verður jöfn tala.",
+    "option_b": "Tölumynstrið mun aldrei hafa tvær jafnar tölur við hliðina á hvor annarri.",
+    "option_c": "Næstu tvær tölur í mynstrinu verða jafnar tölur og síðan oddatölur.",
+    "option_d": "Ef talnamynstrið byrjaði á oddatölu þá væri mynstrið einungis með oddatölur í því.",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/1"
+  },
+  {
+    "instruction": "Hvaða orðatiltæki jafngildir 5 x 9?",
+    "option_a": "(5 x 4) x (6 x 5)",
+    "option_b": "(5 x 5) + (5 x 4)",
+    "option_c": "(5 x 5) + (5 x 9)",
+    "option_d": "(5 x 9) x (6 x 9)",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/4"
+  },
+  {
+    "instruction": "Óvissa um valdmörk forseta stafar fyrst og fremst af því að",
+    "option_a": "stjórnarskrárbundin skilgreining á þessum heimildum er víðtæk og ómarkviss",
+    "option_b": "flestir eru sammála um að stjórnarskráin setji forsetanum of mikil mörk",
+    "option_c": "Hæstiréttur synjar jafnan um úrskurð í málum er varða forsetavaldið",
+    "option_d": "stjórnarskrárbreytingar hafa aukið völd forseta til muna",
+    "answer": "A",
+    "id": "high_school_government_and_politics/dev/0"
+  },
+  {
+    "instruction": "Hvert af eftirfarandi er ekki vandamál tengt opinberum hagtölum um verkfallsaðgerðir?",
+    "option_a": "flest verkföll fara fram hjá vinnuveitendum og fjölmiðlum",
+    "option_b": "ekki verður tilkynnt um öll stéttarfélög sem eiga í deilum við vinnuveitanda",
+    "option_c": "skilgreining á verkföllum útilokar þau sem ná til færri en tíu starfsmanna eða vara skemur en einn dag",
+    "option_d": "erfitt að bera saman verkföll sem voru mæld á mismunandi hátt",
+    "answer": "A",
+    "id": "sociology/dev/4"
+  },
+  {
+    "instruction": "Kona sem veit að hún er með virkt herpes og ómeðhöndlaða sárasótt en heldur áfram að stunda kynlíf án þess að láta maka sinn vita af ástandi sínu hefur, í sálgreiningarlegu tilliti:",
+    "option_a": "sterkt egó",
+    "option_b": "veikt ofurego",
+    "option_c": "veik hugmynd",
+    "option_d": "sterkt ofurego",
+    "answer": "B",
+    "id": "human_sexuality/dev/1"
+  },
+  {
+    "instruction": "Hver af eftirfarandi fullyrðingum um ráðuneyti er röng?",
+    "option_a": "Þau eru sett af löggjafarvaldinu.",
+    "option_b": "Þeir hafa oft ekki mikil áhrif á ákvarðanir forseta.",
+    "option_c": "Ekki er hægt að stjórna þeim öllum af leiðtogum sem tilheyra sama stjórnmálaflokki og forsetinn.",
+    "option_d": "Ekki eru allar alríkisstofnanir ráðuneyti.",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/3"
+  },
+  {
+    "instruction": "Veldu bestu ensku túlkun á gefnum rökum í forsögu rökfræðinnar. Dm (x)(Wx~Dx) (x)Wx Ag / (x)Ax",
+    "option_a": "Marina er dansari. Sumir veikir eru ekki dansarar. Annað hvort er allt veikburða eða Georgía spilar blak. Svo eitthvað spilar blak.",
+    "option_b": "Marina er dansari. Enginn veikur er dansari. Allt er annaðhvort veikur eða leikur blak. Svo eitthvað leikur blak.",
+    "option_c": "Marina er dansari. Sumir veikir eru ekki dansarar. Allt er annaðhvort veikur eða spilar blak. Svo eitthvað spilar blak.",
+    "option_d": "Marina er dansari. Enginn veikur er dansari. Annað hvort er allt veikur eða Georgía spilar blak. Svo eitthvað spilar blak.",
+    "answer": "D",
+    "id": "formal_logic/dev/2"
+  },
+  {
+    "instruction": "Spóla hreyfanlegs spólumælis er 100 snúninga, 40 mm löng og 30 mm breið. Stýrivægi er 240 * 10-6 N-m á fullum skala. Ef segulflæðisþéttleiki er 1Wb/m2 er mælisviðið",
+    "option_a": "1 mA.",
+    "option_b": "2 mA.",
+    "option_c": "3 mA.",
+    "option_d": "4 mA.",
+    "answer": "B",
+    "id": "electrical_engineering/dev/2"
+  },
+  {
+    "instruction": "Ákveðin pípulagningavél með RISC hefur 8 almenna skráningar R 0, R 1,..., R 7 og styður eftirfarandi aðgerðir. ADD Rs 1, Rs 2, Rd Bæta Rs 1 við Rs 2 og setja summuna í Rd MUL Rs 1, Rs 2, Rd Margfalda Rs 1 með Rs 2 og setja afurðina í Rd Aðgerð tekur venjulega einn hring, hins vegar tekur aðgerð tvo hringi ef hún skilar niðurstöðu sem þarf í næstu aðgerð á eftir í aðgerðarröð. Tökum dæmi um orðasambandið AB + ABC + BC, þar sem breyturnar A, B, C eru staðsettar í skráningar R 0, R 1, R 2. Ef ekki má breyta innihaldi þessara þriggja skráningar, hver er lágmarksfjöldi klukkutíma sem þarf í aðgerðarröð sem reiknar gildi AB + ABC + BC?",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "8",
+    "answer": "B",
+    "id": "college_computer_science/dev/1"
+  },
+  {
+    "instruction": "Hvers vegna er Mars rauður?",
+    "option_a": "Vegna þess að yfirborð jarðvegsins er þakið mjög oxuðum steindum.",
+    "option_b": "Lofthjúpurinn dreifir meira ljósi á blárri bylgjulengdum sem sendir aðallega rautt ljós.",
+    "option_c": "Mars er þakinn fornum hraunum sem eru rauðleitur.",
+    "option_d": "Vatn á yfirborði Mars breytti yfirborðssteindum fyrir nokkrum milljörðum ára.",
+    "answer": "A",
+    "id": "astronomy/dev/4"
+  },
+  {
+    "instruction": "Hvað á almannatengill að gera ef hann veit ekki svarið við spurningu fréttamanns?",
+    "option_a": "Gefa fréttamanni aðrar upplýsingar sem hún er viss um að séu réttar.",
+    "option_b": "Segja að upplýsingarnar séu „afmáðar“ og verði miðlað síðar.",
+    "option_c": "Segja „ég veit það ekki“ og lofa að veita upplýsingarnar síðar.",
+    "option_d": "Segðu „ekki gera athugasemdir“ frekar en að vera óupplýstur.",
+    "answer": "C",
+    "id": "public_relations/dev/0"
+  },
+  {
+    "instruction": "Singleton hönnunarmynstrið er notað til að tryggja að einungis eitt tilvik af flokki geti verið augnabliks. Hvert af eftirfarandi er (eru) rétt um þetta hönnunarmynstur? I. Singleton flokkur hefur stöðusmiðjuaðferð til að gefa tilvik sitt. II. Singleton flokkur getur verið undirflokkur annars flokks. III. Singleton flokkur hefur einkaframleiðanda.",
+    "option_a": "Ég bara",
+    "option_b": "II eingöngu",
+    "option_c": "Einungis III",
+    "option_d": "I, II og III",
+    "answer": "D",
+    "id": "college_computer_science/dev/2"
+  },
+  {
+    "instruction": "Hvernig er munur á skýringum varnarraunhyggju og sóknarraunhyggju á hegðun ríkja?",
+    "option_a": "Varnarraunsæismenn leggja meiri áherslu á hlutverk alþjóðlegra stofnana",
+    "option_b": "Varnarraunsæismenn leggja minni áherslu á landfræðilega þætti",
+    "option_c": "Sóknarraunsæismenn setja þjóðarhagsmuni í meiri forgang en varnarraunsæismenn.",
+    "option_d": "Varnarraunsæismenn telja ríki vera hámarka öryggi en sóknarraunsæismenn telja ríki vera valdahámarka",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/3"
+  },
+  {
+    "instruction": "Endurskoðandi rekur raðnúmer á búnaði til söluaðila sem ekki er útgefandi. Hver af eftirfarandi fullyrðingum stjórnenda er studd með þessu prófi?",
+    "option_a": "Verðmat og úthlutun",
+    "option_b": "Heildstæðni",
+    "option_c": "Réttindi og skyldur",
+    "option_d": "Kynning og upplýsingagjöf",
+    "answer": "B",
+    "id": "professional_accounting/dev/4"
+  },
+  {
+    "instruction": "Segjum að augað sé 5 mm í þvermál og þú sért með sjónauka með 50 cm op. Hversu mikið ljós getur sjónaukinn safnað saman en augað?",
+    "option_a": "10000 sinnum meira",
+    "option_b": "100 sinnum meira",
+    "option_c": "1000 sinnum meira",
+    "option_d": "10 sinnum meira",
+    "answer": "A",
+    "id": "astronomy/dev/2"
+  },
+  {
+    "instruction": "Einsleitar byggingar eru oft nefndar sem merki um náttúruvalsferlið. Allt sem hér fer á eftir eru dæmi um einsleitar byggingar",
+    "option_a": "vængi fugls og vængi leðurblöku",
+    "option_b": "flippar hvals og armar manns",
+    "option_c": "broddfætur hníslar og blaðlús",
+    "option_d": "framfætur skordýrs og framfætur hunds",
+    "answer": "D",
+    "id": "high_school_biology/dev/4"
+  },
+  {
+    "instruction": "Hvort eftirfarandi tveggja staðhæfinga er satt (frá og með 2019)?",
+    "option_a": "Fólk er gjarnan bjartsýnt á eigin framtíð og framtíð þjóðar sinnar eða heimsins.",
+    "option_b": "Fólk er bjartsýnt á eigin framtíð en svartsýnt á framtíð þjóðar sinnar eða heimsins.",
+    "option_c": "Fólk er gjarnan svartsýnt á eigin framtíð en bjartsýnt á framtíð þjóðar sinnar eða heimsins.",
+    "option_d": "Fólk er gjarnan svartsýnt á eigin framtíð og framtíð þjóðar sinnar eða heimsins.",
+    "answer": "B",
+    "id": "global_facts/dev/0"
+  },
+  {
+    "instruction": "Í tanki er í upphafi saltlausn með 3 grömmum af salti sem er leyst upp í 100 lítrum af vatni. Saltlausn með 0,02 grömmum af salti í hverjum lítra af vatni er sprautað í tankinn með hraðanum 4 lítrar á mínútu. Sprautu lausninni er blandað stöðugt saman við saltlausnina í tankinum og blanda flæðir út úr tankinum með hraðanum 4 lítrar á mínútu. Ef blöndun er augnablikslausn, hversu mörg grömm af salti eru í tankinum eftir að 100 mínútur eru liðnar?",
+    "option_a": "2",
+    "option_b": "2 - e^-2",
+    "option_c": "2 + e^-2",
+    "option_d": "2 + e^-4",
+    "answer": "D",
+    "id": "college_mathematics/dev/1"
+  },
+  {
+    "instruction": "Einn af meðferðarþegum þínum spyr þig um góðar megrunarleiðir. Þú hefur kynnt þér þær leiðir sem eru í boði í samfélaginu og ert skráður í þær sem þú telur bestar. Þessi leið býður upp á 50 kr. bónus til viðskiptavina fyrir hvern nýjan einstakling sem þeir koma með í meðferðina. Við þessar aðstæður væri heppilegasta svar þitt að",
+    "option_a": "Segðu viðskiptavininum frá kostum og göllum hvers náms sem þú þekkir nema þess sem þú ert skráður í",
+    "option_b": "mæla með við viðskiptavininn það nám sem þú ert skráður í og útskýra 50 kr. bónusinn sem þú færð",
+    "option_c": "mæla með við viðskiptavin þinn það nám sem þú ert skráður í og bjóða þér að fá 50 kr. bónusinn inn á reikning viðskiptavinar þíns í náminu",
+    "option_d": "Segðu viðskiptavininum frá kostum og göllum hvers forrits sem þú veist um, en ekki krefjast 50 kr. bónussins ef viðskiptavinurinn skráir sig í forritið",
+    "answer": "D",
+    "id": "professional_psychology/dev/0"
+  },
+  {
+    "instruction": "Hvað af eftirfarandi á við um verðgólf?",
+    "option_a": "Verðlagið færir eftirspurnarferilinn til vinstri.",
+    "option_b": "Áhrifaríkt gólf skapar skort á því góða.",
+    "option_c": "Verðgólfið færir framboðsferil vörunnar til hægri.",
+    "option_d": "Til að gólf sé virkt þarf það að vera sett yfir jafnvægisverð.",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/3"
+  },
+  {
+    "instruction": "Hver af gefnum formúlum PL er besta táknmynd eftirfarandi setningar? Skjaldbökur lifa lengi og eru hamingjusamar skepnur, nema þær slasist.",
+    "option_a": "(L * H) I",
+    "option_b": "(L * H) I",
+    "option_c": "L * (H I)",
+    "option_d": "L * (H R)",
+    "answer": "B",
+    "id": "formal_logic/dev/4"
+  },
+  {
+    "instruction": "Rannsókn á veruleikanum í víðasta skilningi, rannsókn á frumeðli alheimsins og hlutunum í honum, kallast  _____.",
+    "option_a": "frumspeki",
+    "option_b": "Þekjufræði",
+    "option_c": "skammtaeðlisfræði",
+    "option_d": "Öxulfræði",
+    "answer": "A",
+    "id": "philosophy/dev/4"
+  },
+  {
+    "instruction": "________ skólinn í réttarsögunni leggur til að lögin byggi á því sem er „rétt“.",
+    "option_a": "Náttúruréttur",
+    "option_b": "Greinargerð",
+    "option_c": "Sögulegt",
+    "option_d": "Félagsfræði",
+    "answer": "A",
+    "id": "jurisprudence/dev/3"
+  },
+  {
+    "instruction": "Hve stórt hlutfall Rússa telur mjög mikilvægt að hafa frjálsa fjölmiðla í landinu án ritskoðunar stjórnvalda eða ríkisins?",
+    "option_a": "38%",
+    "option_b": "53%",
+    "option_c": "68%",
+    "option_d": "83%",
+    "answer": "A",
+    "id": "global_facts/dev/3"
+  },
+  {
+    "instruction": "Í skipulagsheild er sá hópur fólks sem fæst við kaupákvarðanir nefndur _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+    "option_a": "Útvistunardeild.",
+    "option_b": "Innkaupamiðstöð.",
+    "option_c": "Framkvæmdadeild.",
+    "option_d": "Ákvarðanatökudeild.",
+    "answer": "D",
+    "id": "marketing/dev/1"
+  },
+  {
+    "instruction": "Hvaða afleiðingar hefði það fyrir OLS matstækið ef misdreifni er til staðar í aðhvarfsgreiningu en hunsuð?",
+    "option_a": "Hún verður hlutdræg",
+    "option_b": "Það verður ósamræmi",
+    "option_c": "Það verður óhagkvæmt",
+    "option_d": "Öll a-, b- og c-liðir verða sannir.",
+    "answer": "C",
+    "id": "econometrics/dev/3"
+  },
+  {
+    "instruction": "Ef einhver ræðst á persónu andstæðings, í stað þess að svara rökum andstæðingsins, hefur fyrri aðilinn sennilega framið hverja af eftirfarandi föllum?",
+    "option_a": "tu grein",
+    "option_b": "hrossahlátur",
+    "option_c": "röksemdafærslu gegn viðkomandi",
+    "option_d": "ignoratio elenchi",
+    "answer": "C",
+    "id": "logical_fallacies/dev/0"
+  },
+  {
+    "instruction": "Gerið fullkomna sannleikstöflu fyrir eftirfarandi pör af staðhæfingum. Síðan skaltu ákvarða með sannleikstöflunum hvort staðhæfingarnar séu röklega jafngildar eða mótsagnakenndar. Ef hvorki né skaltu ákvarða hvort þær séu samræmdar eða ósamræmdar. Rökstyðjið svör ykkar. E (F * E) og~E * F",
+    "option_a": "Röklega jafngilt",
+    "option_b": "Mótsagnakennt",
+    "option_c": "Hvorki röklega jafngild né mótsagnakennd, en samkvæm",
+    "option_d": "Ósamræmi",
+    "answer": "C",
+    "id": "formal_logic/dev/3"
+  },
+  {
+    "instruction": "Hvað af eftirfarandi er ekki vitað til að komi að stjórn frumuskiptingar?",
+    "option_a": "Sýklín",
+    "option_b": "Prótein kínasar",
+    "option_c": "Gátt á eftirlitsstöðum",
+    "option_d": "Fíbróblastar frumur",
+    "answer": "D",
+    "id": "high_school_biology/dev/3"
+  },
+  {
+    "instruction": "Látum A vera raunverulegt 2x2 fylki. Hver af eftirfarandi fullyrðingum þarf að vera sönn? I. Allar færslur A^2 eru neikvæðar. II. Ákvarði A^2 er neikvæður. III. Ef A hefur tvö aðgreind eigengildi þá hefur A^2 tvö aðgreind eigengildi.",
+    "option_a": "Ég bara",
+    "option_b": "II eingöngu",
+    "option_c": "Einungis III",
+    "option_d": "Einungis II og III",
+    "answer": "B",
+    "id": "college_mathematics/dev/2"
+  },
+  {
+    "instruction": "Þessi spurning vísar til eftirfarandi upplýsinga. „Í nýju lögunum sem ég býst við að þú þurfir að setja vil ég að þú munir eftir dömum og vertu örlátari og hagstæðari þeim en forfeður þínir. Ekki setja svo ótakmarkað vald í hendur eiginmannanna. Mundu að allir karlmenn væru harðstjórar ef þeir gætu það. Ef ekki er hugað sérstaklega vel að dömum og þeim veitt athygli erum við staðráðin í að stofna til uppreisnar og verðum ekki bundin af neinum lögum þar sem við höfum enga rödd, eða fulltrúa.“ Abigail Adams, í bréfi til John Adams, 1776 „Sérlöggjöf fyrir konur hefur sett okkur í afar óvanalega stöðu. Konur sem fjárfesta með réttindi borgaranna í einum þætti-kjósendur, kviðdómendur, embættismenn-þverra ímyndaða línu, eru viðfangsefni í þeim næsta. Í sumum ríkjum getur gift kona átt eignir og stundað viðskipti í eigin nafni, í öðrum tilheyra tekjur hennar eiginmanni sínum. Í sumum ríkjum getur kona borið vitni gegn eiginmanni sínum, höfðað mál og verið kærð fyrir dómstólum, í öðrum hefur hún enga úrlausn ef um er að ræða tjón á persónu, eignum eða persónu. Við skilnað vegna framhjáhalds eiginmanns er hin saklausa eiginkona ekki talin eiga neinn rétt til barna eða eigna, nema með sérstökum úrskurði dómstóls. En í engu ríki sambandsins á eiginkonan rétt á eigin persónu, eða hluta af sameiginlegum tekjum sambúðaraðilans á ævi eiginmanns síns. Í sumum ríkjum mega konur ganga í lagaskóla og starfa við dómstóla, í öðrum er það bannað. Í sumum háskólum njóta stúlkur jafnra menntunarkjara og drengir, en margar af stoltustu stofnunum landsins neita þeim um inngöngu, þótt synir Kína, Japans og Afríku séu velkomnir þangað. En þau forréttindi sem þegar hafa verið veitt í hinum ýmsu ríkjum eru engan veginn tryggð.“ Susan B. Anthony, „Declaration of Rights for Women,“ 4. júlí 1876 Þær skoðanir sem koma fram í seinni útdrætti Susan B. Anthony eru líklegastar til að styðja",
+    "option_a": "jafnréttismálaáætluninni",
+    "option_b": "almennur kosningaréttur",
+    "option_c": "réttindi ríkja",
+    "option_d": "bann",
+    "answer": "B",
+    "id": "high_school_us_history/dev/2"
+  },
+  {
+    "instruction": "Þú ert að ýta vörubíl eftir vegi. Væri auðveldara að flýta þessum vörubíl á Mars? Af hverju? ( Gerum ráð fyrir að það sé enginn núningur)",
+    "option_a": "Það væri erfiðara þar sem flutningabíllinn er þyngri á Mars.",
+    "option_b": "Það væri auðveldara þar sem flutningabíllinn er léttari á Mars.",
+    "option_c": "Það væri erfiðara þar sem flutningabíllinn er léttari á Mars.",
+    "option_d": "Það væri eins sama hvar þú ert.",
+    "answer": "D",
+    "id": "astronomy/dev/0"
+  },
+  {
+    "instruction": "Hvaða afstaða telur Rawls að sé síst líkleg til að vera samþykkt af POP (fólki í upprunalegri stöðu)?",
+    "option_a": "Þrír af þeim sem eru í kjörstöðu myndu velja jafnrétti fram yfir frelsi.",
+    "option_b": "Þýsku þjóðirnar myndu kjósa „hámarksstefnuna“.",
+    "option_c": "Þeir sem eru efnafræðilega óvirkir vilja „mismunaregluna“.",
+    "option_d": "Þrávirka efnisþátturinn myndi hafna „kerfi náttúrufrelsisins“.",
+    "answer": "A",
+    "id": "jurisprudence/dev/0"
+  },
+  {
+    "instruction": "Fyrir kyrrstætt sjálfvirkt ferli, munu áföll",
+    "option_a": "Að lokum deyja burt",
+    "option_b": "Haltu ótrauð áfram",
+    "option_c": "Vaxa veldisvísislega",
+    "option_d": "Aldrei komið fyrir",
+    "answer": "A",
+    "id": "econometrics/dev/0"
+  },
+  {
+    "instruction": "Halli á ríkissjóði á sér stað þegar",
+    "option_a": "útflutningur umfram innflutning.",
+    "option_b": "innflutningur umfram útflutning.",
+    "option_c": "skattheimta ríkissjóðs umfram útsvar.",
+    "option_d": "útgjöld ríkisins umfram skatttekjur ríkisins.",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/2"
+  },
+  {
+    "instruction": "Hvernig er hægt að lýsa stjórnskipulagi sem einkennist af lýðræðislegum stjórnunarháttum fyrir alla?",
+    "option_a": "Stigveldisfræði",
+    "option_b": "Skriffinnskulegt",
+    "option_c": "Flat",
+    "option_d": "Virkni",
+    "answer": "C",
+    "id": "management/dev/4"
+  },
+  {
+    "instruction": "Þessi spurning vísar til eftirfarandi upplýsinga. Eftirfarandi útdráttur er úr bæklingi. Þér gjörið mér svo vel að minnast þess, að ég hef ávallt staðið fast á rétti hvers manns til eigin skoðana, hversu ólíkar sem skoðanir mínar kunna að vera. Sá sem neitar öðrum um þennan rétt, gerir sjálfan sig að þræl sínum að núverandi skoðunum, því hann útilokar sjálfan sig frá rétti til að breyta þeim. Öflugasta vopnið gegn mistökum hvers konar er Rökvísin. Ég hef aldrei notað neina aðra og ég treysti því að ég geri það aldrei. Þær aðstæður sem nú hafa skapast í Frakklandi, þar sem allur þjóðarprestakall hefur verið afnuminn, og allt sem viðkemur áráttukenndum trúarkerfum, og áráttukenndum trúargreinum, hafa ekki aðeins fellt fyrirætlun mína úr gildi, heldur gert verk af þessu tagi afar nauðsynlegt, því að í hinni almennu skemmdarverkum hjátrúar, falskra stjórnkerfa og falskrar guðfræði, missum við sjónar á siðferði, mannúð og þeirri guðfræði sem er sönn. Ég trúi á einn Guð, og ekki fleiri, og ég vona hamingju handan þessa lífs. Ég trúi á jafnrétti mannsins; og ég trúi því að trúarlegar skyldur felist í því að gera rétt, elska miskunn og leitast við að gera samverur okkar hamingjusamar. Ég trúi ekki á þá trú sem gyðingakirkjan, rómverska kirkjan, gríska kirkjan, tyrkneska kirkjan, mótmælendakirkjan, né nokkur kirkja sem ég þekki til, játar. Mitt eigið hugarfar er mín eigin kirkja. Allar þjóðarstofnanir kirkjunnar, hvort sem þær eru gyðinga-, kristinna-eða tyrkneskra, birtast mér sem ekkert annað en mannlegar uppfinningar, settar upp til að skelfa og hneppa mannkynið í þrældóm, og einoka vald og gróða. Ég á ekki við með þessari yfirlýsingu að fordæma þá sem trúa öðru, þeir hafa sama rétt á sinni trú og ég á mínu. --Thomas Paine, The Age of Reason, 1794-1795 Hver af eftirfarandi hugmyndafræðingum upplýsingarinnar hannaði eftirlits-og jafnvægiskerfi fyrir hið opinbera til að forðast misnotkun valds?",
+    "option_a": "Jean Jacques Rousseau",
+    "option_b": "Baron Montesquieu",
+    "option_c": "Mary Wollstonecraft",
+    "option_d": "Adam Smith",
+    "answer": "B",
+    "id": "high_school_european_history/dev/0"
+  },
+  {
+    "instruction": "Í erfðaprófi á nýbura finnst sjaldgæfur erfðasjúkdómur sem hefur X-tengda víkjandi smitleið. Hvað af eftirfarandi fullyrðingum er líklega rétt varðandi ættartölu þessa sjúkdóms?",
+    "option_a": "Allir afkomendur á móðurlegu sviði verða með röskunina.",
+    "option_b": "Konur verða fyrir um það bil tvöfalt meiri áhrifum en karlar í þessari fjölskyldu.",
+    "option_c": "Allar dætur karlmanns sem verður fyrir áhrifum verða fyrir áhrifum.",
+    "option_d": "Jafnræði verður í skiptingu karla og kvenna sem verða fyrir áhrifum.",
+    "answer": "C",
+    "id": "college_medicine/dev/2"
+  },
+  {
+    "instruction": "Hversu margar tilraunir ættir þú að gera til að æðaleggja sjúkling áður en þú færð starfið til yfirmanns, samkvæmt læknisfræðilegri þekkingu ársins 2020?",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "2",
+    "option_d": "1",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/3"
+  },
+  {
+    "instruction": "Í hvorri þessara sviðsmynda gerir aðalpersónan (sem notar ég/mig/minn) eitthvað augljóslega siðferðilega rangt samkvæmt almennum siðferðilegum viðmiðum í Bandaríkjunum frá og með árinu 2020? Sviðsmynd 1 | Ég elskaði nýfæddan drenginn minn mikið. Sviðsmynd 2 | Nýja stúlkan er vandræðaleg að búa í tjaldvagnahverfi og því býð ég bekknum heim til hennar.",
+    "option_a": "Rangt, rangt",
+    "option_b": "Rangt, ekki rangt",
+    "option_c": "Ekki rangt, rangt",
+    "option_d": "Ekki rangt, Ekki rangt",
+    "answer": "C",
+    "id": "moral_scenarios/dev/0"
+  },
+  {
+    "instruction": "Hvað greinir þvingunardiplómatík frá hervaldi?",
+    "option_a": "Þvingunarerindrekstur er annað hugtak yfir þvingunarerindrekstur en nær yfir þrengri skilgreiningu, þvingunarerindrekstur nær yfir þær hótanir sem miða að því að hefja gagnaðgerðir. Hótun um að þvinga ríki til að láta af hendi hluta af yfirráðasvæði sínu myndi teljast þvingunarerindrekstur, svo lengi sem sú hótun kemur með markvissum hætti af stað aðgerðum áður en gripið er til gagnaðgerða.",
+    "option_b": "Þvingunardæming felur í sér hótanir um takmarkaða valdbeitingu til að fá hvatningu andstæðings til að fara að kröfum þvingandans. Það er áhrifastefna sem er ætlað að fá fram fylgni: valdbeiting til að sigra andstæðing fyrst skiptir ekki máli. Það skilur eftir valþátt hjá skotmarkinu til að fara að, eða halda áfram.",
+    "option_c": "Hernaðarmáttur, eða hótun um hernaðarmátt, nýtir ótta til að ná fram hernaðarlegum markmiðum. Þvingandi diplómanám er aðgreint frá þessari nálgun, þar sem það notar ekki ótta sem tæki til að þvinga andstæðing.",
+    "option_d": "Þvingunardiplómatík er beitt til að beita valdi en takmarka áhrif þess á alþjóðasamfélagið. Þvingunardiplómatík er árásarstefna sem er ætlað að ná fram reglufylgni með ósigri. Hún lætur ekki valið viðfangsefni ráða för, viðfangið er annað hvort neytt til að fylgja reglum eða taka þátt í átökum. Hún leitast við að stjórna með því að setja reglufylgni með því að fjarlægja öll tækifæri til samninga eða ívilnana.",
+    "answer": "B",
+    "id": "security_studies/dev/0"
+  },
+  {
+    "instruction": "Flókin spurningavilla felst í",
+    "option_a": "að halda því fram að eitthvað sé óæðra bara af því að það gerir ekki eitthvað sem því var aldrei ætlað að gera.",
+    "option_b": "fleiri en eina fullyrðingu í tilboðinu og fara með sönnun fyrir einni fullyrðingu sem sönnun fyrir öllum fullyrðingunum.",
+    "option_c": "draga ályktun áður en gögnin eru skoðuð og taka einungis til athugunar gögn sem styðja þá ályktun.",
+    "option_d": "spurning sem felur í sér annaðhvort ósannaða forsendu eða fleiri en eina spurningu og gerir því einfalt já eða nei svar merkingarlaust.",
+    "answer": "D",
+    "id": "logical_fallacies/dev/1"
+  },
+  {
+    "instruction": "Hvernig er best að lýsa tengslum ríkismiðaðrar nálgunar og hugtaksins mannöryggi?",
+    "option_a": "Innan ramma mannöryggis eru svo miklar deilur um eðli ógna og viðmiðunarhlutverk að ekki er hægt að gera almennan samanburð á milli ríkismiðaðra aðferða og mannöryggis.",
+    "option_b": "Með því að taka upp ramma mannlegs öryggis koma takmarkanir raunsæislegrar ríkismiðaðar nálgunar í ljós. Á meðan mannlegt öryggi skilgreinir viðmiðunarhlutinn sem einstaklinginn eða íbúafjölda, þá setja ríkismiðaðar nálganir öryggi ríkisins í forgang og afmarka öryggisleit mannsins.",
+    "option_c": "Ríkjamiðuð nálgun á öryggi er hluti af mannlegu öryggi sem er yfirleitt skilgreint innan hinnar víðtæku fræðigreinar mannlegs öryggis. Með því að vera ríkismiðuð setur þessi nálgun einstaklinginn í forgang sem viðmið í öryggisfræðum.",
+    "option_d": "Bæði ríkismiðuð og mannmiðuð nálgun á öryggi eru gagnkvæmt útilokandi og veita nægilegan greiningarramma til að skilja alþjóðlegt öryggiskerfi. Það er því hlutverk öryggisgreinenda að ákvarða hvaða af þessum mikilvægu hugtökum eru rétt og hverjum ber að víkja.",
+    "answer": "B",
+    "id": "security_studies/dev/3"
+  },
+  {
+    "instruction": "Alls munu 30 leikmenn spila körfubolta í almenningsgarði. Það verða nákvæmlega 5 leikmenn í hverju liði. Hvaða fullyrðing útskýrir rétt hvernig finna á þann fjölda sem þarf?",
+    "option_a": "Bæta við 5 til 30 til að finna 35 lið.",
+    "option_b": "Skiptið 30 með 5 til að finna 6 lið.",
+    "option_c": "Margfaldaðu 30 og 5 til að finna 150 lið.",
+    "option_d": "Draga 5 frá 30 til að finna 25 lið.",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/2"
+  },
+  {
+    "instruction": "Hvert af eftirfarandi er dæmi um notkun tækis á Interneti hlutanna (IoT)?",
+    "option_a": "Bíll gerir ökumanni viðvart um að hann sé að fara að keyra á hlut.",
+    "option_b": "Göngukona notar G P S úr til að fylgjast með stöðu sinni.",
+    "option_c": "Kæliskápur pantar mjólk í netpósti þegar mjólkin í kælinum er nánast horfin.",
+    "option_d": "Hlaupari notar úr með sjónskynjurum til að fylgjast með hjartslætti sínum.",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/0"
+  },
+  {
+    "instruction": "Þessi spurning vísar til eftirfarandi upplýsinga. Hann inniheldur öll verk og langanir og öll ilmefni og allt bragð. Hann umlykur allan alheiminn og í þögn elskar hann alla. Þetta er andinn sem er í hjarta mínu, þetta er Brahman. Til hans mun ég koma þegar ég fer út fyrir þetta líf og til hans mun koma sá sem hefur trú og efast ekki. --Upanishads, Indland, c. 1000 BCE Til hvaða trúarbragða á líklegast viðmælandi?",
+    "option_a": "Hindúismi",
+    "option_b": "Búddismi",
+    "option_c": "Shintoismi",
+    "option_d": "Zaraþústratrú",
+    "answer": "A",
+    "id": "high_school_world_history/dev/0"
+  },
+  {
+    "instruction": "Venjan er að þegar við höfum raungilt inntaksgildi í ákvarðanatré námi þá tökum við mið af tvíundaskiptingu eftir því hvort að eiginleikinn sé yfir eða undir einhverjum mörkum. Pat leggur til að í staðinn ættum við bara að hafa margskipta skiptingu með einni grein fyrir hvert sérstakt gildi eiginleikans. Úr listanum hér að neðan skal velja stærsta vandamálið með tillögu Pat:",
+    "option_a": "Það er of reiknislega dýrt.",
+    "option_b": "Það myndi líklega leiða til þess að ákvörðunartré færi illa út úr þjálfunarsettinu og prófi.",
+    "option_c": "Það myndi líklega leiða af sér ákvörðunartré sem skorar vel á æfingasetti en illa á prófi.",
+    "option_d": "Það myndi líklega leiða af sér ákvörðunartré sem skorar vel á prófi en illa á þjálfunarsetti.",
+    "answer": "C",
+    "id": "machine_learning/dev/4"
+  }
+]
