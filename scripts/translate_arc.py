@@ -97,7 +97,7 @@ def main():
                     use_xml = False
                 else:
                     use_xml = True
-                translate_arc(path, output_path, lang, use_xml=use_xml, dryrun=True)
+                translate_arc(path, output_path, lang, use_xml=use_xml, dryrun=False)
 
 if __name__ == "__main__":
     main()

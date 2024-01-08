@@ -26,3 +26,13 @@ def get_translator(target_lang, dryrun:bool = False) -> Callable:
             translator = Translator(auth_key)
             translate_text = lambda x: translator.translate_text(x, source_lang="en", target_lang=target_lang, tag_handling="xml", preserve_formatting=True).text
     return translate_text
+
+# "Manually" try to fix xml errors that shows up in the translation
+def fix_xml_error(xml:str):
+    # Fix a missing semicolon after &quot
+    new_xml, count = re.subn(r"(quot)([^;])", r"\g<1>;\g<2>", xml)
+    print("Fixed xml error")
+    print("Old: %s" % xml)
+    print("New: %s" % new_xml)
+    return new_xml
+
