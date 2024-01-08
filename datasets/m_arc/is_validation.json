@@ -1,0 +1,2682 @@
+[
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099103",
+    "answer": "D",
+    "instruction": "Villt ber fjölga sér kynlaus með því að spíra nýjar rætur þegar stofnarnir snerta jörðina. Einnig fjölga þau sér kynferðislega í gegnum blómin. Hver er kosturinn við að berjaplantan geti fjölgað sér kynferðislega og kynlaus?",
+    "option_a": "Það gerir plöntunum kleift að verða hærri.",
+    "option_b": "Það myndar blóm sem laða að skordýr.",
+    "option_c": "Það gefur af sér sólber sem hafa meira bragð.",
+    "option_d": "Það gerir berjaplöntum kleift að aðlagast nýjum aðstæðum."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_31-v1",
+    "answer": "C",
+    "instruction": "Hvert af eftirfarandi lýsir vélrænni orku kerru í hvíld efst í brattri hlíð?",
+    "option_a": "Kerran hefur enga vélræna orku.",
+    "option_b": "Vélarorka kerrunnar er öll hreyfifræðileg.",
+    "option_c": "Vélarorka kerrunnar er allur möguleiki.",
+    "option_d": "Vélarorka kerrunnar er hálf afl og hálf hreyfifræðileg."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090738",
+    "answer": "A",
+    "instruction": "Hvorri spurningunni er hægt að svara með vísindalegri rannsókn?",
+    "option_a": "Hvaða áhrif hefur sólarorka á skýjamyndun?",
+    "option_b": "Af hverju eru tígrisdýr fallegri en ígúönur?",
+    "option_c": "Hvað er besta námsgreinin í háskóla?",
+    "option_d": "Ættu menn að fjárfesta í geimferðum?"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130883",
+    "answer": "B",
+    "instruction": "Verkfræðistofu hefur verið falið að þróa vélmenni. Vélmennið þarf að vera hannað með rafsegulmagn sem eina orkugjafa þess. Hvaða efni er líklegast að verkfræðistofan sé að læra?",
+    "option_a": "notkun rafhlaðna og efnaorku",
+    "option_b": "hvernig nýta má geislavirka orku og sólarrafgeyma",
+    "option_c": "umbreyting hreyfiorku í mögulega orku",
+    "option_d": "hvernig hægt er að breyta varmaorku í raforku"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7190155",
+    "answer": "B",
+    "instruction": "Margar tegundir dýra og plantna lifa í regnskógi Amazon. Hver er líklegasta afleiðingin af stórum skógareyðingarsvæðum í regnskógi Amazon?",
+    "option_a": "fjölgun dýrastofna",
+    "option_b": "minnkun á súrefnisframleiðslu",
+    "option_c": "aukningu í úrkomu",
+    "option_d": "minnkun á mengunarefnum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177398",
+    "answer": "B",
+    "instruction": "Bíll sem ekur í norðausturátt á 50 km hraða á klukkustund er hvor af eftirfarandi?",
+    "option_a": "hraði",
+    "option_b": "hraði",
+    "option_c": "hröðun",
+    "option_d": "hraðaminnkun"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246995",
+    "answer": "C",
+    "instruction": "Sumar plöntufrumur þurfa orku til að flytja næringarefni yfir frumuhimnuna. Hvaða orkuumbreytingu nota plöntufrumurnar til að flytja næringarefnasameindina inn í frumuhimnuna?",
+    "option_a": "varmaorka yfir í hreyfiorku",
+    "option_b": "möguleg orkunotkun í ljósorku",
+    "option_c": "efnaorka yfir í hreyfiorku",
+    "option_d": "Hreyfiorka yfir í mögulega orku"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_189490",
+    "answer": "A",
+    "instruction": "Skoðun Gregors Mendels á jarðhnetum er dæmi um",
+    "option_a": "rannsóknargagna sem styðja vísindalega kenningu.",
+    "option_b": "niðurstaða sem er prófuð með tilgátu.",
+    "option_c": "slembiprófun í tilraun.",
+    "option_d": "sönnunargögn með og á móti vísindalíkani."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139790",
+    "answer": "C",
+    "instruction": "Kolkrabbi hefur sérstakar frumur í húðinni sem kallast litunarfrumur og geta þær breytt lit hans nánast umsvifalaust. Litunarfrumur hjálpa kolkrabba líklegast að",
+    "option_a": "synda hraðar.",
+    "option_b": "anda rólegar.",
+    "option_c": "fela sig fyrir rándýrum.",
+    "option_d": "stjórna líkamshita."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7282608",
+    "answer": "C",
+    "instruction": "Skólp frá heimilum er ekki allt eins. Grávatn vísar til heimilisskólps frá vöskum og pottum. Það inniheldur ekki lífrænan úrgang frá mönnum og því er hægt að endurnýta það í stað þess að meðhöndla það sem skólp. Hvaða notkun á grávatni sýnir fram á góðan ráðsmennskuhátt?",
+    "option_a": "þvo uppþvottavélar og drekka",
+    "option_b": "drykkjar og vökvunar blómabeð",
+    "option_c": "vökva blómabeð og vökva tré",
+    "option_d": "vatna tré og þvo uppþvottavélar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7145513",
+    "answer": "B",
+    "instruction": "Lífferli krefjast orku. Lífefnafræðileg ferli fela í sér ákveðin hvarf. Hvað er sameiginlegt með lífefnafræðilegum ferlum allra dýra?",
+    "option_a": "virkni á hvaða sýrustigsstigi sem er",
+    "option_b": "varmi sem losnar sem afurð",
+    "option_c": "nota aðeins loftfirrta öndun",
+    "option_d": "magn orku sem er tekin upp"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018148",
+    "answer": "B",
+    "instruction": "MÖGULEGAR niðurstöður þátta sem finna má í reglubundinni töflu þáttanna eru",
+    "option_a": "gasa.",
+    "option_b": "málma.",
+    "option_c": "vökva.",
+    "option_d": "málmlausum."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401294",
+    "answer": "B",
+    "instruction": "Lögun laufblaða plantna sem lifa vel af í regnloftslagi er oftast",
+    "option_a": "rauð og glansandi.",
+    "option_b": "breiður og flatur.",
+    "option_c": "þykkt og vaxkennt.",
+    "option_d": "skörp og mjó."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207410",
+    "answer": "C",
+    "instruction": "Stormafræðingar eru þeir sem komast í nálægð við óveður til þess að fylgjast með þeim og gera mælingar. Hvaða þekking hefur bæst við rannsóknir á óveðrum sem hefur hjálpað mest til við að breyta kenningum um myndun óveðurs?",
+    "option_a": "skoðunum sínum á tjóni vegna óveðurs",
+    "option_b": "persónulega reynslu sína í óveðrum",
+    "option_c": "þeirra gagna sem safnað var í upphafi óveðurs",
+    "option_d": "áhuga þeirra á að rannsaka mismunandi storma"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_8_2015_11",
+    "answer": "A",
+    "instruction": "Hvert af eftirfarandi lýsir best massa ísblokkar?",
+    "option_a": "magn efnis í blokkinni",
+    "option_b": "hversu mikið pláss blokkin tekur",
+    "option_c": "þyngdarkrafturinn sem verkar á blokkina",
+    "option_d": "fjarlægðin milli sameindanna í blokkinni"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7201705",
+    "answer": "A",
+    "instruction": "Víða um heim er land sem er of þurrt til búskapar notað til beitar búfjár. Ofbeit á þessum svæðum eyðileggur upprunalegu plönturnar og brýtur niður náttúrulega jarðvegsþekjuna. Hvernig leiðir ofbeit til eyðimerkurmyndunar?",
+    "option_a": "með því að auka hraða rofs á yfirborðsjarðvegi",
+    "option_b": "með því að leyfa öðrum tegundum en innfæddum að taka sér bólfestu á landinu",
+    "option_c": "með því að minnka fæðuframboð til búfjár",
+    "option_d": "með því að gera landið hraðari í að taka við úrkomu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133858",
+    "answer": "B",
+    "instruction": "Efni getur tekið mismunandi breytingum. Hvort sýnir best fram á efnabreytingar?",
+    "option_a": "saltleysir",
+    "option_b": "viðarbrennsla",
+    "option_c": "vatns sjóðandi",
+    "option_d": "Ísbráðnun"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_5_31",
+    "answer": "D",
+    "instruction": "Hvort þessara atriða er ekki eðlislæg hegðun?",
+    "option_a": "fugl að byggja sér hreiður",
+    "option_b": "skjaldbaka sem grefur eggin sín",
+    "option_c": "björn sem er í dvala á veturna",
+    "option_d": "hestur dregur plóg"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7198380",
+    "answer": "D",
+    "instruction": "Mismunandi tegundir grasbíta lifðu í sama vistkerfinu. Hvaða þáttur er líklegastur til að valda meiri samkeppni um auðlindir meðal nagdýranna?",
+    "option_a": "frjósemi jarðvegsins",
+    "option_b": "íbúafjöldi framleiðenda á svæðinu",
+    "option_c": "magn matarleifar sem rándýr skilja eftir sig",
+    "option_d": "hversu hratt frumneytendur fluttust inn á svæðið"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2012_8_10441",
+    "answer": "C",
+    "instruction": "Eðlutegund étur aðallega ávexti af einni trjátegund. Ef veira drepur flest þessara trjáa, hvaða einstöku eðlur eru líklegastar til að lifa af?",
+    "option_a": "Eðlur sem geta klifrað hærra í ávaxtatrjánum",
+    "option_b": "eðlur sem eru með dekkri lit",
+    "option_c": "Eðlur sem geta fundið aðrar tegundir af fæðu",
+    "option_d": "Eðlur sem gefa af sér fleiri afkvæmi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7217053",
+    "answer": "B",
+    "instruction": "Líffræðileg þróun getur átt sér stað í gegnum alla þessa þætti nema",
+    "option_a": "samkeppni.",
+    "option_b": "jarðefnamyndun.",
+    "option_c": "tilbrigði.",
+    "option_d": "aðlögun."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233660",
+    "answer": "C",
+    "instruction": "Sumir vísindamenn halda því fram að flekahreyfingar geti breytt vatnshæð í höfum jarðar. Hvernig myndi eðli flekahreyfinga takmarka mögulegar breytingar á sjávarborði?",
+    "option_a": "með því að gera aðeins litlar breytingar",
+    "option_b": "með því að breyta aðeins nokkrum tilteknum hafsbotnum",
+    "option_c": "með því að valda því að breytingar verða mjög hægar",
+    "option_d": "með því að valda pöruðum breytingum með jafn og andstæðum áhrifum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115395",
+    "answer": "A",
+    "instruction": "Hvaða breytingar eru líklegastar til að hafa neikvæð áhrif á vistkerfi?",
+    "option_a": "að byggja veg",
+    "option_b": "að planta tré",
+    "option_c": "bætt við ferskvatnsbóli",
+    "option_d": "að skapa náttúrufriðland"
+  },
+  {
+    "id": "ARC-Challenge/validation/MSA_2013_8_3",
+    "answer": "D",
+    "instruction": "Jarðfræðingar hafa fundið sjö stórar jarðskorpufleka á yfirborði jarðar. Hvaða vísbendingar benda best til þess að jarðskorpuflekar rekist saman?",
+    "option_a": "Vindurinn rýrir yfirborðsbergsmyndanir.",
+    "option_b": "Steingervingar eru þúsundir ára.",
+    "option_c": "Lítið berg verður eftir þegar jöklar hopa.",
+    "option_d": "Eldri berglög eru staðsett ofan við nýrri berglög."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205135",
+    "answer": "C",
+    "instruction": "Hvernig verða agnirnar í járnblokk fyrir áhrifum þegar blokkin er brædd?",
+    "option_a": "Agnirnar þyngjast.",
+    "option_b": "Agnirnar innihalda minni orku.",
+    "option_c": "Agnirnar hreyfast hraðar.",
+    "option_d": "Agnirnar stækka í rúmmáli."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2010_5_10",
+    "answer": "A",
+    "instruction": "Sara snýr vasaljósi og heldur hlut upp að ljósinu. Hvernig getur hún séð hvort hluturinn sé ógagnsær?",
+    "option_a": "Ekkert ljós mun skína í gegn.",
+    "option_b": "Eitthvað ljós mun endurkastast.",
+    "option_c": "Ljósið beygist í horni.",
+    "option_d": "Ljósið mun skína skýrt í gegn."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg29",
+    "answer": "E",
+    "instruction": "Hvert eftirtalinna líffæra er EKKI staðsett í kviðarholi?",
+    "option_a": "lifur",
+    "option_b": "nýra",
+    "option_c": "magi",
+    "option_d": "blaðra",
+    "option_e": "hjarta"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7181685",
+    "answer": "A",
+    "instruction": "Blómaliturinn er mjög breytilegur meðal ákveðinna tegunda rósaplantna og veldur það því að blómin verða mismunandi lituð. Hvernig varð til þessi breytileiki í blómalit rósaplantna?",
+    "option_a": "með stökkbreytingu",
+    "option_b": "með frjóvgun",
+    "option_c": "með náttúrulegu vali",
+    "option_d": "með kynlausri æxlun"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2011_5_20",
+    "answer": "D",
+    "instruction": "Snjósleðahestur verpir tvisvar á ári. Á sumrin er loðnan brún en á veturna er hún hvít. Hver þessara fullyrðinga skýrir best þann kost að verpa loðnu?",
+    "option_a": "Að losa loðskinn heldur héranum hreinum.",
+    "option_b": "Sláttur á feldi hjálpar héranum að hreyfast hratt.",
+    "option_c": "Sláttur á feldi heldur hita á heimili hérans.",
+    "option_d": "Með því að fela feldi er hægt að koma til móts við búsvæði hestsins."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008120",
+    "answer": "A",
+    "instruction": "Tvístirni eru notuð af vísindamönnum til að ákvarða stjörnur.",
+    "option_a": "fjölda.",
+    "option_b": "birtu.",
+    "option_c": "fjarlægð frá jörðu.",
+    "option_d": "fjarlægð frá sólinni."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_13",
+    "answer": "B",
+    "instruction": "Drengur sér framan í sig þegar hann horfir í rólega tjörn. Hvaða eiginleiki tjarnarins gerir það að verkum?",
+    "option_a": "sveigjanleiki",
+    "option_b": "ígrundun",
+    "option_c": "hitastig",
+    "option_d": "magn"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_1",
+    "answer": "B",
+    "instruction": "Nemandi sáði tveimur baunafræjum í tvo potta sem voru eins og innihéldu sömu jarðvegsgerð. Hann setti annan pottinn í skáp og hinn nálægt sólríkum glugga. Á hverjum degi hellti hann 15 millilítrum af vatni í hvorn pott. Hvaða þáttur var ólíkur í pottunum tveimur?",
+    "option_a": "magn vatns",
+    "option_b": "ljósmagn",
+    "option_c": "tegund jarðvegs",
+    "option_d": "tegund fræs"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141698",
+    "answer": "B",
+    "instruction": "Þegar elding verður hitar hún loftið í kring. Heitt loftið þenst út og framkallar þrumur. Orku eldingarinnar er breytt í hvaða orkutegund á að framkalla þrumur?",
+    "option_a": "þyngdarfræðileg",
+    "option_b": "vélræn",
+    "option_c": "kjarnorku",
+    "option_d": "geislandi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407314",
+    "answer": "A",
+    "instruction": "Nemendur úr tveimur bekkjum gerðu sömu rannsóknina. Hvor bekkur fékk mismunandi niðurstöður. Hvernig er best fyrir nemendur að greina hvers vegna niðurstöðurnar voru ólíkar?",
+    "option_a": "Fara yfir þau skref sem tekin voru við rannsóknirnar.",
+    "option_b": "Breyta tilgátu rannsóknarinnar.",
+    "option_c": "Rannsóknargögn um sambærilegar rannsóknir.",
+    "option_d": "Gera aðra rannsókn."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_406781",
+    "answer": "C",
+    "instruction": "Hvaða samskipti dýra stjórna best stofnstærð tegundar?",
+    "option_a": "villt dýr merkja landsvæði sín",
+    "option_b": "remora fiskur ferðast með hákarla",
+    "option_c": "ljónin níðast á sebrahestunum",
+    "option_d": "úlfar sem ferðast í pökkum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400845",
+    "answer": "B",
+    "instruction": "Eldingar geta framleitt allar þessar tegundir orku nema",
+    "option_a": "varmaorku.",
+    "option_b": "sólarorku.",
+    "option_c": "létt orka.",
+    "option_d": "raforku."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2009_5_5",
+    "answer": "B",
+    "instruction": "Janet hefur fengið steindir til að bera kennsl á. Eitt af sýnum hennar er gult. Hvað af þessum steindum er líklegast að sé gult?",
+    "option_a": "Tal",
+    "option_b": "Brennisteinn",
+    "option_c": "Gypsum",
+    "option_d": "Hematít"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7171938",
+    "answer": "D",
+    "instruction": "Tunglið hefur mikil áhrif á sjávarföll á jörðinni. Á hvaða tímaskeiðum tunglsins eru sjávarföll lægst á jörðinni?",
+    "option_a": "heilan og fyrsta ársfjórðung",
+    "option_b": "fullt tungl og nýtt tungl",
+    "option_c": "Síðasti fjórðungur og nýtt tungl",
+    "option_d": "fyrsta ársfjórðung og síðasta ársfjórðung"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415354",
+    "answer": "C",
+    "instruction": "Hvað af þessu lærir höfrungurinn?",
+    "option_a": "borða smáfisk",
+    "option_b": "synda í saltvatni",
+    "option_c": "jafnvægi á kúlu á nefinu",
+    "option_d": "andaðist gegnum blástursopið"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_17",
+    "answer": "C",
+    "instruction": "Hvaða eiginleika er líklegast að köttur ættleiddi frá foreldrum sínum?",
+    "option_a": "að vera með ör",
+    "option_b": "eltist við leikfang",
+    "option_c": "með hvítan feld",
+    "option_d": "vitað nafn sitt"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251685",
+    "answer": "B",
+    "instruction": "Hvaða starfsemi tryggir best eðlilega starfsemi beinfruma?",
+    "option_a": "að auka öndunartíðni",
+    "option_b": "neytir steinefnaríkra matvæla",
+    "option_c": "dregið úr streituvaldandi hreyfingu",
+    "option_d": "drukkið jónalaust vatn"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267995",
+    "answer": "C",
+    "instruction": "Sumar plöntu- og dýrategundir eru háðar hvor annarri. Hvaða dýr hjálpa þúsundum plöntutegunda að fjölga sér?",
+    "option_a": "íkornar",
+    "option_b": "ánamaðkar",
+    "option_c": "hunangsflugur",
+    "option_d": "bjöllur"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7193043",
+    "answer": "B",
+    "instruction": "Óinnlendar plöntur geta tekið yfir svæði sem áður voru þéttbýl af innlendum plöntutegundum. Hvaða sýklalyfjaferli er síst líklegt til að valda innrás óinnlendra plantna?",
+    "option_a": "flóð",
+    "option_b": "veðrun",
+    "option_c": "sandfok",
+    "option_d": "Bráðnun jökla"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_28",
+    "answer": "C",
+    "instruction": "Kafbátar hafa skoðað víða um höfin. Þegar kafbátar fara niður sjá vísindamenn að aukning er á",
+    "option_a": "ljósmagn",
+    "option_b": "hitastig vatns",
+    "option_c": "vatnsþrýstingur",
+    "option_d": "Tegundir sjávarlífvera"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7154263",
+    "answer": "B",
+    "instruction": "Plöntusvif eru smásæjar lífverur sem líkjast plöntum og fljóta í vatnshlotum eins og t.d. hafinu. Þau taka inn koltvísýring við ljóstillífun. Hvað myndi líklegast gerast ef stofn plöntusvifs yrði eyðilagður?",
+    "option_a": "Hitastig sjávar myndi lækka.",
+    "option_b": "Gróðurhúsalofttegundir myndu aukast.",
+    "option_c": "Súrefni í andrúmsloftinu myndi aukast.",
+    "option_d": "Sjávarborð myndi lækka verulega."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032743",
+    "answer": "C",
+    "instruction": "Hvort er líklegra að keðjueinkenni séu lærð fremur en að þau séu arfgeng?",
+    "option_a": "hraði",
+    "option_b": "bletta kápa",
+    "option_c": "veiðiaðferðir",
+    "option_d": "klær sem dragast ekki inn"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_19",
+    "answer": "B",
+    "instruction": "Þegar kettlingar verða að köttum er líkamsþyngd þeirra yfirleitt",
+    "option_a": "lækkar",
+    "option_b": "hækkanir",
+    "option_c": "helst óbreytt"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115273",
+    "answer": "C",
+    "instruction": "Hvaða örverufræðilegi þáttur í vatninu sem hindrar að stórir þörungar nái botninum?",
+    "option_a": "vatn",
+    "option_b": "salt",
+    "option_c": "ljós",
+    "option_d": "súrefni"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205555",
+    "answer": "A",
+    "instruction": "Vatn hefur marga sérstæða efnafræðilega eiginleika. Hvaða eiginleiki vatns gerir vatn að góðum leysir á kristölluðum söltum?",
+    "option_a": "sterk skautun",
+    "option_b": "veik leiðni",
+    "option_c": "mikill seigjustyrkur",
+    "option_d": "lágt sýrustig"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7192990",
+    "answer": "A",
+    "instruction": "Skógareldar verða víða vegna þurrka. Ef þurrkar halda áfram í langan tíma, sem gæti valdið því að endurstofnsetning trjáa verði í hættu?",
+    "option_a": "minnkun á þykkt jarðvegs",
+    "option_b": "minnkun á magni rofs",
+    "option_c": "fjölgun í bakteríustofninum",
+    "option_d": "aukning á súrefnisframleiðslu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408859",
+    "answer": "A",
+    "instruction": "Amerískir krókódílar eru algengir í votlendi Flórída. Þeir éta froska, skjaldbökur, fiska, mýs og fugla. Hvaða hlutverki gegnir bandarískur krókódíll í vistkerfi sínu?",
+    "option_a": "neytenda",
+    "option_b": "decomposer",
+    "option_c": "Skagfirskur",
+    "option_d": "framleiðandi"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg90",
+    "answer": "C",
+    "instruction": "Sue mældi hversu mikið sykur leysist upp í bolla af köldu vatni, bolla af volgu vatni og bolla af heitu vatni. Hvað líklegast sá hún?",
+    "option_a": "Kalda vatnið leysti mestan sykur upp.",
+    "option_b": "Hlýja vatnið leysti mestan sykur upp.",
+    "option_c": "Hlýja vatnið leysti mestan sykur upp.",
+    "option_d": "Kalda vatnið, volgt vatn og heitt vatn leystu allt upp sama magn af sykri."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180058",
+    "answer": "A",
+    "instruction": "Steingervingur sem fannst í Colorado er frá fyrstu tímum Mesósósa. Ári síðar fannst svipaður steingervingur í Wyoming sem er einnig frá fyrstu tímum Mesósósa. Líklegast er að þessar tvær lífverur hafi búið í",
+    "option_a": "sama umhverfi á svipuðum tíma.",
+    "option_b": "sama umhverfi á mismunandi tímum.",
+    "option_c": "mismunandi umhverfi á svipuðum tíma.",
+    "option_d": "mismunandi umhverfi á mismunandi tímum."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400050",
+    "answer": "C",
+    "instruction": "Hvað gerist þegar hitastigið í húsinu er kaldara en það hitastig sem valið er á hitastillinum?",
+    "option_a": "Ofninn ofhitnar.",
+    "option_b": "Hitastillirinn verður heitur.",
+    "option_c": "Ofninn kviknar sjálfkrafa.",
+    "option_d": "Hitastillirinn gefur frá sér hljóðmerki."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_13",
+    "answer": "D",
+    "instruction": "Sem er ekki stórt og umdeilt mál tengt notkun kjarnorku?",
+    "option_a": "förgun á kjarnorkuúrgangi",
+    "option_b": "heilsuspillandi áhrif á svæði í kringum kjarnorkuver",
+    "option_c": "varmamengun vatnshlotanna sem notuð eru til kælingar",
+    "option_d": "atvinnuleysi vegna umbreytingar yfir í kjarnorku"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_4",
+    "answer": "A",
+    "instruction": "Hvaða ríki efna hefur ekkert ákveðið rúmmál og ekkert ákveðið form?",
+    "option_a": "gas",
+    "option_b": "fljótandi",
+    "option_c": "solid"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233678",
+    "answer": "A",
+    "instruction": "Vísindamenn telja að landgrunnsrek í jarðsögunni hafi haft veruleg áhrif á hringrásir hlýrra og kaldara loftslags á jörðinni. Hvaða lýsing á eiginleikum landgrunna á jörðinni er líklegast til að valda breytingum á loftslagi jarðar þegar landgrunnsrek á sér stað?",
+    "option_a": "Staðsetning meginlandsins hefur áhrif á endurkastshæfni þess.",
+    "option_b": "Dýpt landgrunnsfleka ákvarðar sértækan hita þeirra.",
+    "option_c": "Landrek drekkur í sig mikið magn af hreyfiorku.",
+    "option_d": "Hitastig heimsálfa ræðst af hitastigi næsta hafs."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10666",
+    "answer": "B",
+    "instruction": "Plöntur þurfa yfirleitt ekki að éta aðrar lífverur því plöntur",
+    "option_a": "þurfa ekki matarorku til að lifa.",
+    "option_b": "breyta sólarljósi í matarorku.",
+    "option_c": "fá alla sína matarorku úr jarðvegi.",
+    "option_d": "halda matarorku geymdri í rótum sínum."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_38",
+    "answer": "A",
+    "instruction": "Efni í föstum fasa (ástandi) efnis hefur",
+    "option_a": "afmarkað form og afmarkað rúmmál",
+    "option_b": "afmarkað form en ekkert afmarkað rúmmál",
+    "option_c": "engin ákveðin lögun, en ákveðið rúmmál",
+    "option_d": "engin ákveðin lögun og ekkert ákveðið rúmmál"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_8_28",
+    "answer": "A",
+    "instruction": "Hvernig myndu mælanlegir eiginleikar golfkúlu breytast ef hún flyttist frá Jörðinni til tunglsins?",
+    "option_a": "Hann hefði sama massa en aðra þyngd.",
+    "option_b": "Það hefði sömu þyngd en annan massa.",
+    "option_c": "Hún hefði sama eðlismassa en annan massa.",
+    "option_d": "Hann hefði sama massa en annan þéttleika."
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP__7_10354",
+    "answer": "D",
+    "instruction": "Vísindakennari Jóhönnu varaði nemendur við að vera efins þegar þeir lærðu um nýjar vísindauppgötvanir. Hvers vegna er mikilvægt að vera efins um nýjar uppgötvanir í vísindum?",
+    "option_a": "því margar vísindalegar uppgötvanir eru ekki byggðar á staðreyndum",
+    "option_b": "því flestar vísindalegar uppgötvanir hafa ekkert vísindalegt gildi",
+    "option_c": "því flestir vísindamenn gera villur þegar þeir setja fram vísindalegar uppgötvanir",
+    "option_d": "því allar vísindalegar uppgötvanir þarf að skoða á gagnrýninn hátt áður en hægt er að samþykkja þær"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_8_25",
+    "answer": "B",
+    "instruction": "Í bifreið, hvaða af eftirfarandi íhlutum er hannaður sérstaklega til að gefa ökumanni endurgjöf?",
+    "option_a": "stýrishjól",
+    "option_b": "hraðamælir",
+    "option_c": "hemlafótur",
+    "option_d": "bíllykill"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2011_8_pg63",
+    "answer": "C",
+    "instruction": "Hvað af eftirfarandi skilgreinir efnasamband?",
+    "option_a": "mismunandi efnum blandað saman",
+    "option_b": "frumeindir og sameindir sem eru blandaðar saman",
+    "option_c": "frumeindir mismunandi frumefna sem eru sameinaðar",
+    "option_d": "frumeindir sama frumefnis sameinaðar saman"
+  },
+  {
+    "id": "ARC-Challenge/validation/AIMS_2009_4_29",
+    "answer": "D",
+    "instruction": "Kæliskápur notar rafmagn til að búa til kælistað til að geyma matvæli. Hvaða neikvæðu áhrif hefur kæliskápanotkun á umhverfið?",
+    "option_a": "Rafmagnið sem þarf til að halda matvælum köldum getur verið dýrt.",
+    "option_b": "Ef rafmagnið fer þá skemmist maturinn og þú verður veikur.",
+    "option_c": "Með því að geyma matvæli lengur minnka ferðir í matvöruverslanir og bensínnotkun.",
+    "option_d": "Gamlir ísskápar innihalda efni og taka pláss á urðunarstöðum."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10472",
+    "answer": "B",
+    "instruction": "Plöntur hafa sérhæfða vefi í enda stofnanna. Hvað hjálpa þessir vefir plöntunum að gera?",
+    "option_a": "Melta mat",
+    "option_b": "verða hærri",
+    "option_c": "búa til mat",
+    "option_d": "taka vatn"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415491",
+    "answer": "C",
+    "instruction": "Jörðin fer einu sinni á ári um sólina. Hversu oft á ári fer tunglið um jörðina?",
+    "option_a": "1",
+    "option_b": "7",
+    "option_c": "13",
+    "option_d": "28"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2011_5_17673",
+    "answer": "A",
+    "instruction": "Jose er með tvo stangarsegla. Hann ýtir endum seglanna tveggja saman og sleppir svo takinu. Segullarnir fara hratt í sundur. Hver af eftirfarandi fullyrðingum skýrir best hvers vegna þetta gerist?",
+    "option_a": "Norðurpólar seglanna tveggja snúa hvor að öðrum.",
+    "option_b": "Einn segullinn er norðurpóll og einn segullinn er suðurpóll.",
+    "option_c": "Endar seglanna hrekja hvorn annan en miðjurnar draga að.",
+    "option_d": "Einn segullinn geymir orku og einn segullinn sleppir orku."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_416648",
+    "answer": "A",
+    "instruction": "Paramecium og volvox geta bæði fjölgað sér kynferðislega. Hvernig er kynæxlun í volvox frábrugðin kynæxlun í paramecium?",
+    "option_a": "Volvox-nýlendur framleiða svil.",
+    "option_b": "Volvox frumur fara í viðtengingu.",
+    "option_c": "Volvox-sambúin mynda einfrumungar.",
+    "option_d": "Volvox frumur fjölga sér með ræktun á gróðri."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207620",
+    "answer": "A",
+    "instruction": "Sum mælitæki skrá súrefnismagn í ósonlaginu í lofthjúpi jarðar. Að halda skrá yfir þessi gögn í mörg ár er dæmi um",
+    "option_a": "byggja upp sönnunargögn með áframhaldandi rannsókn.",
+    "option_b": "að greina tilgátu sem styður gögnin.",
+    "option_c": "að draga ályktanir um sönnunargögn úr niðurstöðum.",
+    "option_d": "leggja til gögn sem eru auðskiljanleg."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7164850",
+    "answer": "A",
+    "instruction": "Í náttúrufræðitíma var hannað veggspjald sem sýndi hvernig eyjarnar við strendur Flórída mynduðust. Nemendur sýndu áhrif vinds, öldu og sjávarfalla á sandinn sem myndaði eyjarnar. Á veggspjaldinu átti nemandinn að segja hvaða kerfi höfðu mest áhrif á myndun eyjanna?",
+    "option_a": "vatns- og lofthjúpsins",
+    "option_b": "andrúmsloftið og lithvolfið",
+    "option_c": "lífhvolfið og vatnshvolfið",
+    "option_d": "Lithvolfið og lífhvolfið"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7011270",
+    "answer": "B",
+    "instruction": "Hversu langan tíma tekur tunglið að ljúka einni hringsveiflu um jörðina?",
+    "option_a": "7 dagar",
+    "option_b": "30 dagar",
+    "option_c": "90 dagar",
+    "option_d": "365 dagar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090598",
+    "answer": "C",
+    "instruction": "Hvort ferlið felur í sér flutning á miklu magni varmaorku?",
+    "option_a": "rof",
+    "option_b": "Setmyndun",
+    "option_c": "framleiðsla",
+    "option_d": "sementun"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_412337",
+    "answer": "D",
+    "instruction": "Við rannsókn er varmaorka flutt úr vökva í umhverfið. Hvaða skýringar geta skýrt þessa niðurstöðu?",
+    "option_a": "Hitastig vökvans hækkaði eða vökvinn varð að gasi.",
+    "option_b": "Hitastig vökvans hækkaði eða vökvinn varð að föstu efni.",
+    "option_c": "Hitastig vökvans lækkaði eða vökvinn varð að gasi.",
+    "option_d": "Hitastig vökvans lækkaði eða vökvinn varð að föstu efni."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_2",
+    "answer": "C",
+    "instruction": "Frumubyggingin sem gerir plöntufrumu stífari en dýrafrumu er",
+    "option_a": "frumuhimnu.",
+    "option_b": "umfrymi.",
+    "option_c": "frumuvegg.",
+    "option_d": "ríbósóma."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7124338",
+    "answer": "D",
+    "instruction": "Spurnarhugur væri hjálplegur fyrir vísindamann því hann myndi leiða vísindamanninn að",
+    "option_a": "verða meira skapandi.",
+    "option_b": "vantreysta störfum annarra vísindamanna.",
+    "option_c": "vinna að því að samþykkja birtar tilgátur.",
+    "option_d": "stunda rannsóknir til að staðfesta eða afsanna kenningar."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_405454",
+    "answer": "D",
+    "instruction": "Hvaða matreiðsluáhöld breyta umhverfinu minnst?",
+    "option_a": "gasgrill",
+    "option_b": "rafmagnssteikspönnu",
+    "option_c": "örbylgjuofn",
+    "option_d": "sólareldavél"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7007875",
+    "answer": "B",
+    "instruction": "Hver er ábyrgur fyrir því að búa til vind?",
+    "option_a": "Bylgjuaðgerðir",
+    "option_b": "sólarorka",
+    "option_c": "tré blása",
+    "option_d": "Þyngdarkraftur"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_417146",
+    "answer": "A",
+    "instruction": "Megnið af súrefni í andrúmsloftinu er framleitt af þörungum. Hvar lifa flestir þörungarnir?",
+    "option_a": "strandhaf",
+    "option_b": "djúphöf",
+    "option_c": "Tjarnir",
+    "option_d": "vötn"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2004_8_10397",
+    "answer": "B",
+    "instruction": "Þegar fólk gekk á tunglinu kom í ljós að það gat hoppað hærra en það gat aftur á jörðinni. Hvers vegna er þetta satt?",
+    "option_a": "Það er ekkert loftslag á tunglinu.",
+    "option_b": "Tunglið hefur minni þyngdarafl en jörðin.",
+    "option_c": "Geimbúningar hjálpuðu þeim að stökkva hærra.",
+    "option_d": "Tunglið snýst hraðar en jörðin."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407695",
+    "answer": "D",
+    "instruction": "Juan og LaKeisha velta nokkrum hlutum niður hlað. Þau vilja sjá hvaða hlutur veltur lengst. Hvað eiga þau að gera til að geta endurtekið rannsóknina?",
+    "option_a": "Setja hlutina í hópa.",
+    "option_b": "Breyta hæð rampsins.",
+    "option_c": "Veljið mismunandi hluti til að rúlla.",
+    "option_d": "Skrá upplýsingar um rannsóknina."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7158673",
+    "answer": "D",
+    "instruction": "Ana er hlaupari á hlaupabraut. Eftir að hafa lokið hlaupi tók hún eftir því að henni fannst hún vera heit vegna losunar á varmaorku. Hver er líklegasti uppruni varmaorkunnar?",
+    "option_a": "núningur frá lofti",
+    "option_b": "hiti sem er tekinn frá sólinni",
+    "option_c": "vélræn orka sem er tekin upp",
+    "option_d": "orkubreytingar sem eiga sér stað í líkama hennar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018515",
+    "answer": "C",
+    "instruction": "Líklegasta ástæða þess að hljóð ferðast hraðar í saltvatni en ferskvatni er sú að",
+    "option_a": "er teygjanlegri.",
+    "option_b": "tekur upp hita hraðar.",
+    "option_c": "hefur meiri þéttleika.",
+    "option_d": "endurspeglar hljóminn betur."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412551",
+    "answer": "D",
+    "instruction": "Skrekkur hafa tvö litaafbrigði: rauðan og gráan. Hvaða forskot hefur gráa skrekulauldin yfir þá rauðu í búsvæði sem er byggt upp af trjám með dökklituðum börkum?",
+    "option_a": "hreiðurgerð",
+    "option_b": "fóðrun",
+    "option_c": "kynbótastarfsemi",
+    "option_d": "fela"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_19",
+    "answer": "D",
+    "instruction": "Þrír hafnaboltaleikmenn rannsaka hverjir geta kastað hafnabolta lengst. Þeir merkja svæði á leikvellinum fyrir rannsókn sína. Hvort þeirra eiga þeir að halda stöðugt?",
+    "option_a": "Hæð leikmanna",
+    "option_b": "Litur hafnabolta sem kastað er",
+    "option_c": "Röð sem leikmenn kasta í",
+    "option_d": "Punktur sem leikmenn kasta frá"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120890",
+    "answer": "A",
+    "instruction": "Hvort sýnir best fram á að bylgjur flytji orku?",
+    "option_a": "bjalla sem hringir í turni",
+    "option_b": "laufblað sem fellur af tré",
+    "option_c": "bolti sem rúllar niður hæð",
+    "option_d": "fáni sem hreyfist í vindinum"
+  },
+  {
+    "id": "ARC-Challenge/validation/AKDE&ED_2008_8_44",
+    "answer": "A",
+    "instruction": "Hvaða eiginleiki á aðeins við um dýr í einum af þessum flokkunarkerfum: skriðdýr, spendýr, fugla, froskdýr eða fiska?",
+    "option_a": "hafa hár",
+    "option_b": "varphrogna",
+    "option_c": "hafa veðraða fætur",
+    "option_d": "anda með tálknum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415348",
+    "answer": "D",
+    "instruction": "Hvað er arfgengur eiginleiki trés?",
+    "option_a": "brotin grein á furutré",
+    "option_b": "hola í eikartré",
+    "option_c": "ör á möttultré",
+    "option_d": "þykkan bol á pekantré"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7014368",
+    "answer": "C",
+    "instruction": "Langir strandstraumar eru hafbylgjur sem ganga á strendur á afar litlum sjóhornum. Hvaða áhrif hafa langir strandstraumar á landsvæði á svæðum þar sem þeir eru til staðar?",
+    "option_a": "Þeir byggja fjöll.",
+    "option_b": "Þeir valda jarðskjálftum.",
+    "option_c": "Þeir hreyfa sandinn og mynda sandbörur.",
+    "option_d": "Þær skapa saltvatnsfljót á landi."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245193",
+    "answer": "C",
+    "instruction": "Landsvæði var hreinsað niður í bert grjót til að leggja veg en vegurinn var aldrei lagður. Svæðið tók að vaxa á ný. Hvaða lífverur komu líklegast fyrst aftur fram á sjónarsviðið?",
+    "option_a": "tré",
+    "option_b": "runnar",
+    "option_c": "fléttur og mosar",
+    "option_d": "illgresi og krabbadýr"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251668",
+    "answer": "D",
+    "instruction": "Dýrlingur sýnir lóðréttan flutning frá botni eins metra djúprar tjarnar að degi til yfirborðs tjarnar að nóttu. Hvaða þáttur er líklegastur til að hafa áhrif á svörun ungbarna?",
+    "option_a": "sýrustig vatnsins",
+    "option_b": "glöggleik vatnsins",
+    "option_c": "þrýstingur vatnsins",
+    "option_d": "hitastig vatnsins"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29421",
+    "answer": "A",
+    "instruction": "Þegar sviti einstaklings gufar upp þá er hann kaldari. Hver af eftirfarandi fullyrðingum lýsir best af hverju sviti hjálpar einstaklingi að vera kaldur?",
+    "option_a": "Sviti dregur í sig varma þegar hann gufar upp.",
+    "option_b": "Varmi frásogast í líkamann þegar sviti gufar upp.",
+    "option_c": "Hitastig vatnsins í svitanum lækkar þegar það gufar upp.",
+    "option_d": "Hitastig vatnsins í líkamanum hækkar þegar sviti gufar upp."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7082145",
+    "answer": "D",
+    "instruction": "Hvernig á að nota línurit til að sýna gögn um vegalengd og tíma fyrir hreyfanlegan hlut?",
+    "option_a": "Á y-ás skal merkja tíma sem er háða breytan.",
+    "option_b": "Á y-ás skal merkja fjarlægð, sem er óháða breytan.",
+    "option_c": "Á x-ás skal merkja fjarlægð, sem er háða breytan.",
+    "option_d": "Á x-ás skal merkja tíma sem er óháða breytan."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_5_39",
+    "answer": "D",
+    "instruction": "Nemendur eru að kynnast náttúruauðlindum Maryland. Annar hópurinn rannsakar upplýsingar um endurnýjanlegar náttúruauðlindir í ríkinu. Hinn hópurinn rannsakar upplýsingar um óendurnýjanlegar náttúruauðlindir í ríkinu. Þær auðlindir sem nemendur rannsaka eru plöntur, dýr, jarðvegur, steinefni, vatn, kol og olía. Hver af eftirfarandi athöfnum mannsins hefur neikvæð áhrif á náttúruauðlind?",
+    "option_a": "veiðar í vatni",
+    "option_b": "að nota vatn til að framleiða rafmagn",
+    "option_c": "gróðursetning innfæddra plantna við vatnsbakka",
+    "option_d": "afrennsli frá ræktarlandi beint í stöðuvatn"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_22",
+    "answer": "A",
+    "instruction": "Feldur sumra dýra verður þykkari á veturna og er losaður á vorin. Þessar athuganir sýna hvernig dýr",
+    "option_a": "bregðast við breytingum í umhverfinu",
+    "option_b": "flytjast á milli staða til að lifa af",
+    "option_c": "geyma fitu fyrir veturinn",
+    "option_d": "keppa við önnur dýr um fæðu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7006790",
+    "answer": "B",
+    "instruction": "Hvert af eftirfarandi skýrir best orsök þess að rúður skríða í þrumuveðri?",
+    "option_a": "rafmagnsorka",
+    "option_b": "hljóðorka",
+    "option_c": "létt orka",
+    "option_d": "varmaorka"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7284043",
+    "answer": "C",
+    "instruction": "Fílar á afrísku savanna éta runna og lítil tré. Þessi hegðun hreinsar land og gerir grasi kleift að vaxa. Beitardýr eins og glóþráður éta grasið. Ljónin eru bráð glóþráðanna. Hvaða tvær lífverur í þessari atburðarás eru í hvað mestum samvinnusambandi?",
+    "option_a": "fílana og runnana",
+    "option_b": "runnarnir og ljónin",
+    "option_c": "fílana og gazellurnar",
+    "option_d": "glósur og ljón"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7175455",
+    "answer": "D",
+    "instruction": "Í Ástralíu getur hitinn farið upp í rúmlega 110 gráður á celsius (43 gráður á celsius) á miðjum degi. Til þess að halda líkamanum köldum sleikja kengúrur handleggina og þekja þá með þykku lagi af munnvatni. Þegar munnvatnið gufar upp virkar það sem kælibúnaður og lækkar líkamshita kengúrunnar. Hvaða hugtak lýsir þessari virkni best?",
+    "option_a": "náttúrulegt val",
+    "option_b": "varnarbúnaður",
+    "option_c": "skipulagsbreytingar",
+    "option_d": "atferlisaðlögun"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401714",
+    "answer": "B",
+    "instruction": "Í tilraun eru nemendur að prófa að bera kennsl á óþekkt duft. Hvaða aðferð hentar best til að færa duftið í jafnvægi?",
+    "option_a": "sópa með pensli á millipappír",
+    "option_b": "ausa með lab spatula á millipappír",
+    "option_c": "klemma með fingrum og lyfta á millipappír",
+    "option_d": "hella úr flöskunni á millipappír"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_409529",
+    "answer": "B",
+    "instruction": "Robert er fiskifræðingur sem vill finna leið til að veiða meira. Hann ákvað að prófa mismunandi króka. Robert veiddi 4 karfa, 3 urriða og 7 ufsa á sama tíma og hann notaði orma sem beitu. Hver er sjálfstæða (manipulated) breytan í rannsókn Roberts?",
+    "option_a": "tegund beitu",
+    "option_b": "stærð króks",
+    "option_c": "tegund veidds fisks",
+    "option_d": "fjöldi veiddra fiska"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7223038",
+    "answer": "C",
+    "instruction": "Stjörnur eru af ýmsum stærðum og gerðum. Hvert af eftirfarandi lýsir best þeim flokki sem sólin myndi falla í?",
+    "option_a": "bláar risastjörnur",
+    "option_b": "rauð risastjörnur",
+    "option_c": "Gular aðalröðastjörnur",
+    "option_d": "hvítir dvergstjörnur"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2008_5_24",
+    "answer": "C",
+    "instruction": "Margar náttúruauðlindir finnast í Maryland og nágrenni. Sumar þessara náttúruauðlinda eru endurnýjanlegar og aðrar óendurnýjanlegar. Fólk notar báðar þessar auðlindir í daglegu lífi. Við notkun náttúruauðlinda myndast oft úrgangsefni. Endurvinnslustöðvar eru þar sem fólk tekur efni sem hægt er að endurnýta til að búa til nýjar vörur. Hvaða jákvæðu áhrif hefur endurvinnsla á pappír á umhverfið?",
+    "option_a": "dregur úr loftmengun",
+    "option_b": "eykur jarðvegsrof",
+    "option_c": "minnkar tré sem eru höggvin",
+    "option_d": "eykur eyðileggingu búsvæða"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_5_11998",
+    "answer": "A",
+    "instruction": "Morgundýrð er tegund af blómstrandi vínvið sem klífur tré og girðingar. Hver af eftirfarandi hegðun hjálpar helst til við að klífa girðingu?",
+    "option_a": "stönglar bogna við snertingu",
+    "option_b": "bólga í stönglum vegna vatns",
+    "option_c": "blóm opnast sem viðbragð við ljósi",
+    "option_d": "rætur vaxa sem svar við þyngdaraflinu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139493",
+    "answer": "B",
+    "instruction": "Hvort er líklegast að það sé að þakka getu flökkufuglanna til að lifa af endurtekna snertingu við skordýraeitur?",
+    "option_a": "tegundafjölbreytni",
+    "option_b": "erfðafræðilegur fjölbreytileiki",
+    "option_c": "fjölbreytni vistkerfa",
+    "option_d": "fjölbreytni íbúafjölda"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_14",
+    "answer": "A",
+    "instruction": "Sólarsellur eru notaðar til að gleypa sólarljós. Hvaða litarafhlaða myndi gleypa mest sólarljós?",
+    "option_a": "svart",
+    "option_b": "græn",
+    "option_c": "hvítur",
+    "option_d": "gulur"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_35",
+    "answer": "A",
+    "instruction": "Hvaða erfðafræðilegu einkenni eru afleiðing aðgreiningarvanda?",
+    "option_a": "Þrílitningur 16: ástand sem verður þegar sygrjón fær þrjú eintök af litningi 16",
+    "option_b": "Huntingtons sjúkdómur: sjúkdómur sem verður til þegar genaferjur fá stökkbreytta, ráðandi genasamsætu.",
+    "option_c": "Dreyrasýki: ástand sem orsakast þegar sykurpúði fær X-litning með ákveðna víkjandi samsætu",
+    "option_d": "Sigðkornablóðleysi: ástand sem orsakast þegar sykurfruma fær víkjandi samsætu fyrir blóðrauða frá hvoru foreldri fyrir sig."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2015_8_7",
+    "answer": "B",
+    "instruction": "Nemandi hitar tvær vatnspönnur á eldavél með hæstu stillingu. Önnur pannan inniheldur 1 L af vatni og hin 3 L af vatni. Nemandi hitar hvora pönnu þar til vatnið sýður. Hver af eftirfarandi fullyrðingum lýsir best því sem gerist við vatnið í pönnunum?",
+    "option_a": "Vatnið á báðum pönnunum sjóðast á sama tíma.",
+    "option_b": "Vatnið á báðum pönnunum sjóðist við sama hitastig.",
+    "option_c": "3 L af vatni verður heitara en 1 L af vatni fyrir suðu.",
+    "option_d": "3 L vatnsins gleypir varma hraðar en 1 L vatnsins."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115063",
+    "answer": "A",
+    "instruction": "Hvert af eftirfarandi er líklegast til að raska votlendisvistkerfi?",
+    "option_a": "byggingu húsnæðis",
+    "option_b": "gróðursetning á innfæddum villtum blómum",
+    "option_c": "tímabil mikilla úrkomu",
+    "option_d": "eldingu á"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7144795",
+    "answer": "D",
+    "instruction": "Á síðustu 75 árum hafa orðið miklar breytingar á vistfræðilegum skilyrðum á tilteknum búsvæðum. Hvort er líklegast einkenni tegundar sem hefur mesta möguleika á að lifa af þessar umhverfisbreytingar?",
+    "option_a": "þýði með mörgum einstaklingum",
+    "option_b": "mikil tegundafjölbreytni í núverandi samfélagi",
+    "option_c": "aðlögun sem gerir einstaklingum kleift að lifa við fjölbreyttar aðstæður",
+    "option_d": "hegðun sem stuðlar að þróun aðlögunar í nýju umhverfi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400934",
+    "answer": "C",
+    "instruction": "Samkvæmt reglubundinni töflu yfir þætti, hvaða þættir hafa svipaða eiginleika?",
+    "option_a": "H, C, I",
+    "option_b": "He, H, Al",
+    "option_c": "He, Ne, Ar",
+    "option_d": "Na, Ca, Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7004410",
+    "answer": "B",
+    "instruction": "Ein takmörkun fæðuvefja við að vera tákn fyrir vistkerfi er að þeir",
+    "option_a": "taka til framleiðenda í vistkerfinu.",
+    "option_b": "ná til allra tegunda í vistkerfinu.",
+    "option_c": "sýna neytendum í vistkerfinu.",
+    "option_d": "sýna tengsl rándýrs og bráðs í vistkerfinu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7029505",
+    "answer": "C",
+    "instruction": "Hvernig eru blóðflokkarnir ólíkir í ABO blóðflokkuninni?",
+    "option_a": "mismunandi stærð rauðra blóðkorna",
+    "option_b": "mismunandi stærð hvítra blóðkorna",
+    "option_c": "mismunandi merkiprótein á rauðum blóðkornum",
+    "option_d": "mismunandi merkiprótein á hvítum blóðkornum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10598",
+    "answer": "A",
+    "instruction": "Ísmola bráðnar og gufar svo upp. Ísmolinn og vatnsgufan hafa sama",
+    "option_a": "fjölda.",
+    "option_b": "þéttleika.",
+    "option_c": "magn.",
+    "option_d": "hita."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245893",
+    "answer": "B",
+    "instruction": "Hvaða hluti meltingarkerfisins veldur fyrst efnabreytingum á matvælum?",
+    "option_a": "tennur í munni",
+    "option_b": "munnvatn í munni",
+    "option_c": "ensím í maganum",
+    "option_d": "ensím í smáþörmum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246925",
+    "answer": "D",
+    "instruction": "Leucine er ein af þeim amínósýrum sem líkaminn þarfnast en getur ekki framleitt. Hvort af þessu gerist svo mannslíkaminn geti framleitt leucine?",
+    "option_a": "Líkaminn umbreytir öðrum amínósýrum í leucine.",
+    "option_b": "Líkaminn geymir kolvetni sem innihalda leucine.",
+    "option_c": "Líkaminn brýtur niður fitusýrur til að fá leucine.",
+    "option_d": "Líkaminn metur prótein í mat til að fá leucine."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138688",
+    "answer": "D",
+    "instruction": "Hvaða aðferð hjálpar best til við að ákvarða hvort rannsókn sé vísindalega réttmæt?",
+    "option_a": "að skrá niður ástand búnaðar sem notaður er við aðgerðina",
+    "option_b": "að framkvæma rannsókn með hópi fólks",
+    "option_c": "að framkvæma aðgerðina vel og vandlega í eitt skipti",
+    "option_d": "endurtaka rannsókn nokkrum sinnum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408700",
+    "answer": "C",
+    "instruction": "Emily bjó til tebolla og hrærði í honum með skeið. Skeiðin varð hlý. Hvernig var hitinn frá teinu fluttur yfir í skeiðina?",
+    "option_a": "Tenging",
+    "option_b": "geislun",
+    "option_c": "leiðni",
+    "option_d": "uppgufun"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100608",
+    "answer": "B",
+    "instruction": "Fjölskylda Michaels er að byggja nýtt hús. Þau vilja nýta rafmagn sem framleitt er með endurnýjanlegum orkugjöfum. Hvort af þessum orkugjöfum myndi hjálpa fjölskyldunni að ná markmiði sínu?",
+    "option_a": "bensínvél",
+    "option_b": "sólarþakplötur",
+    "option_c": "kolaorkuver",
+    "option_d": "kjarnorkuver"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133648",
+    "answer": "C",
+    "instruction": "Hvaða verkefni í eldhúsinu er dæmi um líkamlega breytingu?",
+    "option_a": "að steikja egg",
+    "option_b": "baka köku",
+    "option_c": "bræðslusmjör",
+    "option_d": "ristuðu brauði"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401244",
+    "answer": "D",
+    "instruction": "Hvaða bergtegund er gagnlegust til að rannsaka lífríkissögu?",
+    "option_a": "basalt",
+    "option_b": "marmara",
+    "option_c": "Granít",
+    "option_d": "kalksteinn"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400397",
+    "answer": "C",
+    "instruction": "Hvað af þessu lærði björn líklegast af því að lifa í sínu umhverfi?",
+    "option_a": "neysluvatn",
+    "option_b": "að borða fisk",
+    "option_c": "opna fyrir lok á ruslatunnum",
+    "option_d": "að vernda ungmenni sín"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245088",
+    "answer": "D",
+    "instruction": "Sem lýsir samsetningu kolvetna?",
+    "option_a": "Lípíð sem bindast og mynda fosfólípíð",
+    "option_b": "einliður sem bindast og mynda fjölliður",
+    "option_c": "amínósýrur sem bindast og mynda fjölpeptíð",
+    "option_d": "sykrur sem bindast og mynda fjölsykrur"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_408809",
+    "answer": "C",
+    "instruction": "Í músum hefur ákveðin tegund ófullkomna yfirburði í hjúplit. Afkvæmi svartra (BB) músa og hvítra (bb) músa eru gráar (Bb) músar. Kross á milli tveggja grárra músa er líklegast til að mynda afkvæmi með hvaða prósentuhlutfalli af hjúplit?",
+    "option_a": "25% svart, 75% grátt",
+    "option_b": "25% grátt, 75% hvítt",
+    "option_c": "25% hvítt, 25% svart, 50% grátt",
+    "option_d": "25% grátt, 25% svart, 50% hvítt"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7068863",
+    "answer": "C",
+    "instruction": "Nemandi rannsakaði áhrif járns á vöxt plantna. Fjórar eins plöntur fengu mismikið járn við vökvun. Þessa rannsókn hefði mátt bæta ef það væru",
+    "option_a": "ánamaðka í jarðveginum.",
+    "option_b": "færri plöntur í tilrauninni.",
+    "option_c": "plöntur sem fengu vatn án járnbótaefna.",
+    "option_d": "plöntur sem fengu mismikið sólarljós."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166880",
+    "answer": "D",
+    "instruction": "Clay fylgist með veðrinu til að undirbúa sig fyrir ferðina á ströndina á morgun. Spáin gerir ráð fyrir að það verði lægð í nótt. Hvaða veðri er líklegast að Clay geti vænst í fyrramálið?",
+    "option_a": "þokuloft",
+    "option_b": "sólrík",
+    "option_c": "tærar og kaldari",
+    "option_d": "skýjað og rigning"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_25",
+    "answer": "A",
+    "instruction": "Hvort er ekki öryggisregla fyrir vísindastofuna?",
+    "option_a": "Mælið vökva nákvæmlega í bikarglas.",
+    "option_b": "Ekki skera hluti þegar þú heldur á þeim.",
+    "option_c": "Nota skal öryggisgleraugu við meðhöndlun hættulegra efna.",
+    "option_d": "Þegar þú finnur lykt skaltu veifa lyktinni í átt að nefi í stað þess að setja andlitið yfir lyktargjafann."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018445",
+    "answer": "D",
+    "instruction": "Í gegnum hvaða efni myndi hljóð ferðast hraðast?",
+    "option_a": "Kork",
+    "option_b": "vatn",
+    "option_c": "loft",
+    "option_d": "stál"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7033653",
+    "answer": "C",
+    "instruction": "Hver er besta einingin til að mæla fjarlægðir milli jarðar og annarra sólkerfa í alheiminum?",
+    "option_a": "mílur",
+    "option_b": "kílómetrar",
+    "option_c": "Ljósár",
+    "option_d": "Stjörnufræðilegar einingar"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_5_29",
+    "answer": "D",
+    "instruction": "Fjórar stangir af sömu þykkt en úr mismunandi málmum voru prófaðar með jafnmikið vægi til að sjá hver þeirra væri sveigjanlegust. Hver af eftirfarandi er best til að greina frá niðurstöðum þessarar tilraunar?",
+    "option_a": "skrá yfir hverja tegund stangar sem notuð er",
+    "option_b": "skissa af hverri stöng fyrir prófun",
+    "option_c": "tafla sem sýnir hversu mikið hver stangur vó",
+    "option_d": "strikamerki sem sýnir hversu mikið hver stöng beygist"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159268",
+    "answer": "A",
+    "instruction": "Eftir síðustu ísöld olli bráðnun heimskauta- og fjallaíshettna því að vatnsborð sjávar hækkaði. Hvort er líklegast að það hafi stafað af hækkun vatnsborðs sjávar?",
+    "option_a": "aukning saltmagns í núverandi votlendi við strendur",
+    "option_b": "fjölgun lífvera í núverandi rifjum",
+    "option_c": "fækkun sjávarfalla á hverjum degi",
+    "option_d": "minnkun á dýpi hafsbotnsins"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400885",
+    "answer": "D",
+    "instruction": "Hvaða jafna er jafna efnafræðinnar?",
+    "option_a": "2NaOH + CaBr _ {2} -> Ca(OH) _ {2} + NaBr",
+    "option_b": "NO + Cl _ {2} -> NOCl",
+    "option_c": "CaCO _ {3} -> CaO + 2CO _ {2}",
+    "option_d": "2AlCl_{3} + 3Mg -> 3MgCl_{2} + 2Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038273",
+    "answer": "A",
+    "instruction": "Við gerð tilraunar safnar nemandi nokkrum mismunandi hitastigum vatns, tveimur massamælingum og þremur rúmmálsmælingum. Hvort þessara aðferða hentar best til að skipuleggja gögnin?",
+    "option_a": "í töflu",
+    "option_b": "í línuriti",
+    "option_c": "í skriflegri frásögn",
+    "option_d": "myndskreyttar með myndum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407574",
+    "answer": "A",
+    "instruction": "Hvaða gas losnar frá framleiðendum sem neytendur taka inn til að lifa af?",
+    "option_a": "súrefni",
+    "option_b": "köfnunarefni",
+    "option_c": "vatnsgufa",
+    "option_d": "koltvísýringur"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_4_8",
+    "answer": "B",
+    "instruction": "Hvar væri MÁVÆÐAST að vinna með rafmagnsverkfæri?",
+    "option_a": "í bílskúr",
+    "option_b": "við hlið sundlaugar",
+    "option_c": "nálægt sjónvarpi eða tölvu",
+    "option_d": "í köldum kjallara"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7128695",
+    "answer": "C",
+    "instruction": "Vísindamaður gerir uppgötvun við rannsókn en heldur ekki skýrt utan um þær rannsóknir sem gerðar eru. Á hvaða hátt hefur skortur á skráningu áhrif á starf vísindamanns?",
+    "option_a": "Hún ógildir málsmeðferð og niðurstöður.",
+    "option_b": "Það gerir það að verkum að gögnin sem fengust í rannsókninni eru röng.",
+    "option_c": "Það kemur í veg fyrir að aðrir vísindamenn geti staðfest niðurstöðurnar.",
+    "option_d": "Það bannar öðrum vísindamönnum að setja fram nýjar tilgátur."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400178",
+    "answer": "C",
+    "instruction": "Hvaða blöndu er hægt að skilja í innihaldsefni hennar?",
+    "option_a": "kartöfluflögur",
+    "option_b": "súkkulaðikaka",
+    "option_c": "ávaxtasalat",
+    "option_d": "kramin egg"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189823",
+    "answer": "A",
+    "instruction": "Eldgos verður og nær það yfir svæðið í kring með hrauni og gosösku. Hvaða tegund plantna verður líklegast fyrst til að taka sér bólfestu á svæðinu í kring þegar vistkerfið tekur að jafna sig?",
+    "option_a": "mosar",
+    "option_b": "villiblóm",
+    "option_c": "harðviðartrén",
+    "option_d": "sígrænir runnar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412683",
+    "answer": "D",
+    "instruction": "Hver er hraði 2 Hz bylgju sem hefur 10 m bylgjulengd?",
+    "option_a": "5 m/s",
+    "option_b": "8 m/s",
+    "option_c": "12 m/s",
+    "option_d": "20 m/s"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184258",
+    "answer": "A",
+    "instruction": "Hvað af eftirfarandi eiginleikum straumsins hefur mest bein áhrif á ákomu á læk?",
+    "option_a": "stigull",
+    "option_b": "hækkun",
+    "option_c": "grunnstig",
+    "option_d": "vatnsgæði"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192168",
+    "answer": "D",
+    "instruction": "Vísindaleg líkön eru mjög algeng. Í hvaða tilgangi hér á eftir væri eðlisfræðilegt líkan síst hjálplegt?",
+    "option_a": "að líkja eftir vísindalegum fyrirbærum",
+    "option_b": "að einfalda flókna hugmynd",
+    "option_c": "að leyfa myndsköpun",
+    "option_d": "að birta gögn"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_LBS10399",
+    "answer": "D",
+    "instruction": "Smásjá stækkar hlut með 50x stækkun. Hversu langur er hluturinn ef myndin virðist vera 0,5 cm löng?",
+    "option_a": "100 cm",
+    "option_b": "25 cm",
+    "option_c": "2,5 cm",
+    "option_d": "0.01 cm"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7228603",
+    "answer": "C",
+    "instruction": "Hvert af eftirfarandi er afleiðing skipta á einsleitum litningahlutum í miðslitunarferlinu?",
+    "option_a": "slembistökkbreytingar",
+    "option_b": "fækkun á sviljum",
+    "option_c": "afkvæmi með einstakar samsetningar eiginleika",
+    "option_d": "færri samsætur á hverju litningi"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2013_5_3",
+    "answer": "D",
+    "instruction": "Sólin er flokkuð sem stjarna. Hvað einkennir Sólina sem stjörnu?",
+    "option_a": "Sólin snýst á ás sínum.",
+    "option_b": "Sólin er utan Vetrarbrautarinnar.",
+    "option_c": "Sólin er hluti af Stóru Dípunni.",
+    "option_d": "Sólin framleiðir ljós og orku í kjarnahvörfum."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_38",
+    "answer": "C",
+    "instruction": "Á veturna er loðna heimskautarefsins hvít. Á sumrin dökknar loðnan og verður rauðbrún. Hvað er líklegast til að valda því að loðnan breytir um lit?",
+    "option_a": "hversu mikið sólarljós er til staðar",
+    "option_b": "búsvæði refsins",
+    "option_c": "gen refsins",
+    "option_d": "refahærð"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221095",
+    "answer": "A",
+    "instruction": "Hvort þessara þátta er lífvana í vistkerfi?",
+    "option_a": "meðalársúrkomu í vistkerfinu",
+    "option_b": "hvaða tegundir framleiðenda finnast í vistkerfinu",
+    "option_c": "stærð rándýrastofns í vistkerfinu",
+    "option_d": "örverurnar sem lifa í jarðvegi vistkerfisins"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEAP_2005_5_1",
+    "answer": "C",
+    "instruction": "Vatnsgufa er til í andrúmsloftinu sem ___.",
+    "option_a": "sýnilegt gas",
+    "option_b": "sýnilegur vökvi",
+    "option_c": "ósýnilegt gas",
+    "option_d": "ósýnilegur vökvi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406939",
+    "answer": "C",
+    "instruction": "Hvernig getur pappír farið í gegnum efnabreytingar?",
+    "option_a": "brjótið blaðið í tvennt",
+    "option_b": "bleyta pappírinn í vatni",
+    "option_c": "brenna blaðið með eldi",
+    "option_d": "klipptu blaðið með skærum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7219415",
+    "answer": "C",
+    "instruction": "Hvaða dæmi er fall af sértæku gegndræpu himnu frumu?",
+    "option_a": "stuðningur við form frumunnar",
+    "option_b": "framleiða prótein fyrir frumuna",
+    "option_c": "takmarkar íðefni sem dreifast úr frumunni",
+    "option_d": "að geyma úrgangsefni fyrir klefann"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1999_8_22",
+    "answer": "B",
+    "instruction": "Hvers konar brú notar strengi til stuðnings?",
+    "option_a": "traustbrú",
+    "option_b": "fjöðrunarbrú",
+    "option_c": "geislabrú",
+    "option_d": "brú með kanta"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_33",
+    "answer": "D",
+    "instruction": "Cheetah hefur verið nærri því að deyja út vegna veiða, þurrka og sjúkdóma. Nú er mjög lítill erfðabreytileiki í Cheetah stofnum. Hvað af eftirfarandi er afleiðing af takmörkuðum erfðabreytileika í núverandi Cheetah stofnum samanborið við eldri Cheetah stofna með meiri breytileika?",
+    "option_a": "Klóþang í núverandi stofnum er ónæmara fyrir nýjum sjúkdómum.",
+    "option_b": "Lifun ungra bletta er að aukast í núverandi stofnum.",
+    "option_c": "Klóþang í núverandi stofnum getur síður samræktast við aðrar tegundir.",
+    "option_d": "Núverandi bleikjustofnar eru ólíklegri til að geta aðlagast umhverfisbreytingum."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7135310",
+    "answer": "C",
+    "instruction": "Hvers vegna er afurðarorka véla alltaf minni en inntaksorka?",
+    "option_a": "Hluti orkunnar eyðist við notkun vélarinnar.",
+    "option_b": "Vélin þarf að yfirstíga stöðugan segulkraft.",
+    "option_c": "Nýtanleg orka minnkar þegar orkan flyst til umhverfisins.",
+    "option_d": "Hluti orkunnar losnar sem hiti við umbreytingu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_414131",
+    "answer": "C",
+    "instruction": "Sem lýsir eiginleika allra þátta?",
+    "option_a": "Öll frumefni eru málmar.",
+    "option_b": "Öll frumefnin hafa sex rafeindir.",
+    "option_c": "Öll frumefni eru hrein efni.",
+    "option_d": "Öll frumefni eru til í föstum fasa."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7112753",
+    "answer": "B",
+    "instruction": "Til þess að finna bjöllustofninn þurfa vísindamenn að nota mjög sérhæfðan búnað. Hvaða þáttur myndi líklegast takmarka getu til að finna bjöllur?",
+    "option_a": "loftslag",
+    "option_b": "kostnaður",
+    "option_c": "stærð úrtaks",
+    "option_d": "Stjórnmál"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2009_5_16",
+    "answer": "D",
+    "instruction": "Nemendur heimsóttu Morris W. Offit sjónaukann í Maryland Space Grant Observatory í Baltimore. Þeir lærðu um stjörnurnar, pláneturnar og tunglið. Nemendur skráðu upplýsingarnar hér að neðan. * Stjörnumynstur helst óbreytt en staðsetning þeirra á himninum virðist breytast. * Sólin, pláneturnar og tunglið virðast hreyfast á himninum. * Proxima Centauri er næsta stjarna við sólkerfið okkar. * Polaris er stjarna sem er hluti af stjörnumynstri sem kallast Litli Dípari. Hvaða fullyrðing skýrir best hvers vegna sólin virðist hreyfast yfir himininn á hverjum degi?",
+    "option_a": "Sólin snýst um jörðina.",
+    "option_b": "Jörðin snýst í kringum sólina.",
+    "option_c": "Sólin snýst á ásnum.",
+    "option_d": "Jörðin snýst á ás sínum."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7236023",
+    "answer": "B",
+    "instruction": "Loftmassi er í 1000 metra hæð í lágþrýstimiðju óveðurs á norðurhveli jarðar. Hvert af eftirfarandi lýsir best hreyfingu loftagna í þessum loftmassa vegna óveðursaðstæðna og snúningi jarðar þegar loftmassinn hreyfist út á við?",
+    "option_a": "Loftagnir fara upp og til vinstri.",
+    "option_b": "Loftagnir fara upp og til hægri.",
+    "option_c": "Loftagnir fara niður og til vinstri.",
+    "option_d": "Loftagnir fara niður og til hægri."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270008",
+    "answer": "C",
+    "instruction": "Yfirborðsnámur fela í sér að fjarlægja allan gróður og grjót ofan við kolanámu. Hvaða tvö undirkerfi jarðar verða fyrir mestum áhrifum af yfirborðsnámuvinnslu?",
+    "option_a": "Lithvolf og andrúmsloft",
+    "option_b": "lífhvolf og vatnshvolf",
+    "option_c": "Lithvolf og lífhvolf",
+    "option_d": "andrúmsloft og vatnsbaðsloft"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099768",
+    "answer": "D",
+    "instruction": "Þegar keilubolti losnar úr hendi keilumanns er orkan í boltanum að hluta til",
+    "option_a": "geymdur í boltanum þar til hann lendir á pinnunum.",
+    "option_b": "aukið eftir því sem núningur er settur á boltann.",
+    "option_c": "umbreytt úr hreyfiorku í kraftakrafts orku.",
+    "option_d": "umbreytt í varma og hljóð þegar það kemst í snertingu við gólfið."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7269238",
+    "answer": "D",
+    "instruction": "Dísilvélar geta brennt margs konar eldsneyti. Hvaða eldsneyti væri endurnýjanlegast fyrir dísilvél?",
+    "option_a": "hefðbundið dísileldsneyti",
+    "option_b": "eimað steinolía",
+    "option_c": "jurtaolía sem er framleidd á hefðbundinn hátt",
+    "option_d": "lífrænt framleidd jurtaolía"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187915",
+    "answer": "A",
+    "instruction": "Amanda og Jake lærðu um hreyfiferli og möguleg form orku í einfaldri rafrás. Rafrásin sem þær eru að rannsaka er með rafhlöðu, vírum og ljósaperu. Hvert er form mögulegrar orku í rafrásinni?",
+    "option_a": "efnaorka í rafhlöðunni",
+    "option_b": "ljósorka frá ljósaperunni",
+    "option_c": "Varmaorka sem tapast við rafmagnsvírana",
+    "option_d": "rafmagns sem fer í gegnum ljósaperuna"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2011_8_3",
+    "answer": "D",
+    "instruction": "Hvaða aðgerð sýnir fram á efnabreytingu?",
+    "option_a": "Langt hár er klippt og þurrkað.",
+    "option_b": "Skerpt er í trépenna og hann brotnar.",
+    "option_c": "Ísmola bráðnar og verður að tær vökvi.",
+    "option_d": "Járnanál verður appelsínugul og flögótt á yfirborðinu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159775",
+    "answer": "A",
+    "instruction": "Janette gerir rannsókn til að sjá hvaða fæðutegundir valda henni meiri þreytu. Hún borðar eina af fjórum mismunandi fæðutegundum á hverjum degi á sama tíma í fjóra daga og skráir síðan líðan sína. Hún biður Carmen vinkonu sína að gera sömu rannsókn til að sjá hvort hún fái svipaðar niðurstöður. Hvaða rannsókn væri erfiðast að endurtaka?",
+    "option_a": "mæla magn þreytu",
+    "option_b": "að passa að borða sömu fæðutegundir",
+    "option_c": "skrá athuganir í sama töflu",
+    "option_d": "að gæta þess að matvælin séu við sama hitastig"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402239",
+    "answer": "C",
+    "instruction": "Hvernig er best að varðveita náttúruauðlindir á heimilinu?",
+    "option_a": "Henda öllu gleri í ruslið.",
+    "option_b": "Nota pappírsþurrkur til að hreinsa upp leka.",
+    "option_c": "Stytta tímann sem fer í að fara í sturtu.",
+    "option_d": "Vatna grasflötina á hverjum degi."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184013",
+    "answer": "C",
+    "instruction": "Hvert af eftirfarandi væri minnst eyðileggjandi fyrir landið?",
+    "option_a": "jarðskjálfti af stærðinni 7,2",
+    "option_b": "hitabeltisstormur á leið",
+    "option_c": "rafmagnsstormur",
+    "option_d": "eldgos"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_4",
+    "answer": "D",
+    "instruction": "Hvort skýrir best hvers vegna heildarmassi efnisins eða efnanna yrði minni en heildarþyngd hvarfefnisins eða efnanna eftir efnahvarf?",
+    "option_a": "Líkamleg breyting átti sér stað.",
+    "option_b": "Atómin sem tóku þátt í efnahvarfinu misstu massa.",
+    "option_c": "Útfellingar voru búnar til í nýju lausninni.",
+    "option_d": "Lofttegundir voru losaðar út í andrúmsloftið."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2013_7_17",
+    "answer": "D",
+    "instruction": "Hópur vill komast að því hvort fjöldi vatnafugla sem fljúga um Arkansas breytist á ári hverju. Hvaða aðferð ættu þeir að nota til að afla þessara upplýsinga?",
+    "option_a": "Veiða eins marga fugla og hægt er á einu ári. Safna gögnum um staðsetningu hvers fugls.",
+    "option_b": "Á fyrsta degi næsta vors er talning á fjölda fugla við stærsta stöðuvatn ríkisins. Borið saman við síðustu ár.",
+    "option_c": "Setja mælingamann á stað á ríkislínunni. Láta þann mann telja fuglana þegar þeir fljúga inn í ríkið. Gera þetta í tvö ár.",
+    "option_d": "Velja einn dag á ári í farinu. Telja fjölda fugla við tíu mismunandi vötn í ríkinu. Gera þetta á sama degi á hverju ári í tíu ár."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183015",
+    "answer": "A",
+    "instruction": "Í nýlegri grein í vísindatímariti er sambandið á milli straumbreytinga og flekahreyfinga útskýrt. Þar sem vökvi í möttlinum er í umferð veldur það því að jarðskoruplötur hreyfast. Hvað veldur því að vökvinn í möttlinum er í umferð?",
+    "option_a": "orkuflutningar",
+    "option_b": "Hlýnun jarðar",
+    "option_c": "Flóðabreytingar",
+    "option_d": "hafstraumar"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2014_8_17",
+    "answer": "D",
+    "instruction": "Hvert af eftirfarandi er dæmi um kynlausa æxlun?",
+    "option_a": "Skjaldbökur verpa frjóvguðum eggjum í gryfju í sandinum.",
+    "option_b": "Fræ myndast í furukeiðum eftir að frjó koma að keilunum.",
+    "option_c": "Fiskar losa eggfrumur og sæðisfrumur við yfirborð vatnsins.",
+    "option_d": "Trén senda frá sér rótlíkar framlengingar sem mynda nýja stofna."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401286",
+    "answer": "B",
+    "instruction": "Mörg dýr í útrýmingarhættu eru fönguð, merkt og síðan sleppt aftur út í umhverfi sitt. Merkið getur verið stykki af kóðuðu plasti eða málmi sem er komið fyrir á öruggum stað á líkamanum. Hver er líklegasta ástæðan fyrir því að merkja dýr?",
+    "option_a": "að fylgjast með matarvenjum sínum",
+    "option_b": "til að fylgjast með reikivenjum sínum",
+    "option_c": "að fylgjast með svefnvenjum sínum",
+    "option_d": "að fylgjast með æxlunarvenjum sínum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207358",
+    "answer": "C",
+    "instruction": "Nútíma kenningunni um atóm er best lýst sem afleiðingu af hvorri þessarar starfsemi?",
+    "option_a": "tilraunir John Dalton á tíunda áratugnum",
+    "option_b": "umræður tveggja mikilvægra vísindamanna",
+    "option_c": "rannsóknum margra vísindamanna á mörgum árum",
+    "option_d": "hugmyndir Democritus um frumeindir fyrir rúmum 2000 árum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7015435",
+    "answer": "A",
+    "instruction": "Hvaða áhrif hefur hvarf sterkrar sýru og sterks basa?",
+    "option_a": "a salt og vatn",
+    "option_b": "tveir ólíkir þættir",
+    "option_c": "veik sýra og veikur basi",
+    "option_d": "vetnisjónir og hýdroxíðjónir"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044678",
+    "answer": "A",
+    "instruction": "Hvaða fullyrðing skýrir best hvað verður um laufblað þegar það hefur misst mikið vatn?",
+    "option_a": "Þrýstingur á túrgor minnkar.",
+    "option_b": "Loftþrýstingur hans lækkar.",
+    "option_c": "Hraði ummyndunar þess eykst.",
+    "option_d": "Ljóstillífunarhraði þess eykst."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400905",
+    "answer": "D",
+    "instruction": "Sólin er um 1,5 x 10^8 km frá jörðinni. Ljóshraðinn er 3,0 x 10^8 m/sek. Hver er fjarlægðin frá sólinni til jarðar í ljóssekúndum?",
+    "option_a": "2,0 ljóssekúndur",
+    "option_b": "0,5 ljóssekúndur",
+    "option_c": "2,0 x 10^-3 ljóssekúndur",
+    "option_d": "5,0 x 10^2 ljóssekúndur"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10040",
+    "answer": "D",
+    "instruction": "Hvaða áhrif hefur ljóstillífun á plöntur?",
+    "option_a": "vatn",
+    "option_b": "súrefni",
+    "option_c": "prótein",
+    "option_d": "sykur"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_41",
+    "answer": "D",
+    "instruction": "Í bílslysi hjálpar öryggisbelti til við að koma í veg fyrir meiðsli með því að beita krafti",
+    "option_a": "minni en kraftur farþegans sem er á ferð",
+    "option_b": "meiri en kraftur bílsins sem er á ferð",
+    "option_c": "í sömu átt og hreyfing bílsins",
+    "option_d": "í gagnstæða átt við hreyfingu farþegans"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141908",
+    "answer": "C",
+    "instruction": "Vísindamenn fundu nýja tegund af flókinni lífveru á hafsbotni. Lífveran sem er líklegast",
+    "option_a": "er einfruma.",
+    "option_b": "er tegund baktería.",
+    "option_c": "er úr mörgum frumum.",
+    "option_d": "skortir skipulagðan kjarna."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406029",
+    "answer": "D",
+    "instruction": "Til að geta stundað vísindastarf þurfti Mia að teikna mynd af tunglinu á hverju kvöldi. Ef Mia teiknaði nýtt tungl, hvaða tungl teiknaði Mia um það bil viku seinna?",
+    "option_a": "gibbótt",
+    "option_b": "fullt tungl",
+    "option_c": "Nýtt tungl",
+    "option_d": "fyrsta ársfjórðung"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7105123",
+    "answer": "C",
+    "instruction": "Jarðlagaskrár benda til þess að tegundabreytingar séu almennt",
+    "option_a": "stöðvast þegar tegund myndast.",
+    "option_b": "hraðast með stöðugum aðstæðum.",
+    "option_c": "eiga sér stað á mörgum kynslóðum.",
+    "option_d": "eru óháðir umhverfinu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400339",
+    "answer": "C",
+    "instruction": "Hvort er ekki ástæða fyrir því að tré vaxa mishæðótt í skógi?",
+    "option_a": "Sumir þurfa minna sólarljós en aðrir.",
+    "option_b": "Trjánum var plantað á mismunandi árum.",
+    "option_c": "Fuglar eru farnir að gera sér hreiður í styttri trjánum.",
+    "option_d": "Hærri trén hafa aðeins lauf á efstu greinum."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415366",
+    "answer": "B",
+    "instruction": "Tré þurfa súrefni. Rætur sem liggja nálægt yfirborði jarðar taka inn súrefnið sem tréð þarfnast. Hvaða lífverur hjálpa trjám að fá súrefni?",
+    "option_a": "skógarþrestir gera göt í tréð",
+    "option_b": "ánamaðkar gera göt í jörðina nálægt trénu",
+    "option_c": "sveppir sem vaxa neðst í trénu",
+    "option_d": "íkornar borða valhnetur á jörðinni við tréð"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7168123",
+    "answer": "B",
+    "instruction": "Anita spreytti sig í kringum brautina í skólanum sínum. Í lok hlaupsins var hún farin að taka meira loft inn í lungun og hjartsláttur hennar hafði aukist. Hvaða kerfi stjórna öndun og hjartslætti hjá Anitu?",
+    "option_a": "vöðva- og beinagrind",
+    "option_b": "tauga- og innkirtlakerfi",
+    "option_c": "meltingarfæra og hægða",
+    "option_d": "öndunarfæra og blóðrásar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141400",
+    "answer": "A",
+    "instruction": "Bóndi gróðursetur maís á hverju ári í nokkur ár. Á hverju ári sér hann að framleiðsla hans á maís á hektara hefur minnkað þrátt fyrir að veðurfar hafi verið mjög svipað. Breyting á hvaða sýklalyfjaþáttur er líklegastur til að valda minnkun á framleiðslu maís?",
+    "option_a": "minnkun á næringarefnum í jarðvegi",
+    "option_b": "aukning í úrkomu",
+    "option_c": "vindhraðaaukningu",
+    "option_d": "minnkun sólarljóss"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_8_23636",
+    "answer": "D",
+    "instruction": "Hvert af eftirfarandi ferlum tekur yfirleitt lengstan tíma?",
+    "option_a": "Heitt hraun kólnar og myndar nýtt berg.",
+    "option_b": "Vatnsgufa þéttist og myndar ský.",
+    "option_c": "Jarðskjálftabylgja gengur um möttulstrókinn.",
+    "option_d": "Hafsbotn myndast milli tveggja heimsálfa."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406705",
+    "answer": "B",
+    "instruction": "Bekkurinn hennar Önnu taldi fjölda fiðrilda í skólagarðinum í verkefni. Anna fékk aðrar niðurstöður en aðrir í bekknum. Hvað á hún að gera?",
+    "option_a": "Breyta verkefninu.",
+    "option_b": "Láta niðurstöðurnar um það eitt.",
+    "option_c": "Passa niðurstöður hennar við bekkinn.",
+    "option_d": "Biðja kennarann að telja fyrir hana."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7186148",
+    "answer": "B",
+    "instruction": "Nemandi er að blanda bolla af heitu súkkulaði með skeið. Hvernig er hitinn að flytjast á milli heita súkkulaðisins og þess hluta skeiðarinnar sem er í heita súkkulaðinu?",
+    "option_a": "Leiðni flytur orku frá skeiðinni yfir í heitt súkkulaðið.",
+    "option_b": "Leiðni flytur orku frá heitu súkkulaðinu yfir í skeiðina.",
+    "option_c": "Með því að nota convection er orkan flutt frá skeiðinni yfir í heitt súkkulaðið.",
+    "option_d": "Með því að nota aðferðina er orka úr heitu súkkulaðinu flutt yfir í skeiðina."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_28",
+    "answer": "B",
+    "instruction": "Stórir fuglar hafa étið smádýr á svæði. Ef allir stóru fuglarnir dæju úr sjúkdómi þá myndi fjöldi smádýra á svæðinu líklega",
+    "option_a": "minnka",
+    "option_b": "aukning",
+    "option_c": "haldast óbreytt"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7005478",
+    "answer": "B",
+    "instruction": "Hitastig mannslíkamans er tiltölulega stöðugt. Hvað er endurgjöf sem hjálpar mannslíkamanum að halda venjulegu hitastigi í köldu umhverfi?",
+    "option_a": "Vatn losnar úr húðinni.",
+    "option_b": "Vöðvar hristast í litlum hreyfingum.",
+    "option_c": "Hjartsláttur hægist.",
+    "option_d": "Lungun taka við auknu lofti."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2009_8_5",
+    "answer": "D",
+    "instruction": "Hvað af eftirfarandi er árangursríkast til að draga úr umferðarþröng á fjölförnum flugvelli?",
+    "option_a": "að veita flugmönnum endurgjöf á frammistöðu",
+    "option_b": "að veita farþegum flugupplýsingar",
+    "option_c": "fjölga flugvélum á flugvellinum",
+    "option_d": "fjölga flugbrautum á flugvellinum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7037573",
+    "answer": "D",
+    "instruction": "Hvaða aðferðum er best að beita við að ljúka tilraun?",
+    "option_a": "að fara varlega með heitan glerjaðann",
+    "option_b": "slökkt á brennurum þegar þú ert ekki að nota þá",
+    "option_c": "kynna sér verklagsreglur rannsóknarstofunnar áður en tilraunin er framkvæmd",
+    "option_d": "að skoða með kennaranum hvernig á að farga efnum"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_8",
+    "answer": "B",
+    "instruction": "Cameron er að versla sér nýtt skrifborð. Hann vill sjá til þess að skrifborðið passi í herbergishorninu hans. Þegar Cameron kaupir sér nýtt skrifborð, hvað af eftirfarandi hjálpar honum best að sjá til þess að skrifborðið passi?",
+    "option_a": "mynd sem sýnir teppið í herberginu hans",
+    "option_b": "skýringarmynd af mælingum á herbergi hans",
+    "option_c": "teikningu sem sýnir hvernig setja á skrifborð saman",
+    "option_d": "lista yfir tæki sem hann þarf til að setja skrifborðið saman"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7092295",
+    "answer": "C",
+    "instruction": "Hvaða aðgerð skapar samkeppni milli umhverfissjónarmiða og efnahagslegs ávinnings?",
+    "option_a": "verndun villtra dýra í útrýmingarhættu",
+    "option_b": "að koma villtum dýrum aftur inn í náttúruleg búsvæði sín",
+    "option_c": "að nota skóglendi til að byggja heimili",
+    "option_d": "að nota borgarstrætisvagna til samgangna"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7131828",
+    "answer": "C",
+    "instruction": "Á mörgum hitabeltissvæðum geta moskítóflugur borið sníkjudýr sem getur valdið smitsjúkdómi meðal manna. Hvað lýsir best þessum tengslum milli moskítóflugna og manna?",
+    "option_a": "rándýr-bráð",
+    "option_b": "samkeppni um auðlindir",
+    "option_c": "líffræðilegir þættir sem hafa víxlverkandi áhrif hver á annan",
+    "option_d": "orkuflutningur milli framleiðanda og neytanda"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg31",
+    "answer": "B",
+    "instruction": "Það að blása í eld getur gert það að verkum að viðareldur brennur heitar því að blásið er í",
+    "option_a": "gerir matinn nógu heitan til að brenna",
+    "option_b": "bætir við meira súrefni sem þarf til brennslu",
+    "option_c": "eykur magn timburs sem brenna þarf",
+    "option_d": "gefur orkuna sem þarf til að halda eldinum gangandi"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_5",
+    "answer": "B",
+    "instruction": "Gerð er tilraun með innsiglaðan ílát. Ílátið er byrjað með hitastigið 70 gráður F og loftþrýstinginn 20 psi. Ílátið er hitað og þrýstingurinn í því hækkar jafnt og þétt með auknu hitastigi. Ef ílátið er kælt aftur niður í 70 gráður F, hver verður þá loftþrýstingurinn?",
+    "option_a": "10 psi",
+    "option_b": "20 psi",
+    "option_c": "30 psi",
+    "option_d": "40 psi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120908",
+    "answer": "D",
+    "instruction": "Svifflugvél er vélræn flugvél. Auk stærðar, hvað þyrfti helst að hafa í huga við hönnun svifflugvélar til að komast langa leið?",
+    "option_a": "umhverfisáhrif og massa",
+    "option_b": "kostnaður og umhverfisáhrif",
+    "option_c": "styrkur og kostnaður",
+    "option_d": "massi og styrkur"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180443",
+    "answer": "C",
+    "instruction": "Hvaða fasi tunglsins verður eftir vaxandi berghlaup?",
+    "option_a": "vakandi gibbus",
+    "option_b": "vaxandi hálfmáni",
+    "option_c": "fullt tungl",
+    "option_d": "Nýtt tungl"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7238963",
+    "answer": "A",
+    "instruction": "Klínskur hökull í mönnum er kóðaður af ríkjandi samsætu C. Klínskur hökull án klofnings er kóðaður af víkjandi samsætu c. Karlmaður með cc samsætu samsetningu fyrir eiginleikann myndar samsætu með konu með Cc samsætu samsetningu fyrir eiginleikann. Hvaða samsætu samsetningar gætu komið fram í samsætunni?",
+    "option_a": "Cc eða cc",
+    "option_b": "CC eða Cc",
+    "option_c": "CC eingöngu",
+    "option_d": "Cc eingöngu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184765",
+    "answer": "B",
+    "instruction": "Hvert af eftirfarandi verður líklegast til þess að stór samfelld skóglendi verði felld?",
+    "option_a": "Hlutfall súrefnis yfir svæðið eykst.",
+    "option_b": "Á svæðinu mun aukast magn rofs.",
+    "option_c": "Fjölbreytni tegunda á svæðinu mun aukast.",
+    "option_d": "Næringarefni jarðvegsins á svæðinu aukast."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7235813",
+    "answer": "D",
+    "instruction": "Kolefnishringrásin fer í gegnum mismunandi lón á jörðinni. Tíminn sem það tekur að mynda þessi lón er mjög mismunandi. Hvaða ferli í kolefnishringrásinni tekur milljónir ára að mynda tilgreinda lón?",
+    "option_a": "innlimun kolefnis með meltingu í dýravef",
+    "option_b": "losun kolefnis út í andrúmsloftið við öndun",
+    "option_c": "kolefni úr andrúmsloftinu sem er blandað í sykrur í plöntum",
+    "option_d": "niðurbrot kolefnis í plöntuvefjum í olíu"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2007_5_24",
+    "answer": "B",
+    "instruction": "Hvernig hjálpa niðurbrotsefni öðrum lífverum að lifa af í skógi?",
+    "option_a": "Þau losa súrefni út í andrúmsloftið sem dýrin anda að sér.",
+    "option_b": "Þær setja næringarefni í jarðveginn sem plöntur nota til að vaxa.",
+    "option_c": "Þau veita skjól í skógum þar sem dýr geta falið sig.",
+    "option_d": "Þeir nota sólarljós til að búa til mat fyrir plöntur og dýr."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_8_15",
+    "answer": "C",
+    "instruction": "Mannlegar athafnir hafa áhrif á umhverfið. Hvaða mannlegu athafnir hafa áhrif á minnsta svæði umhverfisins?",
+    "option_a": "að brenna skóg",
+    "option_b": "brenna jarðefnaeldsneyti",
+    "option_c": "grafa nýjan urðunarstað",
+    "option_d": "ræktun úðað með efnum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7162838",
+    "answer": "D",
+    "instruction": "Rannsóknarrotturnar fengu bláber, jarðarber eða spínat sem fæðubótarefni. Eftir átta vikur voru gerðar minnis- og hreyfifærnipróf á rottunum. Mestar framfarir voru hjá þeim rottum sem fengu bláberjabótarefni. Hver er óháða (meðhöndluð) breyta rannsóknarinnar?",
+    "option_a": "hreyfifærniprófið",
+    "option_b": "öldrunarferlið",
+    "option_c": "minnisprófið",
+    "option_d": "fæðubótarefnin"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405973",
+    "answer": "B",
+    "instruction": "Nokkrar tegundir fugla lifa á lítilli eyju. Stormur eyðileggur flestar plöntur sem fuglarnir lifa á og byggja hreiður sín á. Hvaða tegund fugla er líklegast að lifi á eyjunni?",
+    "option_a": "þá fugla sem eru með mesta",
+    "option_b": "þá fugla sem eru hæfastir til að aðlagast",
+    "option_c": "fuglarnir sem geta flogið lengst",
+    "option_d": "fuglarnir með sterkustu goggunum"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2000_8_10",
+    "answer": "B",
+    "instruction": "Hvaða fullyrðing er skoðun?",
+    "option_a": "Margar plöntur eru grænar.",
+    "option_b": "Margar plöntur eru fallegar.",
+    "option_c": "Plöntur þurfa sólarljós.",
+    "option_d": "Plöntur geta vaxið á mismunandi stöðum."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103180",
+    "answer": "B",
+    "instruction": "Hvaða lífríki hefur mestan gróður?",
+    "option_a": "eyðimörk",
+    "option_b": "skógur",
+    "option_c": "graslendi",
+    "option_d": "túndra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221865",
+    "answer": "C",
+    "instruction": "Hópur nemenda fylgdist með bólum myndast þegar vatnið sjóðaði. Hvað varð um efni vegna eðlisbreytingarinnar á vatninu?",
+    "option_a": "Nýtt efni myndaðist í loftbólunum.",
+    "option_b": "Gamall efniviður eyðilagðist þegar vatnið breyttist í gas.",
+    "option_c": "Efni varðveittist þegar það breytti um form.",
+    "option_d": "Samsetning málsins breyttist."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7242743",
+    "answer": "D",
+    "instruction": "Prótein sem eru mynduð í ríbósóma undireiningum verða fyrir miklum breytingum eftir þýðingu og eru sett í umbúðir og þeim beint á viðeigandi stað. Hvaða byggingarþáttur frumunnar tekur þátt í slíkum breytingum?",
+    "option_a": "frymisnet",
+    "option_b": "Lýsósóm",
+    "option_c": "hvatbera",
+    "option_d": "Golgi búnaður"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103565",
+    "answer": "C",
+    "instruction": "Háþrýstikerfi hindra loft í að streyma inn á kaldari svæði lofthjúpsins þar sem vatn getur þétt sig. Hvað verður líklegast ef háþrýstikerfi verður lengi á svæðinu?",
+    "option_a": "þoka",
+    "option_b": "rigning",
+    "option_c": "þurrkur",
+    "option_d": "skýstrókur"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415541",
+    "answer": "D",
+    "instruction": "Hvað af þessum fyrirbærum mun líklegast fljóta í vatni?",
+    "option_a": "glermarmari",
+    "option_b": "stálkúla",
+    "option_c": "harður gúmmíkúlur",
+    "option_d": "borðtennisbolti"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_9",
+    "answer": "A",
+    "instruction": "Nemandi tekur ísmolabakka úr frysti og leggur hann á borð. Ísmolarnir eru fastir og kaldir. Nemandi gleymir að setja ísmolabakkann aftur í frysti. Daginn eftir eiga ísmolarnir að vera",
+    "option_a": "fljótandi og hlýrri",
+    "option_b": "fastari og hlýrri",
+    "option_c": "fljótandi og kaldari",
+    "option_d": "fastari og kaldari"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7097318",
+    "answer": "D",
+    "instruction": "Íkorni felldi korn úr grein eikartrés. Hvort þeirra breytist þegar kornið fellur af trénu og niður á jörðina?",
+    "option_a": "massi akornsins",
+    "option_b": "krafturinn á horninu",
+    "option_c": "þéttleika akornsins",
+    "option_d": "hraða hornsins"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_20",
+    "answer": "B",
+    "instruction": "Jafnan hér að neðan sýnir afurðir sem myndast þegar lausn af silfurnítrati (AgNO3) hvarfast við lausn af natríumklóríð (NaCl). AgNO3 + NaCl (Efnaþættir)-> NaNO3 + AgCl (Afurðir) Í þessari jöfnu er heildarmassi hvarfefnanna",
+    "option_a": "stærri en heildarmassi afurðanna",
+    "option_b": "jafnt heildarmassa afurðanna",
+    "option_c": "jafnt massa AgCl",
+    "option_d": "minna en massi AgCl"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415397",
+    "answer": "C",
+    "instruction": "Hvaða breyting gerir mannvirki á yfirborði jarðar?",
+    "option_a": "Flóð veldur því að fólk yfirgefur bæ.",
+    "option_b": "Jarðskjálfti gerir bylgjur á vettvangi.",
+    "option_c": "Eldfjall býr til nýtt land með hrauni.",
+    "option_d": "Landbrot í flóa gerir flóðbylgju."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246348",
+    "answer": "A",
+    "instruction": "Hvaða eiginleiki myndast ekki vegna þess að jarðskorpuflekar víkja?",
+    "option_a": "skurðgröftur",
+    "option_b": "Rifsdalur",
+    "option_c": "hafsbotn",
+    "option_d": "Miðhafshryggur"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270200",
+    "answer": "A",
+    "instruction": "Vísindamenn hafa útskýrt hvernig amínósýrur, kolvetni, kjarnsýrur og fitusýrur gátu hafa verið myndaðar á jörðinni áður en lífverur komu fram á sjónarsviðið. Hverjar af eftirfarandi uppgötvunum myndu helst styðja þá fullyrðingu að líf hafi orðið til af sjálfu sér úr þessum lífefnum?",
+    "option_a": "Þessi efni geta sjálf samsett sig í byggingu sem líkir eftir þeim.",
+    "option_b": "Lífverur nota þessi efni í dag.",
+    "option_c": "Þessi efni finnast á annarri plánetu.",
+    "option_d": "Þessi efni geta sjálf samsett sig í veiru."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415026",
+    "answer": "C",
+    "instruction": "Hvaða dýr myndu helst þurfa að hjálpast að við flóð á strandsvæði?",
+    "option_a": "Hjörtur",
+    "option_b": "þvottabirnir",
+    "option_c": "krókódílar",
+    "option_d": "sléttuúlfar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7143518",
+    "answer": "D",
+    "instruction": "Vitað er að bjarnar byggja stíflur yfir ár og víkur með því að fella tré og safna saman runnum og runnagróðri. Í Bandaríkjunum hefur íbúum þeirra fækkað vegna veiða mannsins. Hvaða vistfræðilegu afleiðingar er líklegast að verði með fækkun í stofni bjarna?",
+    "option_a": "veruleg fækkun fiskistofna",
+    "option_b": "veruleg aukning skógarvistkerfa",
+    "option_c": "veruleg aukning á uppgufun vatns",
+    "option_d": "verulega fækkað tjörnunum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032340",
+    "answer": "D",
+    "instruction": "Af þeim valkostum sem taldir eru upp, hver þeirra táknar náttúruna með líkani?",
+    "option_a": "lestur bókar um hundasamfélag í hreppnum",
+    "option_b": "skoða mynd af hundasamfélagi í hreppnum",
+    "option_c": "að rannsaka hundasamfélag í sléttlendi með notkun internetsins",
+    "option_d": "að fylgjast með hundasamfélagi í sléttlendi á sýningu í Húsdýragarðinum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_415263",
+    "answer": "C",
+    "instruction": "Hvað af eftirfarandi finnst í heilkjörnungafrumu en ekki í forkjörnungafrumu?",
+    "option_a": "DNA",
+    "option_b": "umfrymi",
+    "option_c": "kjarni",
+    "option_d": "frumuhimna"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090720",
+    "answer": "B",
+    "instruction": "Etanól er óhefðbundið eldsneyti sem unnið er úr maís. Hver eru óheppilegustu áhrif þess að nota etanól sem eldsneyti?",
+    "option_a": "minni kostnaður við eldsneytisframleiðslu",
+    "option_b": "minnkun á ræktarlandi til matvælaframleiðslu",
+    "option_c": "aukningu í notkun jarðefnaeldsneytis",
+    "option_d": "aukið kolefnisspor vegna aksturs bifreiða"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_410964",
+    "answer": "D",
+    "instruction": "Nemendur eru að rannsaka hvernig dyrabjalla virkar. Hvað er líklegast að sé athugað við rannsóknina?",
+    "option_a": "Allar dyrabjöllur gefa falleg hljóð.",
+    "option_b": "Rafhlaða er besti orkugjafinn fyrir dyrabjöllu.",
+    "option_c": "Flestir kjósa að nota dyrabjöllu fram yfir banka.",
+    "option_d": "Dyrabjallan notar vír sem er vafinn utan um segul."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7057313",
+    "answer": "A",
+    "instruction": "Hjartavöðva er best lýst sem",
+    "option_a": "sams konar frumur sem vinna saman.",
+    "option_b": "ólík kerfi vinna saman.",
+    "option_c": "samskonar líffæri sem mynda kerfi.",
+    "option_d": "mismunandi líffæri sem gegna hlutverki."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402101",
+    "answer": "D",
+    "instruction": "Hvaða einkenni er að finna á yfirborði jarðar og tunglsins?",
+    "option_a": "plöntur",
+    "option_b": "höf",
+    "option_c": "dýr",
+    "option_d": "fjöll"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_8_12010",
+    "answer": "C",
+    "instruction": "Sumar bakteríutegundir framleiða efni sem er eitrað fyrir skordýr en skaðlaust fyrir menn. Vísindamenn hafa einangrað genið sem stjórnar framleiðslu efnisins. Hver af eftirfarandi ástæðum er best til þess fallin að setja genið inn í maísplöntur?",
+    "option_a": "Kornið mun vaxa hraðar.",
+    "option_b": "Minna þarf af áburði",
+    "option_c": "Færri varnarefni þarf",
+    "option_d": "Kornið verður næringarríkara."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038133",
+    "answer": "B",
+    "instruction": "Nemandi skipuleggur rannsókn til að reikna út hraða mismunandi bolta þegar þeir rúlla niður ramp. Hvaða upplýsingar þarf nemandi síst að skrá?",
+    "option_a": "stærð hvers bolta",
+    "option_b": "þykkt rampsins",
+    "option_c": "lengd skábrautar",
+    "option_d": "tímann sem það tekur boltann að ferðast"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407169",
+    "answer": "D",
+    "instruction": "Þar sem búsvæði með litla tjörn gengur í gegnum langa þurrka, hver þeirra er líklegastur til að koma niður á mörgum fiskum í tjörninni?",
+    "option_a": "Þeir myndu aðlagast þurru umhverfi.",
+    "option_b": "Þeir myndu lifa á öðrum vatnsgjöfum.",
+    "option_c": "Þeir myndu flytjast á annað búsvæði.",
+    "option_d": "Þeir hefðu ekki getað lifað af."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103215",
+    "answer": "C",
+    "instruction": "Nemandi vill kanna áhrif hvítlauks á vöxt sveppategundar. Nokkur sýni af svepparækt eru ræktuð í sama magni af agar og ljósi. Hvert sýni fær mismunandi magn af hvítlauk. Hver er sjálfstæða breytan í þessari rannsókn?",
+    "option_a": "magn af agar",
+    "option_b": "ljósmagn",
+    "option_c": "hve mikið af hvítlauk",
+    "option_d": "magn vaxtar"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29432",
+    "answer": "B",
+    "instruction": "Hver af eftirfarandi hlutum plöntufrumu hefur virkni sem svipar mest til virkni beinagrindar dýrs?",
+    "option_a": "frumuhimna",
+    "option_b": "frumuveggurinn",
+    "option_c": "klóróplast",
+    "option_d": "kjarni"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018008",
+    "answer": "A",
+    "instruction": "Hvað lýsir best rafeiginleikum frumeinda?",
+    "option_a": "hlutlaus",
+    "option_b": "einangruð",
+    "option_c": "jákvætt gjaldfært",
+    "option_d": "neikvætt gjaldfært"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166530",
+    "answer": "B",
+    "instruction": "Íra þurfti að gera tilraun eftir skóla. Hann fékk efni, efnafræði, búnað og hlífðarbúnað frá kennara sínum. Hann fór hratt en varlega í gegnum skrefin í skriflegu tilraunaferli. Til að spara tíma ákvað hann að skrá niður athuganir sínar og niðurstöður síðar. Hvort verður líklegast fyrir neikvæðum áhrifum af ákvörðun hans?",
+    "option_a": "hæfni til að fylgja leiðbeiningum",
+    "option_b": "hæfni til að skrifa haldbæra skýrslu",
+    "option_c": "getu til að fylgja öryggisreglum",
+    "option_d": "getu til að komast að niðurstöðu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400047",
+    "answer": "B",
+    "instruction": "Nemandi skildi eftir súkkulaðistöngina í sólinni á heitum degi. Hvaða eiginleiki breyttist þegar súkkulaðið bráðnaði?",
+    "option_a": "massa hans",
+    "option_b": "lögun þess",
+    "option_c": "vægi sínu",
+    "option_d": "samsetning hennar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044100",
+    "answer": "C",
+    "instruction": "Hvernig er hægt að eyða næringarefnum í jarðvegi í ræktunarjörðum?",
+    "option_a": "ofbeit",
+    "option_b": "vindrof",
+    "option_c": "aukin áveita",
+    "option_d": "aukin frjóvgun"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7075145",
+    "answer": "A",
+    "instruction": "Hvað af þessum ferlum gerir það að verkum að frumur geta tekið inn vatn?",
+    "option_a": "osmósuþörf",
+    "option_b": "Mitosis",
+    "option_c": "ljóstillífun",
+    "option_d": "öndun"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192290",
+    "answer": "D",
+    "instruction": "Örn og pelikan eru ólík þó þau tilheyri sömu ætt. Hvað er það sem er ólíkt með þeim?",
+    "option_a": "að þeir kjósi að borða fisk",
+    "option_b": "hæfni þeirra til að fljúga",
+    "option_c": "æxlunaraðferð þeirra",
+    "option_d": "aðferð þeirra við að veiða fæðu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7093975",
+    "answer": "D",
+    "instruction": "Hvað er það sem veldur því að árnar þorna upp?",
+    "option_a": "mengun",
+    "option_b": "rof",
+    "option_c": "vatnsborð hækkar",
+    "option_d": "úrkomuleysi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7085820",
+    "answer": "D",
+    "instruction": "Þegar vatn fer að frjósa, þá eru sameindir vatnsins",
+    "option_a": "öðlast varmaorku.",
+    "option_b": "hreyfa sig frjálslegar.",
+    "option_c": "að stækka.",
+    "option_d": "minnka hraðann."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_6",
+    "answer": "C",
+    "instruction": "Blöðru með vatni er komið fyrir í frysti. Hvaða eiginleiki vatnsins breytist þegar vatnið nær frostmarki?",
+    "option_a": "litur",
+    "option_b": "massi",
+    "option_c": "ríki",
+    "option_d": "þyngd"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_5_43",
+    "answer": "B",
+    "instruction": "Hvað þarf að gerast áður en ský geta myndast?",
+    "option_a": "Vatnsgufa hlýnar.",
+    "option_b": "Vatnsgufa verður að tapa varmaorku.",
+    "option_c": "Úrkoma þarf að fara að falla og ganga af.",
+    "option_d": "Við gufuskipti þarf að bæta vatnsgufu út í andrúmsloftið."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7250023",
+    "answer": "A",
+    "instruction": "Allar frumur, bæði for- og heilkjörnungafrumur, hafa nokkur sameiginleg einkenni. Hvaða frumueinkenni er að finna bæði í for- og heilkjörnungafrumum?",
+    "option_a": "ríbósóm",
+    "option_b": "klóróplasthimna",
+    "option_c": "kjarni",
+    "option_d": "frymisnet"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7003955",
+    "answer": "D",
+    "instruction": "Hvers konar hleðsla er á einstaka hársveip þegar þau standa á enda vegna stöðurafmagns?",
+    "option_a": "hlutlaus gjöld",
+    "option_b": "hlutlaus losun",
+    "option_c": "varanleg jákvæð hleðsla",
+    "option_d": "tímabundin jákvæð gjöld"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2010_5_18",
+    "answer": "D",
+    "instruction": "Vindur er náttúruauðlind sem nýtist suðausturströnd Chesapeake flóans. Hvernig gæti vindur nýst mönnum sem best?",
+    "option_a": "Vindarnir gætu blásið olíu í flóann.",
+    "option_b": "Hægt væri að breyta vindunum í jarðefnaeldsneyti.",
+    "option_c": "Vindarnir gætu blásið loftmengun í átt að landi.",
+    "option_d": "Hægt væri að breyta vindunum í rafmagn."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_2",
+    "answer": "D",
+    "instruction": "Hversu langan tíma tekur það Jörðina að taka eina bylgju um sólina?",
+    "option_a": "á dag",
+    "option_b": "í viku",
+    "option_c": "í mánuði",
+    "option_d": "ár"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_411306",
+    "answer": "D",
+    "instruction": "Nokkrar tegundir plantna eiga sameiginleg einkenni. Hvaða einkenni eiga flestar plöntur sameiginlegt?",
+    "option_a": "stærð róta þeirra",
+    "option_b": "lögun laufblaða þeirra",
+    "option_c": "lit blómanna sinna",
+    "option_d": "uppbyggingu frumna þeirra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7241115",
+    "answer": "C",
+    "instruction": "Hvaða atburður hefur líklegast orðið til þess að fjölbreytileiki spendýra sprakk á Krítskeiði?",
+    "option_a": "myndun risastóru heimsálfunnar Pangea",
+    "option_b": "mikil eldvirkni",
+    "option_c": "kaldari hitastig",
+    "option_d": "hækkandi sjávarborð"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042735",
+    "answer": "C",
+    "instruction": "Í náttúrufræðitíma er framleidd lausn af vatni og eiturefnalausn. Hvað á að gera við lausnina þegar sýnikennslu er lokið?",
+    "option_a": "Það á að hella niður niðurfalli.",
+    "option_b": "Því skal hellt í endurvinnslutunnu.",
+    "option_c": "Því skal hellt í sorpílát.",
+    "option_d": "Það skal sett í ílát fyrir förgun hættulegra efna."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_9_13",
+    "answer": "D",
+    "instruction": "Hver af eftirfarandi er helsta tegund álags sem festur snigillinn veldur á viðarstykki?",
+    "option_a": "tog",
+    "option_b": "sker",
+    "option_c": "torf",
+    "option_d": "þjöppun"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176015",
+    "answer": "D",
+    "instruction": "Hópur nemenda er að rannsaka tvö efni til að finna út hvort sé matarsalt og hvort sé matarsykur. Hvernig ættu nemendur að bera kennsl á hvort efnið fyrir sig?",
+    "option_a": "með því að taka eftir því hvort þau leysast upp í vatni",
+    "option_b": "með því að rannsaka lit efnisins",
+    "option_c": "með því að fylgjast með hvort þau festist við yfirborð",
+    "option_d": "með því að skoða lögun kristallsins"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7215180",
+    "answer": "C",
+    "instruction": "Vísindamenn eru að safna granítsýnum í fjöllum í vesturhluta Nevada. Hvort af þessum sniðum hentar best til að sýna og bera saman hundraðshluta steinda sem finnast í einu granítsýni?",
+    "option_a": "strikamerki",
+    "option_b": "línurit",
+    "option_c": "bökurit",
+    "option_d": "scatterplot"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg26",
+    "answer": "B",
+    "instruction": "Dýr er með sex fætur. Hvað er það líklegast?",
+    "option_a": "könguló",
+    "option_b": "fluga",
+    "option_c": "eðla",
+    "option_d": "a centipede"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177818",
+    "answer": "C",
+    "instruction": "Tíminn sem líður á milli nætur og dags á jörðinni er breytilegur allt árið. Þessi tímabreytileiki skýrist fyrst og fremst af",
+    "option_a": "stöðu sólar.",
+    "option_b": "stöðu tunglsins.",
+    "option_c": "Hallahorn jarðar",
+    "option_d": "Fjarlægð jarðar frá sólinni"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405487",
+    "answer": "B",
+    "instruction": "Eikartrén í garðinum tóku að mynda fleiri akorn en venjulega. Næsta ár fjölgaði einnig í hópi kumla í garðinum. Hver skýrir best af hverju það voru fleiri kuml árið eftir?",
+    "option_a": "Skuggasvæðum fjölgaði.",
+    "option_b": "Fæðugjafar jukust.",
+    "option_c": "Súrefnismagn jókst.",
+    "option_d": "Tiltækt vatn jókst."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400612",
+    "answer": "C",
+    "instruction": "Yfirborð jarðar breytist stöðugt vegna veðrunar og rofs. Í samanburði við jörðina er lítið um veðrun og rof á tunglinu vegna",
+    "option_a": "þyngdarleysi á tunglinu.",
+    "option_b": "þunna lofthjúpsins á Tunglinu.",
+    "option_c": "loft- og vatnsleysi á tunglinu.",
+    "option_d": "skortur á lifandi verum á tunglinu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400655",
+    "answer": "A",
+    "instruction": "Hver þessara breytinga er sú mesta sem sést milli sumars og vetrar?",
+    "option_a": "magn dagsbirtunnar",
+    "option_b": "hæð hafsöldu",
+    "option_c": "fjöldi óveðurs",
+    "option_d": "stærðir skýja"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415735",
+    "answer": "C",
+    "instruction": "Anya setti ísmola á gangstéttina á hlýjum degi. Ísmolinn bráðnaði fljótlega og myndaði poll. Hvaða ferli olli því að ísmolinn bráðnaði?",
+    "option_a": "Varmi sem fer í gegnum ísmolann með samdrætti.",
+    "option_b": "Varmi sem berst úr lofti yfir í ísmolann með geislun.",
+    "option_c": "Varmi sem berst frá lofti og slitlagi með leiðni.",
+    "option_d": "Varmi sem fer í gegnum ísmolann og inn í slitlagið með leiðni."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_8_5",
+    "answer": "D",
+    "instruction": "Merkúr, plánetan sem er næst sólinni, er með öfgakennt yfirborðshiti, allt frá 465 gráðum C í sólskini til -180 gráðu C í myrkri. Hvers vegna er svona mikið hitastig á Merkúr?",
+    "option_a": "Reikistjarnan er of lítil til að halda hita.",
+    "option_b": "Reikistjarnan hitnar aðeins á annarri hliðinni.",
+    "option_c": "Reikistjarnan endurvarpar varma frá dökku hlið sinni.",
+    "option_d": "Reikistjörnuna skortir lofthjúp til að halda hita."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg14",
+    "answer": "B",
+    "instruction": "Hvers vegna ætti að meðhöndla karlkyns skordýr til að koma í veg fyrir sæðismyndun?",
+    "option_a": "Til að fjölga kvenkyns skordýrum",
+    "option_b": "Að fækka skordýrum í heiminum",
+    "option_c": "Til að búa til nýjar tegundir skordýra",
+    "option_d": "Til að koma í veg fyrir að skordýrin geti parað sig"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_20",
+    "answer": "D",
+    "instruction": "Meginhlutverk trjástofns er að sjá",
+    "option_a": "loft",
+    "option_b": "ávextir",
+    "option_c": "sólskin",
+    "option_d": "stuðningur"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7017990",
+    "answer": "A",
+    "instruction": "Hvaða aðgerð felur ekki í sér öryggisferli á rannsóknarstofu?",
+    "option_a": "efnasýni sem bragðast",
+    "option_b": "nota hitaþolna hanska ef gleriðja er heitt",
+    "option_c": "binda aftur langt hár",
+    "option_d": "þvo efnafræðilega skvettu með miklu vatni"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7264023",
+    "answer": "D",
+    "instruction": "Hvort þessara frumefna er ekki líklegt að finna í lífrænu efnasambandi?",
+    "option_a": "kolefni",
+    "option_b": "vetni",
+    "option_c": "köfnunarefni",
+    "option_d": "kalíum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138513",
+    "answer": "A",
+    "instruction": "Á eyjunni eru margar tegundir fugla, engar innfæddar tegundir snáka og fáir stórir rándýr. Brúnir snákar éta fuglsegg. Hvað er líklegast til að valda því að brúnum snák sleppir óvart á eyjunni?",
+    "option_a": "fleiri snákar og færri fuglar",
+    "option_b": "fleiri snákar og fleiri fuglar",
+    "option_c": "færri snákar og færri fuglar",
+    "option_d": "færri snákar og fleiri fuglar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401663",
+    "answer": "B",
+    "instruction": "Nemandi getur sparað auðlindir með því að setja hvaða hluti í moltuhaug?",
+    "option_a": "áburður",
+    "option_b": "baunajurtir",
+    "option_c": "gler bikarglös",
+    "option_d": "plastpípettur"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2011_5_3",
+    "answer": "C",
+    "instruction": "Mikið magn af seti er tekið upp með vatni þegar vatnið rennur niður eftir ánum og lækjum. Þegar vatn í á eða læk hefur verið að renna hratt en fer svo að hægja á sér, hvað er líklegt að gerist við setgnirnar sem vatnið ber með sér?",
+    "option_a": "Magn stærri sethluta sem vatnið ber með sér eykst.",
+    "option_b": "Magn smærri sethluta sem vatnið ber með sér eykst.",
+    "option_c": "Magn stærri sethluta sem vatnið ber með sér minnkar.",
+    "option_d": "Magn smærri sethluta sem vatnið ber með sér minnkar."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7195440",
+    "answer": "B",
+    "instruction": "Um 50 milljónir hektara af regnskógum í hitabeltinu eru grisjaðir á hverju ári. Hvaða áhrif er líklegast að verði af grisjun regnskóganna?",
+    "option_a": "minnkun á jarðvegsrofi",
+    "option_b": "minnkandi líffræðileg fjölbreytni",
+    "option_c": "bætt loftgæði",
+    "option_d": "bætt vatnsgæði"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7220378",
+    "answer": "C",
+    "instruction": "Loftslagsbreytingar geta verið að draga úr magni hafíss sem flýtur um heimshöfin. Hvernig getur þessi breyting líklegast breytt fæðuframboði sjávarlífvera?",
+    "option_a": "með því að minnka saltmagnið sem leysist upp í sjó",
+    "option_b": "með því að auka getu vatnsins til að skiljast í aðgreind lög",
+    "option_c": "með því að breyta hitaskilyrðum sem framleiðendur einfruma",
+    "option_d": "með því að koma í veg fyrir að lífverur bregðist fljótt við umhverfisbreytingum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7234483",
+    "answer": "B",
+    "instruction": "Núverandi, ráðandi kenning um uppruna lífs á jörðinni byggir á forlíffræðilegum efnum sem þróuðu með sér hvaða eiginleika fyrst?",
+    "option_a": "stöðugur aðskilnaður frá umhverfi sínu",
+    "option_b": "setja saman í sjálfseflandi mannvirki",
+    "option_c": "geymslu á eiginleikum í efnafræðilega kóðaðri mynd",
+    "option_d": "uppsöfnun orkugeymslusameinda"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7179358",
+    "answer": "B",
+    "instruction": "Loftslagseldkerfi krefst reglubundinna skógarelda til að viðhalda stöðugleika. Hver af þessum þáttum væri líklegastur til að koma í veg fyrir að náttúrulegir eldar myndu eiga sér stað í þessu vistkerfi?",
+    "option_a": "Furutegundir myndu fjölga sér hraðar.",
+    "option_b": "Breiðblaðategundir myndu leysa af hólmi furutegundir.",
+    "option_c": "Auðveldara væri að halda brennandi svæðum í skefjum.",
+    "option_d": "Tré myndu dreifa sér inn á áður óskógræktuð svæði."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_40",
+    "answer": "C",
+    "instruction": "Hvernig er líklegast að reykingar á tóbaki hafi neikvæð áhrif á getu einstaklings til að ná árangri í hreyfingu?",
+    "option_a": "Það truflar jafnvægi og samhæfingu.",
+    "option_b": "Það dregur úr hæfni til að taka ákvarðanir hratt.",
+    "option_c": "Það dregur úr úthaldi og skilvirkni hjarta- og æðakerfisins.",
+    "option_d": "Það dregur úr hraða og krafti vöðvasamdrátta."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100695",
+    "answer": "D",
+    "instruction": "Hvaða jarðfræðilega bygging mun líklegast taka lengstan tíma að myndast?",
+    "option_a": "a galli",
+    "option_b": "sökkull",
+    "option_c": "a river meander",
+    "option_d": "fjallagarður"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_7",
+    "answer": "B",
+    "instruction": "Nemandi sér að einfrumungur og plöntulauf hafa svipaða græna hluta. Nemandi telur að báðar lífverurnar noti grænu hlutana til að lifa. Hvaða gögn styðja þá ályktun að báðar lífverurnar þurfi grænu hlutana til að lifa?",
+    "option_a": "Báðar lífverurnar nota grænu svæðin til að hreyfa sig.",
+    "option_b": "Báðar lífverurnar deyja ef grænu hlutarnir eru fjarlægðir.",
+    "option_c": "Grænu hlutarnir í báðum lífverunum sjást lýsa.",
+    "option_d": "Grænu hlutarnir í báðum lífverum geta búið til fleiri græna hluta."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7027230",
+    "answer": "A",
+    "instruction": "Hvaða efnissvið væri best að rannsaka til að finna leiðir til að draga úr umhverfisvanda af mannavöldum?",
+    "option_a": "að breyta sólarljósi í rafmagn",
+    "option_b": "horfir til nýrra kolaauðlinda",
+    "option_c": "finna olíugeyma sem innihalda olíu",
+    "option_d": "að breyta skógum í ræktarland"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245053",
+    "answer": "B",
+    "instruction": "Hvert eftirfarandi efnasambanda er lífrænt efnasamband?",
+    "option_a": "vatn (H2O)",
+    "option_b": "hexan (C6H14)",
+    "option_c": "ammoníak (NH3)",
+    "option_d": "brennisteinsdíoxíð (SO2)"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_12",
+    "answer": "A",
+    "instruction": "Meginhlutverk fræs plöntu er að",
+    "option_a": "geyma matvæli sem nota á í fyrstu þroskun",
+    "option_b": "laða að frjókorn sem nýtast í þróun",
+    "option_c": "taka inn ljósorku til að nota við ljóstillífun",
+    "option_d": "framleiða klórófýll til að nota við ljóstillífun"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189035",
+    "answer": "D",
+    "instruction": "Scott var að skoða niðurstöður krossa milli rauðra og hvítra blóma. Hvort er líklegasta niðurstaðan af krossi sem sýnir ófullkomna yfirburði?",
+    "option_a": "0% bleik blóm",
+    "option_b": "25% hvít blóm",
+    "option_c": "50% rauð blóm",
+    "option_d": "100% bleik blóm"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2006_8_10412",
+    "answer": "B",
+    "instruction": "Jolie vildi borða harðsoðið egg í morgunmat. Hún setti eggið í sjóðandi vatn í fimmtán mínútur. Þegar hún braut skelina voru fljótandi hlutar eggsins orðnir fastir. Ástæðan var sú að",
+    "option_a": "hitun tók vatnið úr egginu.",
+    "option_b": "hitun breytti efnatengjum í egginu.",
+    "option_c": "Suðunin leiddi egghlutanna upp á yfirborðið.",
+    "option_d": "bakteríurnar sem lifa í egginu í vökvanum voru drepnar."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400172",
+    "answer": "A",
+    "instruction": "Hvaða vísindamaður hélt því fram að Jörðin væri miðja alheimsins?",
+    "option_a": "Aristóteles",
+    "option_b": "Kópernikus",
+    "option_c": "Einstein",
+    "option_d": "Newton"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_5_21",
+    "answer": "D",
+    "instruction": "Kvenselur snýr yfirleitt aftur til sömu stranda ár eftir ár til að fæða. Ef menn trufla hann ítrekað á þessum ströndum, hvernig er þá líklegast að selinn bregðist við?",
+    "option_a": "Þeir munu skipta um lit.",
+    "option_b": "Þau munu fæða fleiri unga.",
+    "option_c": "Þeir munu veiða oftar í matinn.",
+    "option_d": "Þær fæða á mismunandi ströndum."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2010_8_11",
+    "answer": "A",
+    "instruction": "Hvað er líklegast að gerist þegar hreyfing vatnssameinda hægist?",
+    "option_a": "Vatnið sem er í fljótandi formi myndar fast efni.",
+    "option_b": "Vatnið þéttist.",
+    "option_c": "Fljótandi vatn tekur efnafræðilegum breytingum.",
+    "option_d": "Vatnið verður að gufu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187058",
+    "answer": "A",
+    "instruction": "Johnny les á hverju kvöldi við hlið lampa sem kveiktur er með glóperu. Hver er besta vísbendingin um að flutningur rafmagnsorku í lampann sé óskilvirkur?",
+    "option_a": "Gufan hitnar.",
+    "option_b": "peran gefur frá sér ljós.",
+    "option_c": "Lampinn notar koparvíra.",
+    "option_d": "Hægt er að slökkva á lampanum við rofa."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7185133",
+    "answer": "A",
+    "instruction": "Tracey var að læra um skipulag í dýrum. Hvaða stig skipulags lýsir best eggi?",
+    "option_a": "a-reitur",
+    "option_b": "a vef",
+    "option_c": "a kerfi",
+    "option_d": "an organ"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183733",
+    "answer": "B",
+    "instruction": "Í Everglades er líkamsástand krókódílsins nátengt dýpi vatnsins. Þegar vatnsborð hækkar of mikið dreifast dýrategundirnar um breiðara svæði og valda skerðingu á líkamsástandi vegna vangetu til að finna nægilega fæðu. Þegar vatnsborð lækkar safnast dýrategundirnar saman á minni svæðum sem gerir krókódílnum kleift að veiða á skilvirkari hátt. Þessi sviðsmynd er dæmi um hvernig afkoma krókódílsins er háð takmörkun á hvaða þætti?",
+    "option_a": "niðurbrotshraði",
+    "option_b": "búsvæði bráðarinnar",
+    "option_c": "framleiðendaframleiðslu",
+    "option_d": "velta vatns"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205345",
+    "answer": "D",
+    "instruction": "Þegar framleitt er matarsalt (NaCl) lýsir hvor eftirfarandi þátta best virkni natríum (Na) og klór (Cl) frumeindanna?",
+    "option_a": "Natríum atómin koma í stað klór atóma.",
+    "option_b": "Natríum og klórfrumeindir blandast saman.",
+    "option_c": "Natríum atómin leysast upp í klór atómum.",
+    "option_d": "Natríum og klórfrumeindir bindast efnafræðilega."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176838",
+    "answer": "A",
+    "instruction": "Hvort þeirra er ekki hlutverk blóðrásarkerfisins?",
+    "option_a": "brjóta niður matvæli í næringarefni",
+    "option_b": "flutningur næringarefna og súrefnis",
+    "option_c": "fjarlægja úrgangsefni úr líkamanum",
+    "option_d": "verja líkamann gegn erlendum innrásarherjum"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2002_5_6",
+    "answer": "D",
+    "instruction": "Hummingfuglar geta svifið um í lofti og flogið mjög hratt. Þetta kemur hummingfuglinum til góða í öllu eftirfarandi nema",
+    "option_a": "flýja fljótt undan rándýrum.",
+    "option_b": "auðvelt að ná í blóm.",
+    "option_c": "dvöl á einum stað til að drekka nektar.",
+    "option_d": "að halda eggjum heitum."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166180",
+    "answer": "B",
+    "instruction": "Plöntuvöxtur verður fyrir áhrifum af umhverfisþáttum eins og þyngdarafli. Ef fræ fær að spretta og vaxa á meðan því er snúið á hlið, hvað verður þá líklegast?",
+    "option_a": "rætur vaxa niður á við, stilkar vaxa niður á við",
+    "option_b": "rætur vaxa niður á við, stilkar vaxa upp á við",
+    "option_c": "rætur vaxa upp á við, stilkar vaxa niður á við",
+    "option_d": "rætur vaxa upp á við, stilkar vaxa upp á við"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_23632",
+    "answer": "C",
+    "instruction": "Nemandi skoðaði berg sem samanstóð af mörgum litlum sandögnum sem raðast í ljós og dökk lög. Hver af eftirfarandi fullyrðingum lýsir því hvernig þessi bergtegund hefur líklegast myndast?",
+    "option_a": "Leirinn var mulinn og frystur undir jökli.",
+    "option_b": "Hraun úr eldfjalli kólnaði fljótt í vatni.",
+    "option_c": "Setlög í ám voru þjöppuð saman og sett saman.",
+    "option_d": "Steinefni sem hafa verið hert í fast berg í neðanjarðarhellum."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267593",
+    "answer": "A",
+    "instruction": "Hverjar af þessum náttúruhamförum eru ófyrirsjáanlegastar?",
+    "option_a": "jarðskjálftar",
+    "option_b": "fellibylir",
+    "option_c": "skýstrókar",
+    "option_d": "blint"
+  },
+  {
+    "id": "ARC-Challenge/validation/NAEP_2005_8_S11+14",
+    "answer": "B",
+    "instruction": "MANNVERA GETUR EKKI lifað af missi hvers af eftirfarandi?",
+    "option_a": "Viðaukinn",
+    "option_b": "Lifrin",
+    "option_c": "Lungu",
+    "option_d": "Nýra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7218750",
+    "answer": "C",
+    "instruction": "Hvaða vatnsgeymir gæti alltaf veitt ferskvatn?",
+    "option_a": "vötn á landi",
+    "option_b": "áin deltas",
+    "option_c": "fjallajöklar",
+    "option_d": "hitabeltishaf"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026198",
+    "answer": "A",
+    "instruction": "Frumefnið krypton er gas sem sýnir nánast enga efnafræðilega virkni. Hvað á nemandi að leita að á reglulegu töflunni yfir frumefnin til að finna annað frumefni með svipaða eiginleika?",
+    "option_a": "þáttur í sama hópi",
+    "option_b": "þáttur á sama tímabili",
+    "option_c": "þáttur með sömu nettógjaldfærslu",
+    "option_d": "frumefni með sama atómmassa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7081760",
+    "answer": "B",
+    "instruction": "Til að flokka lífveru sem hefur verið uppgötvuð rannsakar vísindamaður byggingu, DNA og lífsferil lífverunnar. Líklegast er að vísindamaðurinn noti niðurstöður rannsóknarinnar til að",
+    "option_a": "byggja upp nýjar vísindalegar aðferðir.",
+    "option_b": "endurskoða vísindalega þekkingu.",
+    "option_c": "mynda nýjar tilgátur.",
+    "option_d": "afneita vísindalegum kenningum."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130603",
+    "answer": "C",
+    "instruction": "Hvert af skráðum stærðum er mælt í annarri einingu en júan?",
+    "option_a": "hiti",
+    "option_b": "ljós",
+    "option_c": "vald",
+    "option_d": "vinna"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7074865",
+    "answer": "C",
+    "instruction": "Hvort af þessu á við um þörunga, bakteríur og blómstrandi plöntur?",
+    "option_a": "Þau eru ólífræn.",
+    "option_b": "Þau eru öll með klórófýll.",
+    "option_c": "Þær eru samsettar úr frumum.",
+    "option_d": "Þær nærast allar á öðrum lífverum."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042700",
+    "answer": "D",
+    "instruction": "Hvaða búnað þyrfti ekki við dýraskurð?",
+    "option_a": "hanskar",
+    "option_b": "gleraugu",
+    "option_c": "lab reyk",
+    "option_d": "öryggissturta"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7071365",
+    "answer": "D",
+    "instruction": "Hvort er samanburður á fiðrildi og mörskrum staðreynd?",
+    "option_a": "Fiðrildi eru fallegri og skemmtilegri í skoðun en möl.",
+    "option_b": "Fiðrildi eru betri í flugi en mölfuglar.",
+    "option_c": "Fiðrildi og möl eru mun ánægðari yfir daginn.",
+    "option_d": "Fiðrildi og mölfuglar hafa jafnmarga fætur."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_4_52",
+    "answer": "C",
+    "instruction": "Plöntur og dýr þurfa fæðu til að vaxa. Hvað verður um fæðuna sem plöntur framleiða?",
+    "option_a": "Maturinn losnar sem gas.",
+    "option_b": "Matvælum er breytt í vatn.",
+    "option_c": "Matvæli eru geymd til framtíðarnotkunar.",
+    "option_d": "Matur er notaður til að gleypa sólarljós."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026443",
+    "answer": "D",
+    "instruction": "Hvaða eiginleiki gæludýrahundar er arfgengur?",
+    "option_a": "Hundurinn forðast gæludýraket.",
+    "option_b": "Hundurinn stekkur á sófa.",
+    "option_c": "Hundurinn veltir sér við skipun.",
+    "option_d": "Hundurinn slefar þegar hann finnur matarlykt."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008138",
+    "answer": "B",
+    "instruction": "Hvaða staðhæfing lýsir smástirni og halastjörnum?",
+    "option_a": "Stjörnueggjur eru loftkenndar og halastjörnur eru fastar.",
+    "option_b": "Stjörnueggjur eru fastar og halastjörnur eru loftkenndar.",
+    "option_c": "Smástirni og halastjörnur eru bæði fast efni.",
+    "option_d": "Smástirni og halastjarna eru bæði gasríkar."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402104",
+    "answer": "D",
+    "instruction": "Ef eiturefnum væri hent í tjörn væri líklegast að það myndi",
+    "option_a": "aukningu súrefnis í tjörninni.",
+    "option_b": "plöntur við tjörnina vaxa hraðar.",
+    "option_c": "eiturefnin sem hafa engin áhrif á tjörnina.",
+    "option_d": "fiskur í tjörninni skaðast eða deyr af."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7086013",
+    "answer": "D",
+    "instruction": "Humboldt-fljótssvæðið er ein mikilvægasta uppspretta nokkurra óendurnýjanlegra auðlinda. Hvaða óendurnýjanlegu auðlindir eru framleiddar úr Humboldt-fljótssvæðinu?",
+    "option_a": "kola úr fjallendi",
+    "option_b": "Olía og gas úr jarðhitageymum",
+    "option_c": "rafmagns frá vatnsaflsvirkjunum",
+    "option_d": "Steinefni úr námugreftri gulls, silfurs og kopars"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7248238",
+    "answer": "D",
+    "instruction": "Moskítófiskar sem finnast á eyjunum Bahama-eyjum lifa í ýmsum einangruðum ferskvatnslónum sem áður fyrr voru ein vatnshlot. Þegar nokkrir karl- og kvenmoskítófiskar eru teknir úr tveimur einangruðum tjörnum og settir í eina tjörn er kynbótavilji hvers moskítófisks fyrir fisk úr hans eigin upprunalegu tjörn. Hvort þeirra er líklegast til að hafa leitt til þessa kynbótavilja?",
+    "option_a": "Fæðuframboð hafði áhrif á kynbótavilja fiskanna.",
+    "option_b": "Samkeppni um hentugt makaval hafði áhrif á kynbótavilja.",
+    "option_c": "Rándýr í tjörninni höfðu áhrif á kynbótavilja fiskanna.",
+    "option_d": "Sérhæfing vegna einangrunar í æxlunarskyni hafði áhrif á kynbótavilja."
+  }
+]
