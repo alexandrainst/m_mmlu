@@ -19,12 +19,12 @@ def get_translator(target_lang, dryrun:bool = False) -> Callable:
         if target_lang == "is":
             with open("greynir_apikey.txt", "r") as f:
                 greynir_key = f.read().strip()
-            translate_text = lambda x: translate_en_to_is(greynir_key, [unidecode.unidecode(x)]).translations[0]["translatedText"]
+            translate_text = lambda x, **kwargs: translate_en_to_is(greynir_key, [unidecode.unidecode(x)]).translations[0]["translatedText"]
         else:
             with open("deepl_key.txt", "r") as key_file:
                 auth_key = key_file.read().strip()
             translator = Translator(auth_key)
-            translate_text = lambda x: translator.translate_text(x, source_lang="en", target_lang=target_lang, tag_handling="xml", preserve_formatting=True).text
+            translate_text = lambda x, **kwargs: translator.translate_text(x, source_lang="en", target_lang=target_lang, tag_handling="xml", preserve_formatting=True, **kwargs).text
     return translate_text
 
 # "Manually" try to fix xml errors that shows up in the translation
